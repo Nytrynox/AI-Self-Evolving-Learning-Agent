@@ -1,0 +1,44 @@
+{
+  "~/Desktop": {
+    "path": "~/Desktop",
+    "what_is_there": "Contains 2 items",
+    "file_count": 2,
+    "discovered": "2025-12-01T22:14:59.349153",
+    "last_checked": "2025-12-01T22:14:59.349157"
+  },
+  "~/Downloads": {
+    "path": "~/Downloads",
+    "what_is_there": "Contains 12 items",
+    "file_count": 12,
+    "discovered": "2025-12-01T22:14:59.349556",
+    "last_checked": "2025-12-01T22:14:59.349559"
+  },
+  "~/Documents": {
+    "path": "~/Documents",
+    "what_is_there": "Contains 30 items",
+    "file_count": 30,
+    "discovered": "2025-12-01T22:14:59.350079",
+    "last_checked": "2025-12-01T22:14:59.350084"
+  },
+  "~/Applications": {
+    "path": "~/Applications",
+    "what_is_there": "Contains 2 items",
+    "file_count": 2,
+    "discovered": "2025-12-01T22:14:59.350302",
+    "last_checked": "2025-12-01T22:14:59.350305"
+  },
+  "/Users/karthik/Desktop": {
+    "path": "/Users/karthik/Desktop",
+    "what_is_there": "Desktop with 2 items",
+    "file_count": 2,
+    "discovered": "2025-12-01T21:44:53.996135",
+    "last_checked": "2025-12-01T21:44:53.996145"
+  },
+  "/Users/karthik/Downloads": {
+    "path": "/Users/karthik/Downloads",
+    "what_is_there": "Downloads with 12 items",
+    "file_count": 12,
+    "discovered": "2025-11-30T14:32:47.758357",
+    "last_checked": "2025-11-30T14:32:47.758374"
+  }
+}

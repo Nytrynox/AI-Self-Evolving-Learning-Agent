@@ -1,0 +1,6012 @@
+{
+  "try_shortcut_works_in_Python": {
+    "observations": [
+      {
+        "observation": "try_shortcut succeeded in Python",
+        "time": "2025-11-29T17:27:40.024553"
+      },
+      {
+        "observation": "try_shortcut succeeded in Python",
+        "time": "2025-11-29T19:32:51.855716"
+      },
+      {
+        "observation": "try_shortcut succeeded in Python",
+        "time": "2025-11-29T19:32:53.938618"
+      },
+      {
+        "observation": "try_shortcut succeeded in Python",
+        "time": "2025-11-30T07:21:06.985569"
+      },
+      {
+        "observation": "try_shortcut succeeded in Python",
+        "time": "2025-11-30T07:21:09.025274"
+      },
+      {
+        "observation": "try_shortcut succeeded in Python",
+        "time": "2025-11-30T10:51:05.222625"
+      },
+      {
+        "observation": "try_shortcut succeeded in Python",
+        "time": "2025-11-30T10:52:07.595410"
+      },
+      {
+        "observation": "try_shortcut succeeded in Python",
+        "time": "2025-11-30T10:52:15.688983"
+      },
+      {
+        "observation": "try_shortcut succeeded in Python",
+        "time": "2025-11-30T11:05:32.057889"
+      },
+      {
+        "observation": "try_shortcut succeeded in Python",
+        "time": "2025-11-30T11:06:04.255556"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:27:40.024552"
+  },
+  "get_system_info_works_in_Python": {
+    "observations": [
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-29T17:28:45.740789"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-29T17:47:12.066023"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-29T19:19:34.569337"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-29T19:37:33.966190"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-29T19:38:14.205855"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-29T19:38:30.466510"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-30T07:22:20.970424"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-30T07:22:29.097892"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-30T10:20:21.309434"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-30T10:20:29.408182"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-30T10:38:06.234063"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-30T10:50:28.411090"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-30T10:50:34.923731"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-30T10:51:39.109207"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-30T10:51:55.153213"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-30T10:52:19.222864"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-30T11:05:23.717018"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-30T11:05:33.842906"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-30T11:06:28.124964"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-30T11:06:36.321091"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-30T14:29:23.514233"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-30T14:29:24.024164"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-30T21:09:09.540011"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-11-30T21:09:10.479470"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-12-01T01:35:09.643801"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-12-01T01:35:10.841643"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-12-01T01:35:22.347084"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-12-01T14:22:51.543495"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-12-01T14:39:20.896514"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-12-01T21:23:59.966898"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-12-01T21:45:04.380439"
+      },
+      {
+        "observation": "get_system_info succeeded in Python",
+        "time": "2025-12-01T22:14:29.947027"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:28:45.740788"
+  },
+  "check_clipboard_works_in_Python": {
+    "observations": [
+      {
+        "observation": "check_clipboard succeeded in Python",
+        "time": "2025-11-29T17:28:48.236693"
+      },
+      {
+        "observation": "check_clipboard succeeded in Python",
+        "time": "2025-11-29T17:47:14.044326"
+      },
+      {
+        "observation": "check_clipboard succeeded in Python",
+        "time": "2025-11-29T19:19:36.684395"
+      },
+      {
+        "observation": "check_clipboard succeeded in Python",
+        "time": "2025-11-29T19:37:36.508849"
+      },
+      {
+        "observation": "check_clipboard succeeded in Python",
+        "time": "2025-11-29T19:38:16.280296"
+      },
+      {
+        "observation": "check_clipboard succeeded in Python",
+        "time": "2025-11-29T19:38:24.326060"
+      },
+      {
+        "observation": "check_clipboard succeeded in Python",
+        "time": "2025-11-29T19:38:32.459868"
+      },
+      {
+        "observation": "check_clipboard succeeded in Python",
+        "time": "2025-11-30T07:22:22.986449"
+      },
+      {
+        "observation": "check_clipboard succeeded in Python",
+        "time": "2025-11-30T10:20:23.315989"
+      },
+      {
+        "observation": "check_clipboard succeeded in Python",
+        "time": "2025-11-30T10:38:08.352850"
+      },
+      {
+        "observation": "check_clipboard succeeded in Python",
+        "time": "2025-11-30T10:51:07.008640"
+      },
+      {
+        "observation": "check_clipboard succeeded in Python",
+        "time": "2025-11-30T10:52:21.352970"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:28:48.236692"
+  },
+  "take_screenshot_works_in_Python": {
+    "observations": [
+      {
+        "observation": "take_screenshot succeeded in Python",
+        "time": "2025-11-29T17:28:50.435387"
+      },
+      {
+        "observation": "take_screenshot succeeded in Python",
+        "time": "2025-11-29T17:47:16.183017"
+      },
+      {
+        "observation": "take_screenshot succeeded in Python",
+        "time": "2025-11-29T19:19:38.867812"
+      },
+      {
+        "observation": "take_screenshot succeeded in Python",
+        "time": "2025-11-29T19:37:38.173379"
+      },
+      {
+        "observation": "take_screenshot succeeded in Python",
+        "time": "2025-11-29T19:38:18.584783"
+      },
+      {
+        "observation": "take_screenshot succeeded in Python",
+        "time": "2025-11-29T19:38:26.480074"
+      },
+      {
+        "observation": "take_screenshot succeeded in Python",
+        "time": "2025-11-29T19:38:34.524217"
+      },
+      {
+        "observation": "take_screenshot succeeded in Python",
+        "time": "2025-11-30T07:22:25.172540"
+      },
+      {
+        "observation": "take_screenshot succeeded in Python",
+        "time": "2025-11-30T10:20:25.440342"
+      },
+      {
+        "observation": "take_screenshot succeeded in Python",
+        "time": "2025-11-30T10:38:10.530009"
+      },
+      {
+        "observation": "take_screenshot succeeded in Python",
+        "time": "2025-11-30T10:51:01.184101"
+      },
+      {
+        "observation": "take_screenshot succeeded in Python",
+        "time": "2025-11-30T10:51:41.293334"
+      },
+      {
+        "observation": "take_screenshot succeeded in Python",
+        "time": "2025-11-30T10:52:17.532742"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:28:50.435384"
+  },
+  "open_finder_works_in_Python": {
+    "observations": [
+      {
+        "observation": "open_finder succeeded in Python",
+        "time": "2025-11-29T17:28:54.358713"
+      },
+      {
+        "observation": "open_finder succeeded in Python",
+        "time": "2025-11-29T19:32:59.774907"
+      },
+      {
+        "observation": "open_finder succeeded in Python",
+        "time": "2025-11-29T19:37:09.768525"
+      },
+      {
+        "observation": "open_finder succeeded in Python",
+        "time": "2025-11-30T10:51:09.119855"
+      },
+      {
+        "observation": "open_finder succeeded in Python",
+        "time": "2025-11-30T11:05:35.880345"
+      },
+      {
+        "observation": "open_finder succeeded in Python",
+        "time": "2025-11-30T11:06:20.168689"
+      }
+    ],
+    "confidence": 0.9000000000000001,
+    "discovered": "2025-11-29T17:28:54.358711"
+  },
+  "speak_thought_works_in_Python": {
+    "observations": [
+      {
+        "observation": "speak_thought succeeded in Python",
+        "time": "2025-11-29T17:28:54.403529"
+      },
+      {
+        "observation": "speak_thought succeeded in Python",
+        "time": "2025-11-29T19:19:42.832709"
+      },
+      {
+        "observation": "speak_thought succeeded in Python",
+        "time": "2025-11-29T19:37:02.059824"
+      },
+      {
+        "observation": "speak_thought succeeded in Python",
+        "time": "2025-11-29T19:37:42.464009"
+      },
+      {
+        "observation": "speak_thought succeeded in Python",
+        "time": "2025-11-29T19:38:23.688107"
+      },
+      {
+        "observation": "speak_thought succeeded in Python",
+        "time": "2025-11-29T19:38:30.751809"
+      },
+      {
+        "observation": "speak_thought succeeded in Python",
+        "time": "2025-11-30T07:22:29.864019"
+      },
+      {
+        "observation": "speak_thought succeeded in Python",
+        "time": "2025-11-30T10:20:29.562241"
+      },
+      {
+        "observation": "speak_thought succeeded in Python",
+        "time": "2025-11-30T10:38:14.951005"
+      },
+      {
+        "observation": "speak_thought succeeded in Python",
+        "time": "2025-11-30T10:50:28.559548"
+      },
+      {
+        "observation": "speak_thought succeeded in Python",
+        "time": "2025-11-30T10:51:59.259524"
+      },
+      {
+        "observation": "speak_thought succeeded in Python",
+        "time": "2025-11-30T10:52:08.919938"
+      },
+      {
+        "observation": "speak_thought succeeded in Python",
+        "time": "2025-11-30T11:06:00.231005"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:28:54.403526"
+  },
+  "explore_desktop_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-29T17:28:56.236729"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-29T17:29:04.152544"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-29T17:29:12.143271"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-29T17:30:16.349553"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-29T17:30:32.426581"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-29T17:32:32.711113"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-29T17:33:04.834457"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-29T17:33:45.028488"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-29T17:34:09.184972"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-29T17:34:49.414330"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-29T17:36:25.632560"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-29T19:33:01.535979"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-29T19:34:38.268440"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-29T19:34:46.323086"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-29T19:34:54.415301"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-29T19:35:26.750620"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-29T19:36:15.086078"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-29T19:36:31.129343"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-29T19:37:11.380608"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-29T19:37:19.390414"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-30T10:39:14.500609"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-30T10:51:11.008561"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-30T10:51:19.016852"
+      },
+      {
+        "observation": "explore_desktop succeeded in Finder",
+        "time": "2025-11-30T11:05:43.810745"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:28:56.236727"
+  },
+  "click_here_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T17:28:58.394115"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T17:29:06.370202"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T17:29:14.401659"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T17:30:10.572324"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T17:30:18.586734"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T17:30:34.620540"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T17:30:58.666530"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T17:32:34.967500"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T17:32:42.939075"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T17:32:51.000976"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T17:32:59.056404"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T17:33:07.040999"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T17:33:15.059443"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T17:33:23.139347"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T17:33:47.223409"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T17:34:11.401709"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T17:34:51.540026"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T17:34:59.608680"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T17:36:27.851498"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T17:36:43.952925"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T19:33:03.787176"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T19:33:11.769270"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T19:33:35.988013"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T19:34:40.534674"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T19:34:48.680337"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T19:34:56.756676"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T19:35:04.700848"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T19:35:28.958747"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T19:35:45.035491"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T19:36:17.240071"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T19:36:33.392519"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T19:37:13.594484"
+      },
+      {
+        "observation": "click_here succeeded in Finder",
+        "time": "2025-11-29T19:37:21.654521"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:28:58.394113"
+  },
+  "observe_wait_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:29:00.691839"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:29:09.325129"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:29:16.865909"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:29:24.853884"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:29:57.259249"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:30:05.716793"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:30:21.277416"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:30:29.766481"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:30:37.294151"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:30:45.826816"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:30:52.984868"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:32:38.094124"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:33:10.227553"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:33:33.622763"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:33:49.849113"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:33:57.766698"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:34:05.793667"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:34:14.093286"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:34:22.318178"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:34:30.539957"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:34:38.081890"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:34:54.238619"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:36:30.316818"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:36:38.741133"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T17:36:54.806565"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T19:33:06.444873"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T19:33:22.156801"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T19:33:30.740896"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T19:33:46.530234"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T19:34:03.106951"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T19:34:11.547051"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T19:34:19.182386"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T19:34:35.354218"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T19:34:43.328135"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T19:34:51.424902"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T19:34:59.557539"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T19:35:23.667618"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T19:35:31.807452"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T19:35:39.989986"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T19:35:56.224739"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T19:36:04.291255"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T19:36:12.406714"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T19:36:20.278280"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T19:36:28.137700"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T19:36:35.794999"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T19:36:44.256362"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-29T19:37:16.755515"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-30T10:39:17.307383"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-30T10:39:55.234236"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-30T11:05:42.330909"
+      },
+      {
+        "observation": "observe_wait succeeded in Finder",
+        "time": "2025-11-30T11:05:55.041647"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:29:00.691837"
+  },
+  "open_finder_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "open_finder succeeded in Finder",
+        "time": "2025-11-29T17:29:02.234389"
+      },
+      {
+        "observation": "open_finder succeeded in Finder",
+        "time": "2025-11-29T17:29:10.228105"
+      },
+      {
+        "observation": "open_finder succeeded in Finder",
+        "time": "2025-11-29T17:30:14.461950"
+      },
+      {
+        "observation": "open_finder succeeded in Finder",
+        "time": "2025-11-29T17:30:30.475623"
+      },
+      {
+        "observation": "open_finder succeeded in Finder",
+        "time": "2025-11-29T17:33:02.932081"
+      },
+      {
+        "observation": "open_finder succeeded in Finder",
+        "time": "2025-11-29T17:33:43.115267"
+      },
+      {
+        "observation": "open_finder succeeded in Finder",
+        "time": "2025-11-29T17:34:07.236619"
+      },
+      {
+        "observation": "open_finder succeeded in Finder",
+        "time": "2025-11-29T19:34:36.372206"
+      },
+      {
+        "observation": "open_finder succeeded in Finder",
+        "time": "2025-11-29T19:34:44.397054"
+      },
+      {
+        "observation": "open_finder succeeded in Finder",
+        "time": "2025-11-29T19:34:52.591680"
+      },
+      {
+        "observation": "open_finder succeeded in Finder",
+        "time": "2025-11-29T19:35:24.851949"
+      },
+      {
+        "observation": "open_finder succeeded in Finder",
+        "time": "2025-11-29T19:36:13.097228"
+      },
+      {
+        "observation": "open_finder succeeded in Finder",
+        "time": "2025-11-29T19:36:29.246416"
+      },
+      {
+        "observation": "open_finder succeeded in Finder",
+        "time": "2025-11-29T19:37:17.545213"
+      },
+      {
+        "observation": "open_finder succeeded in Finder",
+        "time": "2025-11-30T11:06:34.186733"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:29:02.234387"
+  },
+  "try_shortcut_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T17:29:18.440870"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T17:29:20.447177"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T17:30:38.668482"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T17:30:40.646156"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T17:30:46.699696"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T17:30:48.701286"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T17:33:27.186453"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T17:33:29.181734"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T17:34:15.456458"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T17:34:17.452919"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T17:34:23.451761"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T17:34:25.517362"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T17:34:31.568422"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T17:34:33.583013"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T19:33:15.855445"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T19:33:17.857586"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T19:34:12.323815"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T19:34:14.311317"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T19:34:28.462090"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T19:34:30.459933"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T19:35:33.009171"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T19:35:34.972769"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T19:35:57.211974"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T19:35:59.096375"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T19:36:21.330108"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T19:36:23.386386"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T19:36:37.456386"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-29T19:36:39.436289"
+      },
+      {
+        "observation": "try_shortcut succeeded in Finder",
+        "time": "2025-11-30T10:51:27.251566"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:29:18.440859"
+  },
+  "press_key_random_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T17:29:22.421339"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T17:30:26.588919"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T17:30:42.634058"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T17:30:50.634622"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T17:33:31.192400"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T17:33:55.294673"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T17:34:03.389797"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T17:34:19.394905"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T17:34:27.505618"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T17:34:35.522111"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T17:36:35.896446"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T17:36:51.952252"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T17:36:59.941408"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T19:33:19.833441"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T19:34:00.196554"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T19:34:08.559210"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T19:34:16.295090"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T19:34:32.429845"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T19:35:20.887604"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T19:35:36.976894"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T19:35:53.073815"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T19:36:01.107973"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T19:36:09.257490"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T19:36:25.391332"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-29T19:36:41.458209"
+      },
+      {
+        "observation": "press_key_random succeeded in Finder",
+        "time": "2025-11-30T11:05:38.021207"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:29:22.421336"
+  },
+  "open_spotlight_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "open_spotlight succeeded in Finder",
+        "time": "2025-11-29T17:29:26.463991"
+      },
+      {
+        "observation": "open_spotlight succeeded in Finder",
+        "time": "2025-11-29T17:29:58.668496"
+      },
+      {
+        "observation": "open_spotlight succeeded in Finder",
+        "time": "2025-11-29T17:31:02.748806"
+      },
+      {
+        "observation": "open_spotlight succeeded in Finder",
+        "time": "2025-11-29T17:34:39.533866"
+      },
+      {
+        "observation": "open_spotlight succeeded in Finder",
+        "time": "2025-11-29T17:35:03.635303"
+      },
+      {
+        "observation": "open_spotlight succeeded in Finder",
+        "time": "2025-11-29T19:33:23.939358"
+      },
+      {
+        "observation": "open_spotlight succeeded in Finder",
+        "time": "2025-11-29T19:33:40.051780"
+      },
+      {
+        "observation": "open_spotlight succeeded in Finder",
+        "time": "2025-11-30T10:39:48.516816"
+      },
+      {
+        "observation": "open_spotlight succeeded in Finder",
+        "time": "2025-11-30T10:51:17.278857"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:29:26.463988"
+  },
+  "open_safari_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "open_safari succeeded in Finder",
+        "time": "2025-11-29T17:29:28.306413"
+      },
+      {
+        "observation": "open_safari succeeded in Finder",
+        "time": "2025-11-29T17:30:00.453071"
+      },
+      {
+        "observation": "open_safari succeeded in Finder",
+        "time": "2025-11-29T17:31:04.595970"
+      },
+      {
+        "observation": "open_safari succeeded in Finder",
+        "time": "2025-11-29T17:34:41.392529"
+      },
+      {
+        "observation": "open_safari succeeded in Finder",
+        "time": "2025-11-29T17:35:05.468982"
+      },
+      {
+        "observation": "open_safari succeeded in Finder",
+        "time": "2025-11-29T19:33:25.938007"
+      },
+      {
+        "observation": "open_safari succeeded in Finder",
+        "time": "2025-11-29T19:33:42.011538"
+      },
+      {
+        "observation": "open_safari succeeded in Finder",
+        "time": "2025-11-30T10:39:50.413237"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:29:28.306404"
+  },
+  "switch_app_works_in_Safari": {
+    "observations": [
+      {
+        "observation": "switch_app succeeded in Safari",
+        "time": "2025-11-29T17:29:31.235570"
+      },
+      {
+        "observation": "switch_app succeeded in Safari",
+        "time": "2025-11-29T17:29:54.603866"
+      },
+      {
+        "observation": "switch_app succeeded in Safari",
+        "time": "2025-11-29T17:30:02.629724"
+      },
+      {
+        "observation": "switch_app succeeded in Safari",
+        "time": "2025-11-29T17:31:06.737299"
+      },
+      {
+        "observation": "switch_app succeeded in Safari",
+        "time": "2025-11-29T17:34:43.503831"
+      },
+      {
+        "observation": "switch_app succeeded in Safari",
+        "time": "2025-11-29T17:35:07.604733"
+      },
+      {
+        "observation": "switch_app succeeded in Safari",
+        "time": "2025-11-29T17:35:31.739987"
+      },
+      {
+        "observation": "switch_app succeeded in Safari",
+        "time": "2025-11-29T17:35:55.762681"
+      },
+      {
+        "observation": "switch_app succeeded in Safari",
+        "time": "2025-11-29T17:37:08.091301"
+      },
+      {
+        "observation": "switch_app succeeded in Safari",
+        "time": "2025-11-29T17:37:16.043809"
+      },
+      {
+        "observation": "switch_app succeeded in Safari",
+        "time": "2025-11-29T19:32:48.285436"
+      },
+      {
+        "observation": "switch_app succeeded in Safari",
+        "time": "2025-11-29T19:33:28.034993"
+      },
+      {
+        "observation": "switch_app succeeded in Safari",
+        "time": "2025-11-29T19:33:44.124422"
+      },
+      {
+        "observation": "switch_app succeeded in Safari",
+        "time": "2025-11-29T19:37:30.132451"
+      },
+      {
+        "observation": "switch_app succeeded in Safari",
+        "time": "2025-11-29T19:37:56.231327"
+      },
+      {
+        "observation": "switch_app succeeded in Safari",
+        "time": "2025-11-30T10:37:22.347799"
+      },
+      {
+        "observation": "switch_app succeeded in Safari",
+        "time": "2025-11-30T10:38:02.613607"
+      },
+      {
+        "observation": "switch_app succeeded in Safari",
+        "time": "2025-11-30T10:39:52.551622"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:29:31.235567"
+  },
+  "observe_wait_works_in_Safari": {
+    "observations": [
+      {
+        "observation": "observe_wait succeeded in Safari",
+        "time": "2025-11-29T17:29:33.746970"
+      },
+      {
+        "observation": "observe_wait succeeded in Safari",
+        "time": "2025-11-29T17:29:48.851362"
+      },
+      {
+        "observation": "observe_wait succeeded in Safari",
+        "time": "2025-11-29T17:31:09.684892"
+      },
+      {
+        "observation": "observe_wait succeeded in Safari",
+        "time": "2025-11-29T17:31:17.566777"
+      },
+      {
+        "observation": "observe_wait succeeded in Safari",
+        "time": "2025-11-29T17:31:25.276664"
+      },
+      {
+        "observation": "observe_wait succeeded in Safari",
+        "time": "2025-11-29T17:31:33.863198"
+      },
+      {
+        "observation": "observe_wait succeeded in Safari",
+        "time": "2025-11-29T17:31:41.243635"
+      },
+      {
+        "observation": "observe_wait succeeded in Safari",
+        "time": "2025-11-29T17:31:49.151322"
+      },
+      {
+        "observation": "observe_wait succeeded in Safari",
+        "time": "2025-11-29T17:32:06.005644"
+      },
+      {
+        "observation": "observe_wait succeeded in Safari",
+        "time": "2025-11-29T17:32:22.002042"
+      },
+      {
+        "observation": "observe_wait succeeded in Safari",
+        "time": "2025-11-29T17:32:30.089250"
+      },
+      {
+        "observation": "observe_wait succeeded in Safari",
+        "time": "2025-11-29T17:34:46.517272"
+      },
+      {
+        "observation": "observe_wait succeeded in Safari",
+        "time": "2025-11-29T17:35:10.495739"
+      },
+      {
+        "observation": "observe_wait succeeded in Safari",
+        "time": "2025-11-29T17:35:26.548670"
+      },
+      {
+        "observation": "observe_wait succeeded in Safari",
+        "time": "2025-11-29T17:35:34.557409"
+      },
+      {
+        "observation": "observe_wait succeeded in Safari",
+        "time": "2025-11-29T17:35:58.594598"
+      },
+      {
+        "observation": "observe_wait succeeded in Safari",
+        "time": "2025-11-29T17:36:06.175727"
+      },
+      {
+        "observation": "observe_wait succeeded in Safari",
+        "time": "2025-11-29T19:37:32.860765"
+      },
+      {
+        "observation": "observe_wait succeeded in Safari",
+        "time": "2025-11-29T19:37:57.855670"
+      },
+      {
+        "observation": "observe_wait succeeded in Safari",
+        "time": "2025-11-30T10:27:20.340500"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:29:33.746967"
+  },
+  "get_system_info_works_in_Safari": {
+    "observations": [
+      {
+        "observation": "get_system_info succeeded in Safari",
+        "time": "2025-11-29T17:29:34.301031"
+      },
+      {
+        "observation": "get_system_info succeeded in Safari",
+        "time": "2025-11-29T17:31:50.657175"
+      },
+      {
+        "observation": "get_system_info succeeded in Safari",
+        "time": "2025-11-29T17:35:11.440337"
+      },
+      {
+        "observation": "get_system_info succeeded in Safari",
+        "time": "2025-11-29T17:35:35.540581"
+      },
+      {
+        "observation": "get_system_info succeeded in Safari",
+        "time": "2025-11-29T17:36:07.637205"
+      },
+      {
+        "observation": "get_system_info succeeded in Safari",
+        "time": "2025-11-29T17:36:15.607070"
+      },
+      {
+        "observation": "get_system_info succeeded in Safari",
+        "time": "2025-11-29T19:38:22.640165"
+      },
+      {
+        "observation": "get_system_info succeeded in Safari",
+        "time": "2025-11-30T10:39:04.283982"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:29:34.301028"
+  },
+  "check_clipboard_works_in_Safari": {
+    "observations": [
+      {
+        "observation": "check_clipboard succeeded in Safari",
+        "time": "2025-11-29T17:29:36.340766"
+      },
+      {
+        "observation": "check_clipboard succeeded in Safari",
+        "time": "2025-11-29T17:31:52.614149"
+      },
+      {
+        "observation": "check_clipboard succeeded in Safari",
+        "time": "2025-11-29T17:35:13.401331"
+      },
+      {
+        "observation": "check_clipboard succeeded in Safari",
+        "time": "2025-11-29T17:35:37.502494"
+      },
+      {
+        "observation": "check_clipboard succeeded in Safari",
+        "time": "2025-11-29T17:36:09.552880"
+      },
+      {
+        "observation": "check_clipboard succeeded in Safari",
+        "time": "2025-11-29T17:36:17.633421"
+      },
+      {
+        "observation": "check_clipboard succeeded in Safari",
+        "time": "2025-11-30T10:39:06.218676"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:29:36.340763"
+  },
+  "take_screenshot_works_in_Safari": {
+    "observations": [
+      {
+        "observation": "take_screenshot succeeded in Safari",
+        "time": "2025-11-29T17:29:38.510505"
+      },
+      {
+        "observation": "take_screenshot succeeded in Safari",
+        "time": "2025-11-29T17:31:54.882387"
+      },
+      {
+        "observation": "take_screenshot succeeded in Safari",
+        "time": "2025-11-29T17:35:15.628013"
+      },
+      {
+        "observation": "take_screenshot succeeded in Safari",
+        "time": "2025-11-29T17:35:39.738083"
+      },
+      {
+        "observation": "take_screenshot succeeded in Safari",
+        "time": "2025-11-29T17:36:11.862910"
+      },
+      {
+        "observation": "take_screenshot succeeded in Safari",
+        "time": "2025-11-29T17:36:19.825655"
+      },
+      {
+        "observation": "take_screenshot succeeded in Safari",
+        "time": "2025-11-30T10:39:08.378967"
+      },
+      {
+        "observation": "take_screenshot succeeded in Safari",
+        "time": "2025-11-30T10:51:45.383438"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:29:38.510501"
+  },
+  "speak_thought_works_in_Safari": {
+    "observations": [
+      {
+        "observation": "speak_thought succeeded in Safari",
+        "time": "2025-11-29T17:29:42.429832"
+      },
+      {
+        "observation": "speak_thought succeeded in Safari",
+        "time": "2025-11-29T17:31:59.460948"
+      },
+      {
+        "observation": "speak_thought succeeded in Safari",
+        "time": "2025-11-29T17:35:20.524403"
+      },
+      {
+        "observation": "speak_thought succeeded in Safari",
+        "time": "2025-11-29T17:35:44.220565"
+      },
+      {
+        "observation": "speak_thought succeeded in Safari",
+        "time": "2025-11-29T17:36:15.496535"
+      },
+      {
+        "observation": "speak_thought succeeded in Safari",
+        "time": "2025-11-29T17:36:24.554329"
+      },
+      {
+        "observation": "speak_thought succeeded in Safari",
+        "time": "2025-11-30T10:39:12.947368"
+      },
+      {
+        "observation": "speak_thought succeeded in Safari",
+        "time": "2025-11-30T10:52:16.828612"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:29:42.429830"
+  },
+  "try_shortcut_works_in_Safari": {
+    "observations": [
+      {
+        "observation": "try_shortcut succeeded in Safari",
+        "time": "2025-11-29T17:29:42.605950"
+      },
+      {
+        "observation": "try_shortcut succeeded in Safari",
+        "time": "2025-11-29T17:29:44.565939"
+      },
+      {
+        "observation": "try_shortcut succeeded in Safari",
+        "time": "2025-11-29T17:31:10.767403"
+      },
+      {
+        "observation": "try_shortcut succeeded in Safari",
+        "time": "2025-11-29T17:31:12.765430"
+      },
+      {
+        "observation": "try_shortcut succeeded in Safari",
+        "time": "2025-11-29T17:31:26.837262"
+      },
+      {
+        "observation": "try_shortcut succeeded in Safari",
+        "time": "2025-11-29T17:31:28.799150"
+      },
+      {
+        "observation": "try_shortcut succeeded in Safari",
+        "time": "2025-11-29T17:31:58.993292"
+      },
+      {
+        "observation": "try_shortcut succeeded in Safari",
+        "time": "2025-11-29T17:32:00.860757"
+      },
+      {
+        "observation": "try_shortcut succeeded in Safari",
+        "time": "2025-11-29T17:35:59.739718"
+      },
+      {
+        "observation": "try_shortcut succeeded in Safari",
+        "time": "2025-11-29T17:36:01.824529"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:29:42.605949"
+  },
+  "press_key_random_works_in_Safari": {
+    "observations": [
+      {
+        "observation": "press_key_random succeeded in Safari",
+        "time": "2025-11-29T17:29:46.542600"
+      },
+      {
+        "observation": "press_key_random succeeded in Safari",
+        "time": "2025-11-29T17:31:14.783152"
+      },
+      {
+        "observation": "press_key_random succeeded in Safari",
+        "time": "2025-11-29T17:31:22.730916"
+      },
+      {
+        "observation": "press_key_random succeeded in Safari",
+        "time": "2025-11-29T17:31:30.753349"
+      },
+      {
+        "observation": "press_key_random succeeded in Safari",
+        "time": "2025-11-29T17:31:38.859267"
+      },
+      {
+        "observation": "press_key_random succeeded in Safari",
+        "time": "2025-11-29T17:31:46.860077"
+      },
+      {
+        "observation": "press_key_random succeeded in Safari",
+        "time": "2025-11-29T17:32:02.835310"
+      },
+      {
+        "observation": "press_key_random succeeded in Safari",
+        "time": "2025-11-29T17:32:18.924019"
+      },
+      {
+        "observation": "press_key_random succeeded in Safari",
+        "time": "2025-11-29T17:32:26.901399"
+      },
+      {
+        "observation": "press_key_random succeeded in Safari",
+        "time": "2025-11-29T17:35:23.685693"
+      },
+      {
+        "observation": "press_key_random succeeded in Safari",
+        "time": "2025-11-29T17:36:03.812608"
+      },
+      {
+        "observation": "press_key_random succeeded in Safari",
+        "time": "2025-11-30T10:51:47.289516"
+      },
+      {
+        "observation": "press_key_random succeeded in Safari",
+        "time": "2025-11-30T14:32:40.696416"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:29:46.542598"
+  },
+  "open_spotlight_works_in_Safari": {
+    "observations": [
+      {
+        "observation": "open_spotlight succeeded in Safari",
+        "time": "2025-11-29T17:29:50.626182"
+      },
+      {
+        "observation": "open_spotlight succeeded in Safari",
+        "time": "2025-11-29T17:35:27.703386"
+      },
+      {
+        "observation": "open_spotlight succeeded in Safari",
+        "time": "2025-11-29T17:35:51.768289"
+      },
+      {
+        "observation": "open_spotlight succeeded in Safari",
+        "time": "2025-11-30T10:51:51.352254"
+      },
+      {
+        "observation": "open_spotlight succeeded in Safari",
+        "time": "2025-11-30T10:52:01.550164"
+      }
+    ],
+    "confidence": 0.8,
+    "discovered": "2025-11-29T17:29:50.626180"
+  },
+  "open_safari_works_in_Safari": {
+    "observations": [
+      {
+        "observation": "open_safari succeeded in Safari",
+        "time": "2025-11-29T17:29:52.504044"
+      },
+      {
+        "observation": "open_safari succeeded in Safari",
+        "time": "2025-11-29T17:35:29.549781"
+      },
+      {
+        "observation": "open_safari succeeded in Safari",
+        "time": "2025-11-29T17:35:53.590702"
+      }
+    ],
+    "confidence": 0.6000000000000001,
+    "discovered": "2025-11-29T17:29:52.504042"
+  },
+  "move_mouse_explore_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "move_mouse_explore succeeded in Finder",
+        "time": "2025-11-29T17:30:07.199465"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Finder",
+        "time": "2025-11-29T17:30:55.633177"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Finder",
+        "time": "2025-11-29T17:32:40.034278"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Finder",
+        "time": "2025-11-29T17:32:47.811395"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Finder",
+        "time": "2025-11-29T17:32:56.089668"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Finder",
+        "time": "2025-11-29T17:33:11.997634"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Finder",
+        "time": "2025-11-29T17:33:19.660181"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Finder",
+        "time": "2025-11-29T17:34:56.105419"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Finder",
+        "time": "2025-11-29T17:36:40.617631"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Finder",
+        "time": "2025-11-29T19:33:08.499366"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Finder",
+        "time": "2025-11-29T19:33:33.006982"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Finder",
+        "time": "2025-11-29T19:35:01.724339"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Finder",
+        "time": "2025-11-29T19:35:41.539886"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Finder",
+        "time": "2025-11-30T10:39:27.411213"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Finder",
+        "time": "2025-11-30T10:51:32.125767"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:30:07.199463"
+  },
+  "move_mouse_center_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "move_mouse_center succeeded in Finder",
+        "time": "2025-11-29T17:30:09.184845"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Finder",
+        "time": "2025-11-29T17:30:57.235311"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Finder",
+        "time": "2025-11-29T17:32:41.524119"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Finder",
+        "time": "2025-11-29T17:32:49.601741"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Finder",
+        "time": "2025-11-29T17:32:57.603240"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Finder",
+        "time": "2025-11-29T17:33:13.658010"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Finder",
+        "time": "2025-11-29T17:33:21.692111"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Finder",
+        "time": "2025-11-29T17:34:58.190310"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Finder",
+        "time": "2025-11-29T17:36:42.524648"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Finder",
+        "time": "2025-11-29T19:33:10.339137"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Finder",
+        "time": "2025-11-29T19:33:34.545075"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Finder",
+        "time": "2025-11-29T19:35:03.284193"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Finder",
+        "time": "2025-11-29T19:35:43.552623"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Finder",
+        "time": "2025-11-30T10:39:29.019729"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Finder",
+        "time": "2025-11-30T10:51:21.800439"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Finder",
+        "time": "2025-11-30T10:51:33.816820"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:30:09.184835"
+  },
+  "scroll_down_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "scroll_down succeeded in Finder",
+        "time": "2025-11-29T17:30:12.597906"
+      },
+      {
+        "observation": "scroll_down succeeded in Finder",
+        "time": "2025-11-29T17:31:00.689337"
+      },
+      {
+        "observation": "scroll_down succeeded in Finder",
+        "time": "2025-11-29T17:32:44.965315"
+      },
+      {
+        "observation": "scroll_down succeeded in Finder",
+        "time": "2025-11-29T17:32:53.000045"
+      },
+      {
+        "observation": "scroll_down succeeded in Finder",
+        "time": "2025-11-29T17:33:01.032196"
+      },
+      {
+        "observation": "scroll_down succeeded in Finder",
+        "time": "2025-11-29T17:33:17.082568"
+      },
+      {
+        "observation": "scroll_down succeeded in Finder",
+        "time": "2025-11-29T17:33:25.128600"
+      },
+      {
+        "observation": "scroll_down succeeded in Finder",
+        "time": "2025-11-29T17:35:01.628520"
+      },
+      {
+        "observation": "scroll_down succeeded in Finder",
+        "time": "2025-11-29T17:36:45.902822"
+      },
+      {
+        "observation": "scroll_down succeeded in Finder",
+        "time": "2025-11-29T19:33:13.800521"
+      },
+      {
+        "observation": "scroll_down succeeded in Finder",
+        "time": "2025-11-29T19:33:37.928731"
+      },
+      {
+        "observation": "scroll_down succeeded in Finder",
+        "time": "2025-11-29T19:35:06.705982"
+      },
+      {
+        "observation": "scroll_down succeeded in Finder",
+        "time": "2025-11-29T19:35:46.978811"
+      },
+      {
+        "observation": "scroll_down succeeded in Finder",
+        "time": "2025-11-30T10:39:30.435433"
+      },
+      {
+        "observation": "scroll_down succeeded in Finder",
+        "time": "2025-11-30T11:05:56.018014"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:30:12.597904"
+  },
+  "type_test_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "type_test succeeded in Finder",
+        "time": "2025-11-29T17:30:23.137975"
+      },
+      {
+        "observation": "type_test succeeded in Finder",
+        "time": "2025-11-29T17:30:24.956509"
+      },
+      {
+        "observation": "type_test succeeded in Finder",
+        "time": "2025-11-29T17:33:51.625294"
+      },
+      {
+        "observation": "type_test succeeded in Finder",
+        "time": "2025-11-29T17:33:53.937502"
+      },
+      {
+        "observation": "type_test succeeded in Finder",
+        "time": "2025-11-29T17:33:59.630950"
+      },
+      {
+        "observation": "type_test succeeded in Finder",
+        "time": "2025-11-29T17:34:01.790074"
+      },
+      {
+        "observation": "type_test succeeded in Finder",
+        "time": "2025-11-29T17:36:32.485344"
+      },
+      {
+        "observation": "type_test succeeded in Finder",
+        "time": "2025-11-29T17:36:34.114085"
+      },
+      {
+        "observation": "type_test succeeded in Finder",
+        "time": "2025-11-29T17:36:48.402755"
+      },
+      {
+        "observation": "type_test succeeded in Finder",
+        "time": "2025-11-29T17:36:50.301935"
+      },
+      {
+        "observation": "type_test succeeded in Finder",
+        "time": "2025-11-29T17:36:56.297743"
+      },
+      {
+        "observation": "type_test succeeded in Finder",
+        "time": "2025-11-29T17:36:58.205456"
+      },
+      {
+        "observation": "type_test succeeded in Finder",
+        "time": "2025-11-29T19:33:56.716612"
+      },
+      {
+        "observation": "type_test succeeded in Finder",
+        "time": "2025-11-29T19:33:58.585465"
+      },
+      {
+        "observation": "type_test succeeded in Finder",
+        "time": "2025-11-29T19:34:04.591178"
+      },
+      {
+        "observation": "type_test succeeded in Finder",
+        "time": "2025-11-29T19:34:06.831890"
+      },
+      {
+        "observation": "type_test succeeded in Finder",
+        "time": "2025-11-29T19:35:17.499737"
+      },
+      {
+        "observation": "type_test succeeded in Finder",
+        "time": "2025-11-29T19:35:19.505459"
+      },
+      {
+        "observation": "type_test succeeded in Finder",
+        "time": "2025-11-29T19:35:49.653806"
+      },
+      {
+        "observation": "type_test succeeded in Finder",
+        "time": "2025-11-29T19:35:51.480438"
+      },
+      {
+        "observation": "type_test succeeded in Finder",
+        "time": "2025-11-29T19:36:05.806754"
+      },
+      {
+        "observation": "type_test succeeded in Finder",
+        "time": "2025-11-29T19:36:07.788710"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:30:23.137974"
+  },
+  "type_test_works_in_Safari": {
+    "observations": [
+      {
+        "observation": "type_test succeeded in Safari",
+        "time": "2025-11-29T17:31:19.053936"
+      },
+      {
+        "observation": "type_test succeeded in Safari",
+        "time": "2025-11-29T17:31:21.351625"
+      },
+      {
+        "observation": "type_test succeeded in Safari",
+        "time": "2025-11-29T17:31:35.097426"
+      },
+      {
+        "observation": "type_test succeeded in Safari",
+        "time": "2025-11-29T17:31:37.220844"
+      },
+      {
+        "observation": "type_test succeeded in Safari",
+        "time": "2025-11-29T17:31:43.227583"
+      },
+      {
+        "observation": "type_test succeeded in Safari",
+        "time": "2025-11-29T17:31:45.115790"
+      },
+      {
+        "observation": "type_test succeeded in Safari",
+        "time": "2025-11-29T17:32:15.549791"
+      },
+      {
+        "observation": "type_test succeeded in Safari",
+        "time": "2025-11-29T17:32:17.543027"
+      },
+      {
+        "observation": "type_test succeeded in Safari",
+        "time": "2025-11-29T17:32:23.304171"
+      },
+      {
+        "observation": "type_test succeeded in Safari",
+        "time": "2025-11-29T17:32:25.353906"
+      },
+      {
+        "observation": "type_test succeeded in Safari",
+        "time": "2025-11-29T17:35:20.112481"
+      },
+      {
+        "observation": "type_test succeeded in Safari",
+        "time": "2025-11-29T17:35:22.086047"
+      },
+      {
+        "observation": "type_test succeeded in Safari",
+        "time": "2025-11-29T19:38:06.639436"
+      },
+      {
+        "observation": "type_test succeeded in Safari",
+        "time": "2025-11-29T19:38:08.590701"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:31:19.053934"
+  },
+  "move_mouse_explore_works_in_Safari": {
+    "observations": [
+      {
+        "observation": "move_mouse_explore succeeded in Safari",
+        "time": "2025-11-29T17:32:07.451756"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Safari",
+        "time": "2025-11-29T17:35:44.190761"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Safari",
+        "time": "2025-11-29T19:37:58.904860"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Safari",
+        "time": "2025-11-30T10:27:22.012733"
+      }
+    ],
+    "confidence": 0.7,
+    "discovered": "2025-11-29T17:32:07.451752"
+  },
+  "move_mouse_center_works_in_Safari": {
+    "observations": [
+      {
+        "observation": "move_mouse_center succeeded in Safari",
+        "time": "2025-11-29T17:32:09.428447"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Safari",
+        "time": "2025-11-29T17:35:46.248696"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Safari",
+        "time": "2025-11-29T19:38:00.722031"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Safari",
+        "time": "2025-11-30T10:27:23.496870"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Safari",
+        "time": "2025-11-30T10:51:49.918202"
+      }
+    ],
+    "confidence": 0.8,
+    "discovered": "2025-11-29T17:32:09.428446"
+  },
+  "click_here_works_in_Safari": {
+    "observations": [
+      {
+        "observation": "click_here succeeded in Safari",
+        "time": "2025-11-29T17:32:10.900604"
+      },
+      {
+        "observation": "click_here succeeded in Safari",
+        "time": "2025-11-29T17:35:47.719226"
+      },
+      {
+        "observation": "click_here succeeded in Safari",
+        "time": "2025-11-29T19:38:02.119554"
+      }
+    ],
+    "confidence": 0.6000000000000001,
+    "discovered": "2025-11-29T17:32:10.900595"
+  },
+  "scroll_down_works_in_Safari": {
+    "observations": [
+      {
+        "observation": "scroll_down succeeded in Safari",
+        "time": "2025-11-29T17:32:12.894805"
+      },
+      {
+        "observation": "scroll_down succeeded in Safari",
+        "time": "2025-11-29T17:35:49.717468"
+      },
+      {
+        "observation": "scroll_down succeeded in Safari",
+        "time": "2025-11-29T19:38:04.132268"
+      }
+    ],
+    "confidence": 0.6000000000000001,
+    "discovered": "2025-11-29T17:32:12.894803"
+  },
+  "open_finder_works_in_Safari": {
+    "observations": [
+      {
+        "observation": "open_finder succeeded in Safari",
+        "time": "2025-11-29T17:32:30.923079"
+      },
+      {
+        "observation": "open_finder succeeded in Safari",
+        "time": "2025-11-29T17:34:47.363830"
+      },
+      {
+        "observation": "open_finder succeeded in Safari",
+        "time": "2025-11-29T17:36:23.763183"
+      }
+    ],
+    "confidence": 0.6000000000000001,
+    "discovered": "2025-11-29T17:32:30.923077"
+  },
+  "get_system_info_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "get_system_info succeeded in Finder",
+        "time": "2025-11-29T17:33:34.992099"
+      },
+      {
+        "observation": "get_system_info succeeded in Finder",
+        "time": "2025-11-29T19:33:47.943954"
+      },
+      {
+        "observation": "get_system_info succeeded in Finder",
+        "time": "2025-11-29T19:34:20.154066"
+      },
+      {
+        "observation": "get_system_info succeeded in Finder",
+        "time": "2025-11-29T19:35:08.570621"
+      },
+      {
+        "observation": "get_system_info succeeded in Finder",
+        "time": "2025-11-29T19:36:45.357163"
+      },
+      {
+        "observation": "get_system_info succeeded in Finder",
+        "time": "2025-11-29T19:36:53.438666"
+      },
+      {
+        "observation": "get_system_info succeeded in Finder",
+        "time": "2025-11-30T10:51:12.968776"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:33:34.992097"
+  },
+  "check_clipboard_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "check_clipboard succeeded in Finder",
+        "time": "2025-11-29T17:33:36.976094"
+      },
+      {
+        "observation": "check_clipboard succeeded in Finder",
+        "time": "2025-11-29T19:33:49.912847"
+      },
+      {
+        "observation": "check_clipboard succeeded in Finder",
+        "time": "2025-11-29T19:34:22.214513"
+      },
+      {
+        "observation": "check_clipboard succeeded in Finder",
+        "time": "2025-11-29T19:35:10.550203"
+      },
+      {
+        "observation": "check_clipboard succeeded in Finder",
+        "time": "2025-11-29T19:36:47.334706"
+      },
+      {
+        "observation": "check_clipboard succeeded in Finder",
+        "time": "2025-11-29T19:36:55.539885"
+      },
+      {
+        "observation": "check_clipboard succeeded in Finder",
+        "time": "2025-11-30T10:51:23.023030"
+      },
+      {
+        "observation": "check_clipboard succeeded in Finder",
+        "time": "2025-11-30T11:05:45.813698"
+      },
+      {
+        "observation": "check_clipboard succeeded in Finder",
+        "time": "2025-11-30T11:05:51.841534"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:33:36.976090"
+  },
+  "take_screenshot_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "take_screenshot succeeded in Finder",
+        "time": "2025-11-29T17:33:39.195426"
+      },
+      {
+        "observation": "take_screenshot succeeded in Finder",
+        "time": "2025-11-29T19:33:52.247975"
+      },
+      {
+        "observation": "take_screenshot succeeded in Finder",
+        "time": "2025-11-29T19:34:24.474596"
+      },
+      {
+        "observation": "take_screenshot succeeded in Finder",
+        "time": "2025-11-29T19:35:12.856818"
+      },
+      {
+        "observation": "take_screenshot succeeded in Finder",
+        "time": "2025-11-29T19:36:49.667457"
+      },
+      {
+        "observation": "take_screenshot succeeded in Finder",
+        "time": "2025-11-29T19:36:57.774032"
+      },
+      {
+        "observation": "take_screenshot succeeded in Finder",
+        "time": "2025-11-30T10:51:25.177207"
+      },
+      {
+        "observation": "take_screenshot succeeded in Finder",
+        "time": "2025-11-30T11:05:50.047510"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:33:39.195418"
+  },
+  "speak_thought_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "speak_thought succeeded in Finder",
+        "time": "2025-11-29T17:33:42.898414"
+      },
+      {
+        "observation": "speak_thought succeeded in Finder",
+        "time": "2025-11-29T19:33:56.873861"
+      },
+      {
+        "observation": "speak_thought succeeded in Finder",
+        "time": "2025-11-29T19:34:28.634381"
+      },
+      {
+        "observation": "speak_thought succeeded in Finder",
+        "time": "2025-11-29T19:35:18.183639"
+      },
+      {
+        "observation": "speak_thought succeeded in Finder",
+        "time": "2025-11-29T19:36:53.856979"
+      },
+      {
+        "observation": "speak_thought succeeded in Finder",
+        "time": "2025-11-30T10:51:17.020481"
+      },
+      {
+        "observation": "speak_thought succeeded in Finder",
+        "time": "2025-11-30T10:51:30.883028"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:33:42.898410"
+  },
+  "observe_wait_works_in_Python": {
+    "observations": [
+      {
+        "observation": "observe_wait succeeded in Python",
+        "time": "2025-11-29T17:37:02.544474"
+      },
+      {
+        "observation": "observe_wait succeeded in Python",
+        "time": "2025-11-29T17:37:10.894697"
+      },
+      {
+        "observation": "observe_wait succeeded in Python",
+        "time": "2025-11-29T17:37:19.085386"
+      },
+      {
+        "observation": "observe_wait succeeded in Python",
+        "time": "2025-11-29T19:32:50.392249"
+      },
+      {
+        "observation": "observe_wait succeeded in Python",
+        "time": "2025-11-29T19:32:58.867610"
+      },
+      {
+        "observation": "observe_wait succeeded in Python",
+        "time": "2025-11-29T19:37:24.350623"
+      },
+      {
+        "observation": "observe_wait succeeded in Python",
+        "time": "2025-11-29T19:38:13.501604"
+      },
+      {
+        "observation": "observe_wait succeeded in Python",
+        "time": "2025-11-30T07:21:13.722890"
+      },
+      {
+        "observation": "observe_wait succeeded in Python",
+        "time": "2025-11-30T10:37:24.813157"
+      },
+      {
+        "observation": "observe_wait succeeded in Python",
+        "time": "2025-11-30T10:38:05.764250"
+      },
+      {
+        "observation": "observe_wait succeeded in Python",
+        "time": "2025-11-30T11:06:30.993217"
+      },
+      {
+        "observation": "observe_wait succeeded in Python",
+        "time": "2025-11-30T14:30:28.882676"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:37:02.544467"
+  },
+  "open_spotlight_works_in_Python": {
+    "observations": [
+      {
+        "observation": "open_spotlight succeeded in Python",
+        "time": "2025-11-29T17:37:04.009896"
+      },
+      {
+        "observation": "open_spotlight succeeded in Python",
+        "time": "2025-11-29T17:37:12.058080"
+      },
+      {
+        "observation": "open_spotlight succeeded in Python",
+        "time": "2025-11-29T19:32:43.569911"
+      },
+      {
+        "observation": "open_spotlight succeeded in Python",
+        "time": "2025-11-29T19:37:25.906205"
+      },
+      {
+        "observation": "open_spotlight succeeded in Python",
+        "time": "2025-11-29T19:37:50.171566"
+      },
+      {
+        "observation": "open_spotlight succeeded in Python",
+        "time": "2025-11-30T10:27:13.100980"
+      },
+      {
+        "observation": "open_spotlight succeeded in Python",
+        "time": "2025-11-30T10:37:18.288610"
+      },
+      {
+        "observation": "open_spotlight succeeded in Python",
+        "time": "2025-11-30T10:37:58.520542"
+      },
+      {
+        "observation": "open_spotlight succeeded in Python",
+        "time": "2025-11-30T10:50:33.063939"
+      },
+      {
+        "observation": "open_spotlight succeeded in Python",
+        "time": "2025-11-30T10:50:45.213173"
+      },
+      {
+        "observation": "open_spotlight succeeded in Python",
+        "time": "2025-11-30T10:52:03.556557"
+      },
+      {
+        "observation": "open_spotlight succeeded in Python",
+        "time": "2025-11-30T11:06:02.138996"
+      },
+      {
+        "observation": "open_spotlight succeeded in Python",
+        "time": "2025-11-30T11:06:22.344541"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:37:04.009893"
+  },
+  "open_safari_works_in_Python": {
+    "observations": [
+      {
+        "observation": "open_safari succeeded in Python",
+        "time": "2025-11-29T17:37:05.838607"
+      },
+      {
+        "observation": "open_safari succeeded in Python",
+        "time": "2025-11-29T17:37:13.921322"
+      },
+      {
+        "observation": "open_safari succeeded in Python",
+        "time": "2025-11-29T19:32:45.577134"
+      },
+      {
+        "observation": "open_safari succeeded in Python",
+        "time": "2025-11-29T19:37:27.981663"
+      },
+      {
+        "observation": "open_safari succeeded in Python",
+        "time": "2025-11-29T19:37:53.715246"
+      },
+      {
+        "observation": "open_safari succeeded in Python",
+        "time": "2025-11-30T10:27:15.336459"
+      },
+      {
+        "observation": "open_safari succeeded in Python",
+        "time": "2025-11-30T10:37:20.291271"
+      },
+      {
+        "observation": "open_safari succeeded in Python",
+        "time": "2025-11-30T10:38:00.575655"
+      },
+      {
+        "observation": "open_safari succeeded in Python",
+        "time": "2025-11-30T10:51:43.187180"
+      },
+      {
+        "observation": "open_safari succeeded in Python",
+        "time": "2025-11-30T10:51:59.463842"
+      },
+      {
+        "observation": "open_safari succeeded in Python",
+        "time": "2025-12-01T21:44:56.604617"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:37:05.838597"
+  },
+  "move_mouse_explore_works_in_Python": {
+    "observations": [
+      {
+        "observation": "move_mouse_explore succeeded in Python",
+        "time": "2025-11-29T17:37:20.622627"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Python",
+        "time": "2025-11-29T17:46:56.258425"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Python",
+        "time": "2025-11-29T17:47:05.156090"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Python",
+        "time": "2025-11-29T19:19:43.968014"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Python",
+        "time": "2025-11-29T19:37:02.208026"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Python",
+        "time": "2025-11-29T19:37:43.039259"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Python",
+        "time": "2025-11-30T10:27:29.855799"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Python",
+        "time": "2025-11-30T10:37:12.577904"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Python",
+        "time": "2025-11-30T10:52:10.241824"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Python",
+        "time": "2025-11-30T11:05:26.638963"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Python",
+        "time": "2025-11-30T11:06:06.818808"
+      },
+      {
+        "observation": "move_mouse_explore succeeded in Python",
+        "time": "2025-12-01T14:21:02.193091"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:37:20.622623"
+  },
+  "move_mouse_center_works_in_Python": {
+    "observations": [
+      {
+        "observation": "move_mouse_center succeeded in Python",
+        "time": "2025-11-29T17:37:22.644881"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Python",
+        "time": "2025-11-29T17:46:58.216889"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Python",
+        "time": "2025-11-29T17:47:07.028372"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Python",
+        "time": "2025-11-29T19:19:45.456554"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Python",
+        "time": "2025-11-29T19:37:04.510743"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Python",
+        "time": "2025-11-29T19:37:44.776014"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Python",
+        "time": "2025-11-30T10:27:31.767022"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Python",
+        "time": "2025-11-30T10:37:14.768752"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Python",
+        "time": "2025-11-30T10:50:49.663489"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Python",
+        "time": "2025-11-30T10:50:59.769270"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Python",
+        "time": "2025-11-30T11:06:16.991863"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Python",
+        "time": "2025-11-30T11:06:27.001593"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:37:22.644875"
+  },
+  "click_here_works_in_Python": {
+    "observations": [
+      {
+        "observation": "click_here succeeded in Python",
+        "time": "2025-11-29T17:37:24.059202"
+      },
+      {
+        "observation": "click_here succeeded in Python",
+        "time": "2025-11-29T17:47:00.121470"
+      },
+      {
+        "observation": "click_here succeeded in Python",
+        "time": "2025-11-29T17:47:08.426843"
+      },
+      {
+        "observation": "click_here succeeded in Python",
+        "time": "2025-11-29T19:19:46.980003"
+      },
+      {
+        "observation": "click_here succeeded in Python",
+        "time": "2025-11-29T19:37:05.827339"
+      },
+      {
+        "observation": "click_here succeeded in Python",
+        "time": "2025-11-29T19:37:46.037547"
+      }
+    ],
+    "confidence": 0.9000000000000001,
+    "discovered": "2025-11-29T17:37:24.059192"
+  },
+  "scroll_down_works_in_Python": {
+    "observations": [
+      {
+        "observation": "scroll_down succeeded in Python",
+        "time": "2025-11-29T17:37:26.053213"
+      },
+      {
+        "observation": "scroll_down succeeded in Python",
+        "time": "2025-11-29T17:47:02.169841"
+      },
+      {
+        "observation": "scroll_down succeeded in Python",
+        "time": "2025-11-29T17:47:10.398786"
+      },
+      {
+        "observation": "scroll_down succeeded in Python",
+        "time": "2025-11-29T19:19:48.921493"
+      },
+      {
+        "observation": "scroll_down succeeded in Python",
+        "time": "2025-11-29T19:37:07.744108"
+      },
+      {
+        "observation": "scroll_down succeeded in Python",
+        "time": "2025-11-29T19:37:48.016006"
+      },
+      {
+        "observation": "scroll_down succeeded in Python",
+        "time": "2025-11-30T07:23:33.590275"
+      },
+      {
+        "observation": "scroll_down succeeded in Python",
+        "time": "2025-11-30T10:27:27.068145"
+      },
+      {
+        "observation": "scroll_down succeeded in Python",
+        "time": "2025-11-30T10:37:16.184921"
+      },
+      {
+        "observation": "scroll_down succeeded in Python",
+        "time": "2025-11-30T10:51:35.348316"
+      },
+      {
+        "observation": "scroll_down succeeded in Python",
+        "time": "2025-11-30T10:51:37.300350"
+      },
+      {
+        "observation": "scroll_down succeeded in Python",
+        "time": "2025-11-30T11:05:19.820164"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T17:37:26.053209"
+  },
+  "press_key_random_works_in_Python": {
+    "observations": [
+      {
+        "observation": "press_key_random succeeded in Python",
+        "time": "2025-11-29T19:32:55.901979"
+      },
+      {
+        "observation": "press_key_random succeeded in Python",
+        "time": "2025-11-29T19:38:10.496118"
+      },
+      {
+        "observation": "press_key_random succeeded in Python",
+        "time": "2025-11-30T07:21:11.018201"
+      },
+      {
+        "observation": "press_key_random succeeded in Python",
+        "time": "2025-11-30T10:50:31.025006"
+      },
+      {
+        "observation": "press_key_random succeeded in Python",
+        "time": "2025-11-30T10:50:37.081128"
+      },
+      {
+        "observation": "press_key_random succeeded in Python",
+        "time": "2025-11-30T10:50:47.137403"
+      },
+      {
+        "observation": "press_key_random succeeded in Python",
+        "time": "2025-11-30T10:51:03.219731"
+      },
+      {
+        "observation": "press_key_random succeeded in Python",
+        "time": "2025-11-30T11:05:27.963590"
+      },
+      {
+        "observation": "press_key_random succeeded in Python",
+        "time": "2025-11-30T21:11:48.423511"
+      },
+      {
+        "observation": "press_key_random succeeded in Python",
+        "time": "2025-12-01T14:39:35.247130"
+      },
+      {
+        "observation": "press_key_random succeeded in Python",
+        "time": "2025-12-01T21:44:57.167971"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-29T19:32:55.901973"
+  },
+  "check_firewall_works_in_Python": {
+    "observations": [
+      {
+        "observation": "check_firewall succeeded in Python",
+        "time": "2025-11-30T00:29:32.046958"
+      },
+      {
+        "observation": "check_firewall succeeded in Python",
+        "time": "2025-11-30T07:22:35.008469"
+      },
+      {
+        "observation": "check_firewall succeeded in Python",
+        "time": "2025-11-30T10:20:11.167781"
+      },
+      {
+        "observation": "check_firewall succeeded in Python",
+        "time": "2025-11-30T10:20:35.486485"
+      },
+      {
+        "observation": "check_firewall succeeded in Python",
+        "time": "2025-11-30T10:38:28.227231"
+      }
+    ],
+    "confidence": 0.8,
+    "discovered": "2025-11-30T00:29:32.046957"
+  },
+  "check_users_works_in_Python": {
+    "observations": [
+      {
+        "observation": "check_users succeeded in Python",
+        "time": "2025-11-30T00:29:34.327712"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T00:29:34.327706"
+  },
+  "check_processes_works_in_Python": {
+    "observations": [
+      {
+        "observation": "check_processes succeeded in Python",
+        "time": "2025-11-30T00:29:36.266457"
+      },
+      {
+        "observation": "check_processes succeeded in Python",
+        "time": "2025-11-30T07:22:37.041077"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-11-30T00:29:36.266453"
+  },
+  "check_running_apps_works_in_Python": {
+    "observations": [
+      {
+        "observation": "check_running_apps succeeded in Python",
+        "time": "2025-11-30T00:29:38.386618"
+      },
+      {
+        "observation": "check_running_apps succeeded in Python",
+        "time": "2025-11-30T00:29:42.394122"
+      },
+      {
+        "observation": "check_running_apps succeeded in Python",
+        "time": "2025-11-30T00:29:50.425290"
+      },
+      {
+        "observation": "check_running_apps succeeded in Python",
+        "time": "2025-11-30T07:21:59.053675"
+      },
+      {
+        "observation": "check_running_apps succeeded in Python",
+        "time": "2025-11-30T07:22:41.152662"
+      },
+      {
+        "observation": "check_running_apps succeeded in Python",
+        "time": "2025-11-30T10:37:44.193402"
+      },
+      {
+        "observation": "check_running_apps succeeded in Python",
+        "time": "2025-11-30T10:40:16.478052"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T00:29:38.386608"
+  },
+  "list_installed_apps_works_in_Python": {
+    "observations": [
+      {
+        "observation": "list_installed_apps succeeded in Python",
+        "time": "2025-11-30T00:29:40.225398"
+      },
+      {
+        "observation": "list_installed_apps succeeded in Python",
+        "time": "2025-11-30T00:29:48.251443"
+      },
+      {
+        "observation": "list_installed_apps succeeded in Python",
+        "time": "2025-11-30T07:21:56.902739"
+      },
+      {
+        "observation": "list_installed_apps succeeded in Python",
+        "time": "2025-11-30T07:22:39.002581"
+      },
+      {
+        "observation": "list_installed_apps succeeded in Python",
+        "time": "2025-11-30T10:37:42.042130"
+      },
+      {
+        "observation": "list_installed_apps succeeded in Python",
+        "time": "2025-11-30T10:40:14.332812"
+      }
+    ],
+    "confidence": 0.9000000000000001,
+    "discovered": "2025-11-30T00:29:40.225396"
+  },
+  "check_python_works_in_Python": {
+    "observations": [
+      {
+        "observation": "check_python succeeded in Python",
+        "time": "2025-11-30T00:29:44.248533"
+      },
+      {
+        "observation": "check_python succeeded in Python",
+        "time": "2025-11-30T00:29:52.281817"
+      },
+      {
+        "observation": "check_python succeeded in Python",
+        "time": "2025-11-30T07:21:28.847329"
+      },
+      {
+        "observation": "check_python succeeded in Python",
+        "time": "2025-11-30T07:21:54.924424"
+      },
+      {
+        "observation": "check_python succeeded in Python",
+        "time": "2025-11-30T07:22:00.898915"
+      },
+      {
+        "observation": "check_python succeeded in Python",
+        "time": "2025-11-30T07:22:42.991204"
+      },
+      {
+        "observation": "check_python succeeded in Python",
+        "time": "2025-11-30T10:20:03.085175"
+      },
+      {
+        "observation": "check_python succeeded in Python",
+        "time": "2025-11-30T10:37:26.035288"
+      },
+      {
+        "observation": "check_python succeeded in Python",
+        "time": "2025-11-30T10:37:46.050369"
+      },
+      {
+        "observation": "check_python succeeded in Python",
+        "time": "2025-11-30T10:37:56.161190"
+      },
+      {
+        "observation": "check_python succeeded in Python",
+        "time": "2025-11-30T10:40:06.306491"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T00:29:44.248531"
+  },
+  "check_git_works_in_Python": {
+    "observations": [
+      {
+        "observation": "check_git succeeded in Python",
+        "time": "2025-11-30T00:29:46.246734"
+      },
+      {
+        "observation": "check_git succeeded in Python",
+        "time": "2025-11-30T00:29:54.274963"
+      },
+      {
+        "observation": "check_git succeeded in Python",
+        "time": "2025-11-30T07:22:02.966661"
+      },
+      {
+        "observation": "check_git succeeded in Python",
+        "time": "2025-11-30T07:22:45.007427"
+      },
+      {
+        "observation": "check_git succeeded in Python",
+        "time": "2025-11-30T10:37:28.049421"
+      },
+      {
+        "observation": "check_git succeeded in Python",
+        "time": "2025-11-30T10:37:48.042948"
+      },
+      {
+        "observation": "check_git succeeded in Python",
+        "time": "2025-11-30T10:40:08.331806"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T00:29:46.246719"
+  },
+  "check_permissions_works_in_Python": {
+    "observations": [
+      {
+        "observation": "check_permissions succeeded in Python",
+        "time": "2025-11-30T00:29:56.318065"
+      },
+      {
+        "observation": "check_permissions succeeded in Python",
+        "time": "2025-11-30T07:22:04.946509"
+      },
+      {
+        "observation": "check_permissions succeeded in Python",
+        "time": "2025-11-30T10:26:32.236983"
+      },
+      {
+        "observation": "check_permissions succeeded in Python",
+        "time": "2025-11-30T10:37:34.037216"
+      }
+    ],
+    "confidence": 0.7,
+    "discovered": "2025-11-30T00:29:56.318061"
+  },
+  "find_hidden_files_works_in_Python": {
+    "observations": [
+      {
+        "observation": "find_hidden_files succeeded in Python",
+        "time": "2025-11-30T00:29:58.298044"
+      },
+      {
+        "observation": "find_hidden_files succeeded in Python",
+        "time": "2025-11-30T07:21:40.869769"
+      },
+      {
+        "observation": "find_hidden_files succeeded in Python",
+        "time": "2025-11-30T07:22:06.933635"
+      },
+      {
+        "observation": "find_hidden_files succeeded in Python",
+        "time": "2025-11-30T10:26:34.551483"
+      },
+      {
+        "observation": "find_hidden_files succeeded in Python",
+        "time": "2025-11-30T10:27:04.890212"
+      },
+      {
+        "observation": "find_hidden_files succeeded in Python",
+        "time": "2025-11-30T10:37:36.030688"
+      },
+      {
+        "observation": "find_hidden_files succeeded in Python",
+        "time": "2025-11-30T10:38:38.281647"
+      },
+      {
+        "observation": "find_hidden_files succeeded in Python",
+        "time": "2025-11-30T10:39:58.296120"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T00:29:58.298034"
+  },
+  "explore_downloads_works_in_Python": {
+    "observations": [
+      {
+        "observation": "explore_downloads succeeded in Python",
+        "time": "2025-11-30T00:30:00.336139"
+      },
+      {
+        "observation": "explore_downloads succeeded in Python",
+        "time": "2025-11-30T07:22:08.914797"
+      },
+      {
+        "observation": "explore_downloads succeeded in Python",
+        "time": "2025-11-30T10:26:36.568788"
+      },
+      {
+        "observation": "explore_downloads succeeded in Python",
+        "time": "2025-11-30T10:37:38.019745"
+      },
+      {
+        "observation": "explore_downloads succeeded in Python",
+        "time": "2025-11-30T14:32:48.101236"
+      }
+    ],
+    "confidence": 0.8,
+    "discovered": "2025-11-30T00:30:00.336135"
+  },
+  "ping_test_works_in_Python": {
+    "observations": [
+      {
+        "observation": "ping_test succeeded in Python",
+        "time": "2025-11-30T07:21:14.870782"
+      },
+      {
+        "observation": "ping_test succeeded in Python",
+        "time": "2025-11-30T07:21:30.924334"
+      },
+      {
+        "observation": "ping_test succeeded in Python",
+        "time": "2025-11-30T07:22:53.125107"
+      },
+      {
+        "observation": "ping_test succeeded in Python",
+        "time": "2025-11-30T10:20:19.340412"
+      },
+      {
+        "observation": "ping_test succeeded in Python",
+        "time": "2025-11-30T10:26:52.701833"
+      },
+      {
+        "observation": "ping_test succeeded in Python",
+        "time": "2025-11-30T10:26:54.717662"
+      },
+      {
+        "observation": "ping_test succeeded in Python",
+        "time": "2025-11-30T10:38:34.307077"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T07:21:14.870778"
+  },
+  "dns_lookup_works_in_Python": {
+    "observations": [
+      {
+        "observation": "dns_lookup succeeded in Python",
+        "time": "2025-11-30T07:21:16.869382"
+      },
+      {
+        "observation": "dns_lookup succeeded in Python",
+        "time": "2025-11-30T07:21:32.882696"
+      },
+      {
+        "observation": "dns_lookup succeeded in Python",
+        "time": "2025-11-30T10:20:09.131517"
+      },
+      {
+        "observation": "dns_lookup succeeded in Python",
+        "time": "2025-11-30T10:26:56.812101"
+      },
+      {
+        "observation": "dns_lookup succeeded in Python",
+        "time": "2025-11-30T10:38:26.171145"
+      }
+    ],
+    "confidence": 0.8,
+    "discovered": "2025-11-30T07:21:16.869378"
+  },
+  "check_ports_works_in_Python": {
+    "observations": [
+      {
+        "observation": "check_ports succeeded in Python",
+        "time": "2025-11-30T07:21:20.834504"
+      },
+      {
+        "observation": "check_ports succeeded in Python",
+        "time": "2025-11-30T07:21:36.884678"
+      },
+      {
+        "observation": "check_ports succeeded in Python",
+        "time": "2025-11-30T07:21:38.874701"
+      },
+      {
+        "observation": "check_ports succeeded in Python",
+        "time": "2025-11-30T10:27:00.941374"
+      },
+      {
+        "observation": "check_ports succeeded in Python",
+        "time": "2025-11-30T10:27:02.824569"
+      },
+      {
+        "observation": "check_ports succeeded in Python",
+        "time": "2025-11-30T10:38:36.356579"
+      }
+    ],
+    "confidence": 0.9000000000000001,
+    "discovered": "2025-11-30T07:21:20.834494"
+  },
+  "curl_test_works_in_Python": {
+    "observations": [
+      {
+        "observation": "curl_test succeeded in Python",
+        "time": "2025-11-30T07:21:20.948138"
+      },
+      {
+        "observation": "curl_test succeeded in Python",
+        "time": "2025-11-30T07:21:35.519403"
+      },
+      {
+        "observation": "curl_test succeeded in Python",
+        "time": "2025-11-30T10:26:59.641195"
+      }
+    ],
+    "confidence": 0.6000000000000001,
+    "discovered": "2025-11-30T07:21:20.948135"
+  },
+  "run_python_code_works_in_Python": {
+    "observations": [
+      {
+        "observation": "run_python_code succeeded in Python",
+        "time": "2025-11-30T07:21:22.819602"
+      },
+      {
+        "observation": "run_python_code succeeded in Python",
+        "time": "2025-11-30T07:21:48.918951"
+      },
+      {
+        "observation": "run_python_code succeeded in Python",
+        "time": "2025-11-30T10:19:56.985944"
+      },
+      {
+        "observation": "run_python_code succeeded in Python",
+        "time": "2025-11-30T10:37:32.082270"
+      },
+      {
+        "observation": "run_python_code succeeded in Python",
+        "time": "2025-11-30T10:37:50.043234"
+      },
+      {
+        "observation": "run_python_code succeeded in Python",
+        "time": "2025-11-30T10:40:12.348759"
+      },
+      {
+        "observation": "run_python_code succeeded in Python",
+        "time": "2025-11-30T11:27:29.347142"
+      },
+      {
+        "observation": "run_python_code succeeded in Python",
+        "time": "2025-12-01T14:14:31.373667"
+      },
+      {
+        "observation": "run_python_code succeeded in Python",
+        "time": "2025-12-01T21:45:02.079722"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T07:21:22.819598"
+  },
+  "run_shell_cmd_works_in_Python": {
+    "observations": [
+      {
+        "observation": "run_shell_cmd succeeded in Python",
+        "time": "2025-11-30T07:21:24.885984"
+      },
+      {
+        "observation": "run_shell_cmd succeeded in Python",
+        "time": "2025-11-30T07:21:26.832918"
+      },
+      {
+        "observation": "run_shell_cmd succeeded in Python",
+        "time": "2025-11-30T07:21:50.900921"
+      },
+      {
+        "observation": "run_shell_cmd succeeded in Python",
+        "time": "2025-11-30T07:21:52.900225"
+      },
+      {
+        "observation": "run_shell_cmd succeeded in Python",
+        "time": "2025-11-30T10:19:59.058417"
+      },
+      {
+        "observation": "run_shell_cmd succeeded in Python",
+        "time": "2025-11-30T10:20:01.026461"
+      },
+      {
+        "observation": "run_shell_cmd succeeded in Python",
+        "time": "2025-11-30T10:26:46.612992"
+      },
+      {
+        "observation": "run_shell_cmd succeeded in Python",
+        "time": "2025-11-30T10:37:52.037692"
+      },
+      {
+        "observation": "run_shell_cmd succeeded in Python",
+        "time": "2025-11-30T10:37:54.093013"
+      },
+      {
+        "observation": "run_shell_cmd succeeded in Python",
+        "time": "2025-11-30T10:38:20.190301"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T07:21:24.885979"
+  },
+  "check_ssh_keys_works_in_Python": {
+    "observations": [
+      {
+        "observation": "check_ssh_keys succeeded in Python",
+        "time": "2025-11-30T07:21:42.834634"
+      },
+      {
+        "observation": "check_ssh_keys succeeded in Python",
+        "time": "2025-11-30T07:22:10.925490"
+      },
+      {
+        "observation": "check_ssh_keys succeeded in Python",
+        "time": "2025-11-30T10:26:38.644175"
+      },
+      {
+        "observation": "check_ssh_keys succeeded in Python",
+        "time": "2025-11-30T10:27:06.800693"
+      },
+      {
+        "observation": "check_ssh_keys succeeded in Python",
+        "time": "2025-11-30T10:37:40.013037"
+      },
+      {
+        "observation": "check_ssh_keys succeeded in Python",
+        "time": "2025-11-30T10:38:40.149966"
+      },
+      {
+        "observation": "check_ssh_keys succeeded in Python",
+        "time": "2025-11-30T10:40:00.329050"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T07:21:42.834622"
+  },
+  "check_hosts_file_works_in_Python": {
+    "observations": [
+      {
+        "observation": "check_hosts_file succeeded in Python",
+        "time": "2025-11-30T07:21:44.829426"
+      },
+      {
+        "observation": "check_hosts_file succeeded in Python",
+        "time": "2025-11-30T10:20:07.155532"
+      },
+      {
+        "observation": "check_hosts_file succeeded in Python",
+        "time": "2025-11-30T10:27:08.834010"
+      },
+      {
+        "observation": "check_hosts_file succeeded in Python",
+        "time": "2025-11-30T10:38:24.150220"
+      },
+      {
+        "observation": "check_hosts_file succeeded in Python",
+        "time": "2025-11-30T10:38:42.165104"
+      },
+      {
+        "observation": "check_hosts_file succeeded in Python",
+        "time": "2025-11-30T10:40:02.308897"
+      }
+    ],
+    "confidence": 0.9000000000000001,
+    "discovered": "2025-11-30T07:21:44.829417"
+  },
+  "check_env_vars_works_in_Python": {
+    "observations": [
+      {
+        "observation": "check_env_vars succeeded in Python",
+        "time": "2025-11-30T07:21:46.884594"
+      },
+      {
+        "observation": "check_env_vars succeeded in Python",
+        "time": "2025-11-30T10:26:40.652417"
+      },
+      {
+        "observation": "check_env_vars succeeded in Python",
+        "time": "2025-11-30T10:27:10.800838"
+      },
+      {
+        "observation": "check_env_vars succeeded in Python",
+        "time": "2025-11-30T10:38:14.208207"
+      },
+      {
+        "observation": "check_env_vars succeeded in Python",
+        "time": "2025-11-30T10:38:44.195606"
+      },
+      {
+        "observation": "check_env_vars succeeded in Python",
+        "time": "2025-11-30T10:40:04.281667"
+      }
+    ],
+    "confidence": 0.9000000000000001,
+    "discovered": "2025-11-30T07:21:46.884577"
+  },
+  "check_cpu_info_works_in_Python": {
+    "observations": [
+      {
+        "observation": "check_cpu_info succeeded in Python",
+        "time": "2025-11-30T07:22:12.948546"
+      },
+      {
+        "observation": "check_cpu_info succeeded in Python",
+        "time": "2025-11-30T07:22:30.999263"
+      },
+      {
+        "observation": "check_cpu_info succeeded in Python",
+        "time": "2025-11-30T07:22:55.113794"
+      },
+      {
+        "observation": "check_cpu_info succeeded in Python",
+        "time": "2025-11-30T10:20:31.409375"
+      },
+      {
+        "observation": "check_cpu_info succeeded in Python",
+        "time": "2025-11-30T10:50:50.918882"
+      }
+    ],
+    "confidence": 0.8,
+    "discovered": "2025-11-30T07:22:12.948541"
+  },
+  "check_memory_works_in_Python": {
+    "observations": [
+      {
+        "observation": "check_memory succeeded in Python",
+        "time": "2025-11-30T07:22:14.952844"
+      },
+      {
+        "observation": "check_memory succeeded in Python",
+        "time": "2025-11-30T07:22:57.150795"
+      },
+      {
+        "observation": "check_memory succeeded in Python",
+        "time": "2025-11-30T10:50:52.904330"
+      }
+    ],
+    "confidence": 0.6000000000000001,
+    "discovered": "2025-11-30T07:22:14.952841"
+  },
+  "check_disk_space_works_in_Python": {
+    "observations": [
+      {
+        "observation": "check_disk_space succeeded in Python",
+        "time": "2025-11-30T07:22:16.935742"
+      },
+      {
+        "observation": "check_disk_space succeeded in Python",
+        "time": "2025-11-30T07:22:59.133287"
+      },
+      {
+        "observation": "check_disk_space succeeded in Python",
+        "time": "2025-11-30T10:50:54.936890"
+      },
+      {
+        "observation": "check_disk_space succeeded in Python",
+        "time": "2025-12-01T01:35:14.320831"
+      },
+      {
+        "observation": "check_disk_space succeeded in Python",
+        "time": "2025-12-01T14:40:06.296663"
+      }
+    ],
+    "confidence": 0.8,
+    "discovered": "2025-11-30T07:22:16.935738"
+  },
+  "check_uptime_works_in_Python": {
+    "observations": [
+      {
+        "observation": "check_uptime succeeded in Python",
+        "time": "2025-11-30T07:22:18.973741"
+      },
+      {
+        "observation": "check_uptime succeeded in Python",
+        "time": "2025-11-30T07:23:01.214109"
+      },
+      {
+        "observation": "check_uptime succeeded in Python",
+        "time": "2025-11-30T10:50:56.942258"
+      }
+    ],
+    "confidence": 0.6000000000000001,
+    "discovered": "2025-11-30T07:22:18.973738"
+  },
+  "scan_network_works_in_Python": {
+    "observations": [
+      {
+        "observation": "scan_network succeeded in Python",
+        "time": "2025-11-30T07:22:33.013569"
+      },
+      {
+        "observation": "scan_network succeeded in Python",
+        "time": "2025-11-30T07:22:47.064720"
+      },
+      {
+        "observation": "scan_network succeeded in Python",
+        "time": "2025-11-30T10:20:13.142061"
+      },
+      {
+        "observation": "scan_network succeeded in Python",
+        "time": "2025-11-30T10:20:33.344877"
+      },
+      {
+        "observation": "scan_network succeeded in Python",
+        "time": "2025-11-30T10:26:48.719789"
+      },
+      {
+        "observation": "scan_network succeeded in Python",
+        "time": "2025-11-30T10:38:30.187133"
+      },
+      {
+        "observation": "scan_network succeeded in Python",
+        "time": "2025-11-30T21:09:14.045612"
+      },
+      {
+        "observation": "scan_network succeeded in Python",
+        "time": "2025-12-01T21:45:08.344824"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T07:22:33.013564"
+  },
+  "check_wifi_fails_in_Python": {
+    "observations": [
+      {
+        "observation": "check_wifi failed in Python: [Errno 2] No such file or directory: '/System/Libr",
+        "time": "2025-11-30T07:22:49.029707"
+      },
+      {
+        "observation": "check_wifi failed in Python: [Errno 2] No such file or directory: '/System/Libr",
+        "time": "2025-11-30T10:20:15.186846"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-11-30T07:22:49.029703"
+  },
+  "get_ip_address_works_in_Python": {
+    "observations": [
+      {
+        "observation": "get_ip_address succeeded in Python",
+        "time": "2025-11-30T07:22:51.091642"
+      },
+      {
+        "observation": "get_ip_address succeeded in Python",
+        "time": "2025-11-30T10:20:05.121452"
+      },
+      {
+        "observation": "get_ip_address succeeded in Python",
+        "time": "2025-11-30T10:20:17.177216"
+      },
+      {
+        "observation": "get_ip_address succeeded in Python",
+        "time": "2025-11-30T10:26:50.663984"
+      },
+      {
+        "observation": "get_ip_address succeeded in Python",
+        "time": "2025-11-30T10:38:22.140488"
+      },
+      {
+        "observation": "get_ip_address succeeded in Python",
+        "time": "2025-11-30T10:38:32.375664"
+      }
+    ],
+    "confidence": 0.9000000000000001,
+    "discovered": "2025-11-30T07:22:51.091632"
+  },
+  "check_env_vars_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "check_env_vars succeeded in Electron",
+        "time": "2025-11-30T07:23:03.173468"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T07:23:03.173463"
+  },
+  "check_homebrew_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "check_homebrew succeeded in Electron",
+        "time": "2025-11-30T07:23:05.236107"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T07:23:05.236094"
+  },
+  "learn_shell_history_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "learn_shell_history succeeded in Electron",
+        "time": "2025-11-30T07:23:07.133206"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T07:23:07.133199"
+  },
+  "run_shell_cmd_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "run_shell_cmd succeeded in Electron",
+        "time": "2025-11-30T07:23:09.200281"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T07:23:09.200276"
+  },
+  "list_installed_apps_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "list_installed_apps succeeded in Electron",
+        "time": "2025-11-30T07:23:11.188627"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T07:23:11.188624"
+  },
+  "check_running_apps_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "check_running_apps succeeded in Electron",
+        "time": "2025-11-30T07:23:13.319183"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T07:23:13.319177"
+  },
+  "check_python_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "check_python succeeded in Electron",
+        "time": "2025-11-30T07:23:15.152851"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T07:23:15.152846"
+  },
+  "check_git_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "check_git succeeded in Electron",
+        "time": "2025-11-30T07:23:17.152817"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T07:23:17.152812"
+  },
+  "get_system_info_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "get_system_info succeeded in Electron",
+        "time": "2025-11-30T07:23:19.173813"
+      },
+      {
+        "observation": "get_system_info succeeded in Electron",
+        "time": "2025-12-01T14:14:36.563936"
+      },
+      {
+        "observation": "get_system_info succeeded in Electron",
+        "time": "2025-12-01T21:50:06.016617"
+      }
+    ],
+    "confidence": 0.6000000000000001,
+    "discovered": "2025-11-30T07:23:19.173809"
+  },
+  "check_clipboard_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "check_clipboard succeeded in Electron",
+        "time": "2025-11-30T07:23:21.175348"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T07:23:21.175335"
+  },
+  "take_screenshot_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "take_screenshot succeeded in Electron",
+        "time": "2025-11-30T07:23:23.385819"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T07:23:23.385812"
+  },
+  "speak_thought_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "speak_thought succeeded in Electron",
+        "time": "2025-11-30T07:23:27.269657"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T07:23:27.269646"
+  },
+  "move_mouse_explore_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "move_mouse_explore succeeded in Electron",
+        "time": "2025-11-30T07:23:28.121635"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T07:23:28.121626"
+  },
+  "move_mouse_center_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "move_mouse_center succeeded in Electron",
+        "time": "2025-11-30T07:23:29.976608"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Electron",
+        "time": "2025-11-30T11:06:38.964334"
+      },
+      {
+        "observation": "move_mouse_center succeeded in Electron",
+        "time": "2025-11-30T21:53:08.852136"
+      }
+    ],
+    "confidence": 0.6000000000000001,
+    "discovered": "2025-11-30T07:23:29.976601"
+  },
+  "click_here_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "click_here succeeded in Electron",
+        "time": "2025-11-30T07:23:31.408108"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T07:23:31.408101"
+  },
+  "type_test_works_in_Python": {
+    "observations": [
+      {
+        "observation": "type_test succeeded in Python",
+        "time": "2025-11-30T07:23:35.908112"
+      },
+      {
+        "observation": "type_test succeeded in Python",
+        "time": "2025-11-30T07:23:37.992498"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-11-30T07:23:35.908107"
+  },
+  "check_processes_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "check_processes succeeded in Electron",
+        "time": "2025-11-30T10:21:10.151594"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:21:10.151587"
+  },
+  "scan_network_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "scan_network succeeded in Electron",
+        "time": "2025-11-30T10:23:34.873440"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:23:34.873431"
+  },
+  "check_homebrew_works_in_Python": {
+    "observations": [
+      {
+        "observation": "check_homebrew succeeded in Python",
+        "time": "2025-11-30T10:26:42.704155"
+      },
+      {
+        "observation": "check_homebrew succeeded in Python",
+        "time": "2025-11-30T10:37:30.111171"
+      },
+      {
+        "observation": "check_homebrew succeeded in Python",
+        "time": "2025-11-30T10:38:16.206881"
+      },
+      {
+        "observation": "check_homebrew succeeded in Python",
+        "time": "2025-11-30T10:40:10.431334"
+      }
+    ],
+    "confidence": 0.7,
+    "discovered": "2025-11-30T10:26:42.704152"
+  },
+  "learn_shell_history_works_in_Python": {
+    "observations": [
+      {
+        "observation": "learn_shell_history succeeded in Python",
+        "time": "2025-11-30T10:26:44.765657"
+      },
+      {
+        "observation": "learn_shell_history succeeded in Python",
+        "time": "2025-11-30T10:38:18.186185"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-11-30T10:26:44.765654"
+  },
+  "switch_app_works_in_Python": {
+    "observations": [
+      {
+        "observation": "switch_app succeeded in Python",
+        "time": "2025-11-30T10:27:18.555743"
+      },
+      {
+        "observation": "switch_app succeeded in Python",
+        "time": "2025-11-30T10:50:39.209318"
+      },
+      {
+        "observation": "switch_app succeeded in Python",
+        "time": "2025-11-30T10:52:11.560340"
+      },
+      {
+        "observation": "switch_app succeeded in Python",
+        "time": "2025-11-30T11:06:18.515793"
+      },
+      {
+        "observation": "switch_app succeeded in Python",
+        "time": "2025-11-30T11:06:32.423972"
+      }
+    ],
+    "confidence": 0.8,
+    "discovered": "2025-11-30T10:27:18.555739"
+  },
+  "click_here_fails_in_Safari": {
+    "observations": [
+      {
+        "observation": "click_here failed in Safari: 'AuroraUltimate' object has no attribute 'mouse_cl",
+        "time": "2025-11-30T10:27:24.895727"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:27:24.895723"
+  },
+  "click_here_fails_in_Unknown": {
+    "observations": [
+      {
+        "observation": "click_here failed in Unknown: 'AuroraUltimate' object has no attribute 'mouse_cl",
+        "time": "2025-11-30T10:27:43.723559"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:27:43.723556"
+  },
+  "open_url_works_in_Python": {
+    "observations": [
+      {
+        "observation": "open_url succeeded in Python",
+        "time": "2025-11-30T10:38:46.313560"
+      },
+      {
+        "observation": "open_url succeeded in Python",
+        "time": "2025-11-30T11:26:32.474559"
+      },
+      {
+        "observation": "open_url succeeded in Python",
+        "time": "2025-11-30T11:27:28.950511"
+      },
+      {
+        "observation": "open_url succeeded in Python",
+        "time": "2025-11-30T14:32:48.322372"
+      },
+      {
+        "observation": "open_url succeeded in Python",
+        "time": "2025-11-30T18:00:31.265878"
+      },
+      {
+        "observation": "open_url succeeded in Python",
+        "time": "2025-11-30T21:11:47.908526"
+      },
+      {
+        "observation": "open_url succeeded in Python",
+        "time": "2025-12-01T14:14:31.513021"
+      },
+      {
+        "observation": "open_url succeeded in Python",
+        "time": "2025-12-01T14:20:49.232049"
+      },
+      {
+        "observation": "open_url succeeded in Python",
+        "time": "2025-12-01T14:21:10.662717"
+      },
+      {
+        "observation": "open_url succeeded in Python",
+        "time": "2025-12-01T14:21:27.464786"
+      },
+      {
+        "observation": "open_url succeeded in Python",
+        "time": "2025-12-01T14:39:24.181761"
+      },
+      {
+        "observation": "open_url succeeded in Python",
+        "time": "2025-12-01T14:39:34.729321"
+      },
+      {
+        "observation": "open_url succeeded in Python",
+        "time": "2025-12-01T21:24:05.506765"
+      },
+      {
+        "observation": "open_url succeeded in Python",
+        "time": "2025-12-01T21:24:13.308975"
+      },
+      {
+        "observation": "open_url succeeded in Python",
+        "time": "2025-12-01T21:45:00.594344"
+      },
+      {
+        "observation": "open_url succeeded in Python",
+        "time": "2025-12-01T21:47:32.360024"
+      },
+      {
+        "observation": "open_url succeeded in Python",
+        "time": "2025-12-01T21:50:00.469670"
+      },
+      {
+        "observation": "open_url succeeded in Python",
+        "time": "2025-12-01T22:13:59.604416"
+      },
+      {
+        "observation": "open_url succeeded in Python",
+        "time": "2025-12-01T22:14:14.751036"
+      },
+      {
+        "observation": "open_url succeeded in Python",
+        "time": "2025-12-01T22:14:45.095017"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T10:38:46.313551"
+  },
+  "search_web_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "search_web succeeded in Comet",
+        "time": "2025-11-30T10:38:48.777654"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:38:48.777650"
+  },
+  "curl_test_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "curl_test succeeded in Comet",
+        "time": "2025-11-30T10:38:50.821256"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:38:50.821248"
+  },
+  "open_safari_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "open_safari succeeded in Comet",
+        "time": "2025-11-30T10:38:52.438436"
+      },
+      {
+        "observation": "open_safari succeeded in Comet",
+        "time": "2025-11-30T14:32:38.654121"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-11-30T10:38:52.438423"
+  },
+  "check_ports_works_in_Safari": {
+    "observations": [
+      {
+        "observation": "check_ports succeeded in Safari",
+        "time": "2025-11-30T10:38:54.219375"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:38:54.219365"
+  },
+  "find_hidden_files_works_in_Safari": {
+    "observations": [
+      {
+        "observation": "find_hidden_files succeeded in Safari",
+        "time": "2025-11-30T10:38:56.285852"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:38:56.285843"
+  },
+  "check_ssh_keys_works_in_Safari": {
+    "observations": [
+      {
+        "observation": "check_ssh_keys succeeded in Safari",
+        "time": "2025-11-30T10:38:58.156314"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:38:58.156308"
+  },
+  "check_hosts_file_works_in_Safari": {
+    "observations": [
+      {
+        "observation": "check_hosts_file succeeded in Safari",
+        "time": "2025-11-30T10:39:00.179819"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:39:00.179808"
+  },
+  "check_env_vars_works_in_Safari": {
+    "observations": [
+      {
+        "observation": "check_env_vars succeeded in Safari",
+        "time": "2025-11-30T10:39:02.144925"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:39:02.144915"
+  },
+  "open_finder_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "open_finder succeeded in Electron",
+        "time": "2025-11-30T10:39:12.354833"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:39:12.354826"
+  },
+  "check_firewall_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "check_firewall succeeded in Finder",
+        "time": "2025-11-30T10:39:18.246886"
+      },
+      {
+        "observation": "check_firewall succeeded in Finder",
+        "time": "2025-11-30T10:39:38.231009"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-11-30T10:39:18.246872"
+  },
+  "check_users_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "check_users succeeded in Finder",
+        "time": "2025-11-30T10:39:20.222619"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:39:20.222610"
+  },
+  "check_processes_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "check_processes succeeded in Finder",
+        "time": "2025-11-30T10:39:22.249487"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:39:22.249478"
+  },
+  "check_running_apps_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "check_running_apps succeeded in Finder",
+        "time": "2025-11-30T10:39:24.352210"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:39:24.352200"
+  },
+  "get_ip_address_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "get_ip_address succeeded in Finder",
+        "time": "2025-11-30T10:39:32.234345"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:39:32.234337"
+  },
+  "check_hosts_file_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "check_hosts_file succeeded in Finder",
+        "time": "2025-11-30T10:39:34.234320"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:39:34.234313"
+  },
+  "dns_lookup_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "dns_lookup succeeded in Finder",
+        "time": "2025-11-30T10:39:36.260504"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:39:36.260495"
+  },
+  "run_python_code_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "run_python_code succeeded in Finder",
+        "time": "2025-11-30T10:39:40.296427"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:39:40.296417"
+  },
+  "run_shell_cmd_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "run_shell_cmd succeeded in Finder",
+        "time": "2025-11-30T10:39:42.229857"
+      },
+      {
+        "observation": "run_shell_cmd succeeded in Finder",
+        "time": "2025-11-30T10:39:44.239494"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-11-30T10:39:42.229845"
+  },
+  "check_python_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "check_python succeeded in Finder",
+        "time": "2025-11-30T10:39:46.252411"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:39:46.252402"
+  },
+  "check_ports_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "check_ports succeeded in Finder",
+        "time": "2025-11-30T10:39:56.302072"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:39:56.302055"
+  },
+  "observe_wait_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "observe_wait succeeded in Electron",
+        "time": "2025-11-30T10:50:41.547510"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:50:41.547500"
+  },
+  "switch_app_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "switch_app succeeded in Electron",
+        "time": "2025-11-30T10:50:43.121439"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:50:43.121429"
+  },
+  "explore_desktop_works_in_Safari": {
+    "observations": [
+      {
+        "observation": "explore_desktop succeeded in Safari",
+        "time": "2025-11-30T10:51:53.116793"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T10:51:53.116788"
+  },
+  "explore_desktop_works_in_Python": {
+    "observations": [
+      {
+        "observation": "explore_desktop succeeded in Python",
+        "time": "2025-11-30T11:05:21.791927"
+      },
+      {
+        "observation": "explore_desktop succeeded in Python",
+        "time": "2025-11-30T11:06:00.028740"
+      },
+      {
+        "observation": "explore_desktop succeeded in Python",
+        "time": "2025-11-30T11:06:14.235470"
+      },
+      {
+        "observation": "explore_desktop succeeded in Python",
+        "time": "2025-11-30T11:27:20.762814"
+      },
+      {
+        "observation": "explore_desktop succeeded in Python",
+        "time": "2025-11-30T14:33:03.003829"
+      },
+      {
+        "observation": "explore_desktop succeeded in Python",
+        "time": "2025-12-01T00:46:58.662652"
+      },
+      {
+        "observation": "explore_desktop succeeded in Python",
+        "time": "2025-12-01T14:39:45.235382"
+      },
+      {
+        "observation": "explore_desktop succeeded in Python",
+        "time": "2025-12-01T21:44:54.315292"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T11:05:21.791922"
+  },
+  "switch_app_works_in_Finder": {
+    "observations": [
+      {
+        "observation": "switch_app succeeded in Finder",
+        "time": "2025-11-30T11:05:40.019067"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T11:05:40.019048"
+  },
+  "run_python_code_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "run_python_code succeeded in Comet",
+        "time": "2025-11-30T11:26:34.721513"
+      },
+      {
+        "observation": "run_python_code succeeded in Comet",
+        "time": "2025-11-30T11:26:46.816090"
+      },
+      {
+        "observation": "run_python_code succeeded in Comet",
+        "time": "2025-11-30T11:26:54.632507"
+      },
+      {
+        "observation": "run_python_code succeeded in Comet",
+        "time": "2025-11-30T11:27:14.966633"
+      },
+      {
+        "observation": "run_python_code succeeded in Comet",
+        "time": "2025-11-30T14:30:22.795286"
+      },
+      {
+        "observation": "run_python_code succeeded in Comet",
+        "time": "2025-11-30T14:30:51.912461"
+      },
+      {
+        "observation": "run_python_code succeeded in Comet",
+        "time": "2025-11-30T14:31:04.888288"
+      },
+      {
+        "observation": "run_python_code succeeded in Comet",
+        "time": "2025-11-30T14:31:15.065575"
+      },
+      {
+        "observation": "run_python_code succeeded in Comet",
+        "time": "2025-11-30T14:31:48.810909"
+      },
+      {
+        "observation": "run_python_code succeeded in Comet",
+        "time": "2025-11-30T14:32:25.053469"
+      },
+      {
+        "observation": "run_python_code succeeded in Comet",
+        "time": "2025-11-30T18:00:52.711807"
+      },
+      {
+        "observation": "run_python_code succeeded in Comet",
+        "time": "2025-11-30T21:09:41.705109"
+      },
+      {
+        "observation": "run_python_code succeeded in Comet",
+        "time": "2025-12-01T14:21:12.040223"
+      },
+      {
+        "observation": "run_python_code succeeded in Comet",
+        "time": "2025-12-01T14:23:10.857141"
+      },
+      {
+        "observation": "run_python_code succeeded in Comet",
+        "time": "2025-12-01T15:43:13.911629"
+      },
+      {
+        "observation": "run_python_code succeeded in Comet",
+        "time": "2025-12-01T21:24:08.099174"
+      },
+      {
+        "observation": "run_python_code succeeded in Comet",
+        "time": "2025-12-01T21:24:15.672721"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T11:26:34.721503"
+  },
+  "open_url_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "open_url succeeded in Comet",
+        "time": "2025-11-30T11:26:35.795101"
+      },
+      {
+        "observation": "open_url succeeded in Comet",
+        "time": "2025-11-30T11:26:53.518522"
+      },
+      {
+        "observation": "open_url succeeded in Comet",
+        "time": "2025-11-30T11:27:14.578309"
+      },
+      {
+        "observation": "open_url succeeded in Comet",
+        "time": "2025-11-30T14:30:04.011782"
+      },
+      {
+        "observation": "open_url succeeded in Comet",
+        "time": "2025-11-30T14:30:21.804121"
+      },
+      {
+        "observation": "open_url succeeded in Comet",
+        "time": "2025-11-30T14:30:25.428165"
+      },
+      {
+        "observation": "open_url succeeded in Comet",
+        "time": "2025-11-30T14:30:51.344992"
+      },
+      {
+        "observation": "open_url succeeded in Comet",
+        "time": "2025-11-30T14:31:14.002182"
+      },
+      {
+        "observation": "open_url succeeded in Comet",
+        "time": "2025-11-30T14:31:34.141105"
+      },
+      {
+        "observation": "open_url succeeded in Comet",
+        "time": "2025-11-30T14:32:37.892763"
+      },
+      {
+        "observation": "open_url succeeded in Comet",
+        "time": "2025-11-30T18:00:42.562265"
+      },
+      {
+        "observation": "open_url succeeded in Comet",
+        "time": "2025-12-01T14:20:52.279104"
+      },
+      {
+        "observation": "open_url succeeded in Comet",
+        "time": "2025-12-01T14:21:43.723106"
+      },
+      {
+        "observation": "open_url succeeded in Comet",
+        "time": "2025-12-01T14:23:08.449285"
+      },
+      {
+        "observation": "open_url succeeded in Comet",
+        "time": "2025-12-01T14:23:16.301598"
+      },
+      {
+        "observation": "open_url succeeded in Comet",
+        "time": "2025-12-01T15:43:13.341245"
+      },
+      {
+        "observation": "open_url succeeded in Comet",
+        "time": "2025-12-01T21:24:24.351491"
+      },
+      {
+        "observation": "open_url succeeded in Comet",
+        "time": "2025-12-01T22:14:02.135391"
+      },
+      {
+        "observation": "open_url succeeded in Comet",
+        "time": "2025-12-01T22:14:57.303544"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T11:26:35.795088"
+  },
+  "open_google_chrome_fails_in_Comet": {
+    "observations": [
+      {
+        "observation": "open_google_chrome failed in Comet: Unable to find application named 'Google Chrome'",
+        "time": "2025-11-30T11:26:36.200834"
+      },
+      {
+        "observation": "open_google_chrome failed in Comet: Unable to find application named 'Google Chrome'",
+        "time": "2025-12-01T14:39:27.482752"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-11-30T11:26:36.200819"
+  },
+  "open_activity_monitor_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "open_activity_monitor succeeded in Comet",
+        "time": "2025-11-30T11:26:38.990548"
+      },
+      {
+        "observation": "open_activity_monitor succeeded in Comet",
+        "time": "2025-11-30T11:27:17.690646"
+      },
+      {
+        "observation": "open_activity_monitor succeeded in Comet",
+        "time": "2025-11-30T14:30:08.996479"
+      },
+      {
+        "observation": "open_activity_monitor succeeded in Comet",
+        "time": "2025-11-30T14:31:00.246505"
+      },
+      {
+        "observation": "open_activity_monitor succeeded in Comet",
+        "time": "2025-11-30T14:32:02.356087"
+      },
+      {
+        "observation": "open_activity_monitor succeeded in Comet",
+        "time": "2025-11-30T18:00:47.630174"
+      },
+      {
+        "observation": "open_activity_monitor succeeded in Comet",
+        "time": "2025-11-30T21:53:02.621288"
+      },
+      {
+        "observation": "open_activity_monitor succeeded in Comet",
+        "time": "2025-12-01T14:22:33.305254"
+      },
+      {
+        "observation": "open_activity_monitor succeeded in Comet",
+        "time": "2025-12-01T14:23:25.899581"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T11:26:38.990538"
+  },
+  "explore_desktop_works_in_Activity Monitor": {
+    "observations": [
+      {
+        "observation": "explore_desktop succeeded in Activity Monitor",
+        "time": "2025-11-30T11:26:40.488890"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T11:26:40.488880"
+  },
+  "get_cpu_works_in_Activity Monitor": {
+    "observations": [
+      {
+        "observation": "get_cpu succeeded in Activity Monitor",
+        "time": "2025-11-30T11:26:42.344630"
+      },
+      {
+        "observation": "get_cpu succeeded in Activity Monitor",
+        "time": "2025-11-30T21:52:44.153503"
+      },
+      {
+        "observation": "get_cpu succeeded in Activity Monitor",
+        "time": "2025-12-01T14:40:03.449134"
+      }
+    ],
+    "confidence": 0.6000000000000001,
+    "discovered": "2025-11-30T11:26:42.344619"
+  },
+  "get_disk_works_in_Activity Monitor": {
+    "observations": [
+      {
+        "observation": "get_disk succeeded in Activity Monitor",
+        "time": "2025-11-30T11:26:42.713088"
+      },
+      {
+        "observation": "get_disk succeeded in Activity Monitor",
+        "time": "2025-11-30T21:52:45.547787"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-11-30T11:26:42.713078"
+  },
+  "get_memory_works_in_Activity Monitor": {
+    "observations": [
+      {
+        "observation": "get_memory succeeded in Activity Monitor",
+        "time": "2025-11-30T11:26:44.562153"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T11:26:44.562147"
+  },
+  "open_url_works_in_Activity Monitor": {
+    "observations": [
+      {
+        "observation": "open_url succeeded in Activity Monitor",
+        "time": "2025-11-30T11:26:45.460640"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T11:26:45.460616"
+  },
+  "get_clipboard_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "get_clipboard succeeded in Comet",
+        "time": "2025-11-30T11:26:48.555184"
+      },
+      {
+        "observation": "get_clipboard succeeded in Comet",
+        "time": "2025-11-30T11:26:56.538108"
+      },
+      {
+        "observation": "get_clipboard succeeded in Comet",
+        "time": "2025-11-30T14:30:02.894763"
+      },
+      {
+        "observation": "get_clipboard succeeded in Comet",
+        "time": "2025-11-30T14:31:17.207416"
+      },
+      {
+        "observation": "get_clipboard succeeded in Comet",
+        "time": "2025-11-30T14:31:41.410802"
+      },
+      {
+        "observation": "get_clipboard succeeded in Comet",
+        "time": "2025-11-30T14:32:35.346663"
+      },
+      {
+        "observation": "get_clipboard succeeded in Comet",
+        "time": "2025-12-01T14:21:13.870760"
+      },
+      {
+        "observation": "get_clipboard succeeded in Comet",
+        "time": "2025-12-01T14:21:43.227773"
+      },
+      {
+        "observation": "get_clipboard succeeded in Comet",
+        "time": "2025-12-01T14:23:15.806587"
+      },
+      {
+        "observation": "get_clipboard succeeded in Comet",
+        "time": "2025-12-01T15:43:18.407974"
+      },
+      {
+        "observation": "get_clipboard succeeded in Comet",
+        "time": "2025-12-01T22:14:53.044920"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T11:26:48.555176"
+  },
+  "move_mouse_center_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "move_mouse_center succeeded in Comet",
+        "time": "2025-11-30T11:26:51.451357"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T11:26:51.451349"
+  },
+  "get_system_info_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "get_system_info succeeded in Comet",
+        "time": "2025-11-30T11:26:58.519636"
+      },
+      {
+        "observation": "get_system_info succeeded in Comet",
+        "time": "2025-11-30T11:27:29.666763"
+      },
+      {
+        "observation": "get_system_info succeeded in Comet",
+        "time": "2025-11-30T14:29:35.841874"
+      },
+      {
+        "observation": "get_system_info succeeded in Comet",
+        "time": "2025-11-30T14:30:18.666486"
+      },
+      {
+        "observation": "get_system_info succeeded in Comet",
+        "time": "2025-11-30T14:31:35.061599"
+      },
+      {
+        "observation": "get_system_info succeeded in Comet",
+        "time": "2025-11-30T18:00:44.998127"
+      },
+      {
+        "observation": "get_system_info succeeded in Comet",
+        "time": "2025-12-01T14:20:55.275029"
+      },
+      {
+        "observation": "get_system_info succeeded in Comet",
+        "time": "2025-12-01T14:21:16.135798"
+      },
+      {
+        "observation": "get_system_info succeeded in Comet",
+        "time": "2025-12-01T14:21:23.093143"
+      },
+      {
+        "observation": "get_system_info succeeded in Comet",
+        "time": "2025-12-01T14:21:39.928024"
+      },
+      {
+        "observation": "get_system_info succeeded in Comet",
+        "time": "2025-12-01T21:24:28.645702"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T11:26:58.519630"
+  },
+  "open_activity_monitor_works_in_Python": {
+    "observations": [
+      {
+        "observation": "open_activity_monitor succeeded in Python",
+        "time": "2025-11-30T11:27:04.264511"
+      },
+      {
+        "observation": "open_activity_monitor succeeded in Python",
+        "time": "2025-11-30T14:29:27.241906"
+      },
+      {
+        "observation": "open_activity_monitor succeeded in Python",
+        "time": "2025-11-30T14:32:56.342573"
+      },
+      {
+        "observation": "open_activity_monitor succeeded in Python",
+        "time": "2025-11-30T14:33:02.812653"
+      },
+      {
+        "observation": "open_activity_monitor succeeded in Python",
+        "time": "2025-11-30T21:52:36.396716"
+      },
+      {
+        "observation": "open_activity_monitor succeeded in Python",
+        "time": "2025-11-30T21:53:17.701492"
+      },
+      {
+        "observation": "open_activity_monitor succeeded in Python",
+        "time": "2025-12-01T00:46:44.886729"
+      },
+      {
+        "observation": "open_activity_monitor succeeded in Python",
+        "time": "2025-12-01T00:46:45.515658"
+      },
+      {
+        "observation": "open_activity_monitor succeeded in Python",
+        "time": "2025-12-01T15:43:05.319833"
+      },
+      {
+        "observation": "open_activity_monitor succeeded in Python",
+        "time": "2025-12-01T21:15:47.628435"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T11:27:04.264500"
+  },
+  "open_app_store_works_in_Python": {
+    "observations": [
+      {
+        "observation": "open_app_store succeeded in Python",
+        "time": "2025-11-30T11:27:04.775990"
+      },
+      {
+        "observation": "open_app_store succeeded in Python",
+        "time": "2025-11-30T14:29:29.332567"
+      },
+      {
+        "observation": "open_app_store succeeded in Python",
+        "time": "2025-11-30T14:29:41.344111"
+      },
+      {
+        "observation": "open_app_store succeeded in Python",
+        "time": "2025-11-30T21:11:38.692856"
+      },
+      {
+        "observation": "open_app_store succeeded in Python",
+        "time": "2025-12-01T00:46:45.432001"
+      },
+      {
+        "observation": "open_app_store succeeded in Python",
+        "time": "2025-12-01T15:43:05.948331"
+      },
+      {
+        "observation": "open_app_store succeeded in Python",
+        "time": "2025-12-01T21:15:47.657728"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T11:27:04.775983"
+  },
+  "run_python_code_works_in_App Store": {
+    "observations": [
+      {
+        "observation": "run_python_code succeeded in App Store",
+        "time": "2025-11-30T11:27:07.409086"
+      },
+      {
+        "observation": "run_python_code succeeded in App Store",
+        "time": "2025-11-30T14:29:31.848580"
+      },
+      {
+        "observation": "run_python_code succeeded in App Store",
+        "time": "2025-12-01T15:43:08.990649"
+      }
+    ],
+    "confidence": 0.6000000000000001,
+    "discovered": "2025-11-30T11:27:07.409056"
+  },
+  "open_url_works_in_App Store": {
+    "observations": [
+      {
+        "observation": "open_url succeeded in App Store",
+        "time": "2025-11-30T11:27:07.469415"
+      },
+      {
+        "observation": "open_url succeeded in App Store",
+        "time": "2025-11-30T14:29:30.474625"
+      },
+      {
+        "observation": "open_url succeeded in App Store",
+        "time": "2025-11-30T14:31:03.445311"
+      },
+      {
+        "observation": "open_url succeeded in App Store",
+        "time": "2025-11-30T14:32:23.311287"
+      },
+      {
+        "observation": "open_url succeeded in App Store",
+        "time": "2025-11-30T18:00:51.010677"
+      },
+      {
+        "observation": "open_url succeeded in App Store",
+        "time": "2025-11-30T21:53:37.825709"
+      },
+      {
+        "observation": "open_url succeeded in App Store",
+        "time": "2025-12-01T14:22:45.275711"
+      },
+      {
+        "observation": "open_url succeeded in App Store",
+        "time": "2025-12-01T14:23:37.398981"
+      },
+      {
+        "observation": "open_url succeeded in App Store",
+        "time": "2025-12-01T15:43:09.047615"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T11:27:07.469406"
+  },
+  "open_app_store_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "open_app_store succeeded in Comet",
+        "time": "2025-11-30T11:27:19.414278"
+      },
+      {
+        "observation": "open_app_store succeeded in Comet",
+        "time": "2025-11-30T14:30:09.005125"
+      },
+      {
+        "observation": "open_app_store succeeded in Comet",
+        "time": "2025-11-30T14:32:02.800348"
+      },
+      {
+        "observation": "open_app_store succeeded in Comet",
+        "time": "2025-11-30T18:00:47.935408"
+      },
+      {
+        "observation": "open_app_store succeeded in Comet",
+        "time": "2025-11-30T21:53:38.668849"
+      },
+      {
+        "observation": "open_app_store succeeded in Comet",
+        "time": "2025-12-01T14:22:33.385987"
+      },
+      {
+        "observation": "open_app_store succeeded in Comet",
+        "time": "2025-12-01T14:23:03.545093"
+      },
+      {
+        "observation": "open_app_store succeeded in Comet",
+        "time": "2025-12-01T14:23:04.153002"
+      },
+      {
+        "observation": "open_app_store succeeded in Comet",
+        "time": "2025-12-01T14:23:26.364445"
+      },
+      {
+        "observation": "open_app_store succeeded in Comet",
+        "time": "2025-12-01T14:23:34.258120"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T11:27:19.414272"
+  },
+  "get_hostname_works_in_Python": {
+    "observations": [
+      {
+        "observation": "get_hostname succeeded in Python",
+        "time": "2025-11-30T11:27:22.754191"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T11:27:22.754183"
+  },
+  "choose_file_fails_in_Comet": {
+    "observations": [
+      {
+        "observation": "choose_file failed in Comet: 0:11: execution error: User cancelled. (-128)",
+        "time": "2025-11-30T11:27:22.807424"
+      },
+      {
+        "observation": "choose_file failed in Comet: 0:11: execution error: User cancelled. (-128)",
+        "time": "2025-11-30T11:27:23.521656"
+      },
+      {
+        "observation": "choose_file failed in Comet: Command '['osascript', '-e', 'choose file']' timed",
+        "time": "2025-11-30T14:31:37.258108"
+      },
+      {
+        "observation": "choose_file failed in Comet: 0:11: execution error: User cancelled. (-128)",
+        "time": "2025-12-01T14:23:04.456501"
+      }
+    ],
+    "confidence": 0.7,
+    "discovered": "2025-11-30T11:27:22.807422"
+  },
+  "open_xcode_fails_in_Python": {
+    "observations": [
+      {
+        "observation": "open_xcode failed in Python: Unable to find application named 'Xcode'",
+        "time": "2025-11-30T11:27:32.047773"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T11:27:32.047768"
+  },
+  "get_cpu_works_in_Python": {
+    "observations": [
+      {
+        "observation": "get_cpu succeeded in Python",
+        "time": "2025-11-30T14:29:26.631121"
+      },
+      {
+        "observation": "get_cpu succeeded in Python",
+        "time": "2025-11-30T14:33:00.542721"
+      },
+      {
+        "observation": "get_cpu succeeded in Python",
+        "time": "2025-11-30T21:09:10.014941"
+      },
+      {
+        "observation": "get_cpu succeeded in Python",
+        "time": "2025-11-30T21:09:10.485672"
+      },
+      {
+        "observation": "get_cpu succeeded in Python",
+        "time": "2025-12-01T00:47:01.867947"
+      },
+      {
+        "observation": "get_cpu succeeded in Python",
+        "time": "2025-12-01T00:47:04.856706"
+      },
+      {
+        "observation": "get_cpu succeeded in Python",
+        "time": "2025-12-01T01:35:10.183569"
+      },
+      {
+        "observation": "get_cpu succeeded in Python",
+        "time": "2025-12-01T01:35:10.930259"
+      },
+      {
+        "observation": "get_cpu succeeded in Python",
+        "time": "2025-12-01T14:21:07.494410"
+      },
+      {
+        "observation": "get_cpu succeeded in Python",
+        "time": "2025-12-01T14:39:22.564108"
+      },
+      {
+        "observation": "get_cpu succeeded in Python",
+        "time": "2025-12-01T14:39:43.267960"
+      },
+      {
+        "observation": "get_cpu succeeded in Python",
+        "time": "2025-12-01T21:24:01.478791"
+      },
+      {
+        "observation": "get_cpu succeeded in Python",
+        "time": "2025-12-01T21:44:53.337251"
+      },
+      {
+        "observation": "get_cpu succeeded in Python",
+        "time": "2025-12-01T21:45:04.947036"
+      },
+      {
+        "observation": "get_cpu succeeded in Python",
+        "time": "2025-12-01T22:13:51.712013"
+      },
+      {
+        "observation": "get_cpu succeeded in Python",
+        "time": "2025-12-01T22:13:54.944869"
+      },
+      {
+        "observation": "get_cpu succeeded in Python",
+        "time": "2025-12-01T22:14:11.175429"
+      },
+      {
+        "observation": "get_cpu succeeded in Python",
+        "time": "2025-12-01T22:14:20.605743"
+      },
+      {
+        "observation": "get_cpu succeeded in Python",
+        "time": "2025-12-01T22:14:23.975275"
+      },
+      {
+        "observation": "get_cpu succeeded in Python",
+        "time": "2025-12-01T22:14:41.681238"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T14:29:26.631108"
+  },
+  "open_google_chrome_fails_in_App Store": {
+    "observations": [
+      {
+        "observation": "open_google_chrome failed in App Store: Unable to find application named 'Google Chrome'",
+        "time": "2025-11-30T14:29:42.147984"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T14:29:42.147977"
+  },
+  "get_cpu_works_in_App Store": {
+    "observations": [
+      {
+        "observation": "get_cpu succeeded in App Store",
+        "time": "2025-11-30T14:29:44.520518"
+      },
+      {
+        "observation": "get_cpu succeeded in App Store",
+        "time": "2025-11-30T21:53:20.899558"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-11-30T14:29:44.520512"
+  },
+  "get_disk_works_in_App Store": {
+    "observations": [
+      {
+        "observation": "get_disk succeeded in App Store",
+        "time": "2025-11-30T14:29:44.537536"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T14:29:44.537534"
+  },
+  "explore_desktop_works_in_App Store": {
+    "observations": [
+      {
+        "observation": "explore_desktop succeeded in App Store",
+        "time": "2025-11-30T14:29:47.411843"
+      },
+      {
+        "observation": "explore_desktop succeeded in App Store",
+        "time": "2025-11-30T14:32:04.544371"
+      },
+      {
+        "observation": "explore_desktop succeeded in App Store",
+        "time": "2025-11-30T14:32:14.490853"
+      },
+      {
+        "observation": "explore_desktop succeeded in App Store",
+        "time": "2025-11-30T18:00:50.073603"
+      },
+      {
+        "observation": "explore_desktop succeeded in App Store",
+        "time": "2025-11-30T21:53:28.142779"
+      },
+      {
+        "observation": "explore_desktop succeeded in App Store",
+        "time": "2025-12-01T00:46:48.534426"
+      },
+      {
+        "observation": "explore_desktop succeeded in App Store",
+        "time": "2025-12-01T14:22:35.478941"
+      },
+      {
+        "observation": "explore_desktop succeeded in App Store",
+        "time": "2025-12-01T14:23:05.850185"
+      },
+      {
+        "observation": "explore_desktop succeeded in App Store",
+        "time": "2025-12-01T14:23:35.668884"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T14:29:47.411834"
+  },
+  "open_system_preferences_works_in_Python": {
+    "observations": [
+      {
+        "observation": "open_system_preferences succeeded in Python",
+        "time": "2025-11-30T14:29:49.975570"
+      },
+      {
+        "observation": "open_system_preferences succeeded in Python",
+        "time": "2025-11-30T14:30:36.234342"
+      },
+      {
+        "observation": "open_system_preferences succeeded in Python",
+        "time": "2025-12-01T14:39:46.715615"
+      }
+    ],
+    "confidence": 0.6000000000000001,
+    "discovered": "2025-11-30T14:29:49.975557"
+  },
+  "open_url_works_in_System Settings": {
+    "observations": [
+      {
+        "observation": "open_url succeeded in System Settings",
+        "time": "2025-11-30T14:30:00.239969"
+      },
+      {
+        "observation": "open_url succeeded in System Settings",
+        "time": "2025-11-30T21:09:38.992727"
+      },
+      {
+        "observation": "open_url succeeded in System Settings",
+        "time": "2025-12-01T14:22:30.096868"
+      }
+    ],
+    "confidence": 0.6000000000000001,
+    "discovered": "2025-11-30T14:30:00.239951"
+  },
+  "run_python_code_works_in_System Settings": {
+    "observations": [
+      {
+        "observation": "run_python_code succeeded in System Settings",
+        "time": "2025-11-30T14:30:00.267693"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T14:30:00.267689"
+  },
+  "click_here_fails_in_App Store": {
+    "observations": [
+      {
+        "observation": "click_here failed in App Store: 'AuroraUltimate' object has no attribute 'mouse_cl",
+        "time": "2025-11-30T14:30:10.962612"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T14:30:10.962603"
+  },
+  "safari_get_title_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "safari_get_title succeeded in Comet",
+        "time": "2025-11-30T14:30:11.430483"
+      },
+      {
+        "observation": "safari_get_title succeeded in Comet",
+        "time": "2025-11-30T21:53:03.588375"
+      },
+      {
+        "observation": "safari_get_title succeeded in Comet",
+        "time": "2025-12-01T14:21:31.450812"
+      }
+    ],
+    "confidence": 0.6000000000000001,
+    "discovered": "2025-11-30T14:30:11.430473"
+  },
+  "get_cpu_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "get_cpu succeeded in Comet",
+        "time": "2025-11-30T14:30:20.244856"
+      },
+      {
+        "observation": "get_cpu succeeded in Comet",
+        "time": "2025-11-30T14:31:17.598281"
+      },
+      {
+        "observation": "get_cpu succeeded in Comet",
+        "time": "2025-12-01T14:20:55.840398"
+      },
+      {
+        "observation": "get_cpu succeeded in Comet",
+        "time": "2025-12-01T14:21:23.744400"
+      },
+      {
+        "observation": "get_cpu succeeded in Comet",
+        "time": "2025-12-01T14:21:41.522741"
+      },
+      {
+        "observation": "get_cpu succeeded in Comet",
+        "time": "2025-12-01T14:21:46.945900"
+      },
+      {
+        "observation": "get_cpu succeeded in Comet",
+        "time": "2025-12-01T14:22:52.366312"
+      },
+      {
+        "observation": "get_cpu succeeded in Comet",
+        "time": "2025-12-01T21:24:29.055548"
+      },
+      {
+        "observation": "get_cpu succeeded in Comet",
+        "time": "2025-12-01T21:24:32.159311"
+      },
+      {
+        "observation": "get_cpu succeeded in Comet",
+        "time": "2025-12-01T22:14:54.733344"
+      },
+      {
+        "observation": "get_cpu succeeded in Comet",
+        "time": "2025-12-01T22:14:59.622946"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T14:30:20.244844"
+  },
+  "press_key_random_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "press_key_random succeeded in Comet",
+        "time": "2025-11-30T14:30:26.043012"
+      },
+      {
+        "observation": "press_key_random succeeded in Comet",
+        "time": "2025-11-30T14:30:49.747046"
+      },
+      {
+        "observation": "press_key_random succeeded in Comet",
+        "time": "2025-11-30T14:31:32.933878"
+      },
+      {
+        "observation": "press_key_random succeeded in Comet",
+        "time": "2025-12-01T14:20:50.521499"
+      },
+      {
+        "observation": "press_key_random succeeded in Comet",
+        "time": "2025-12-01T14:20:53.613282"
+      },
+      {
+        "observation": "press_key_random succeeded in Comet",
+        "time": "2025-12-01T14:21:44.246179"
+      },
+      {
+        "observation": "press_key_random succeeded in Comet",
+        "time": "2025-12-01T21:24:26.689218"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T14:30:26.043004"
+  },
+  "get_system_info_works_in_System Settings": {
+    "observations": [
+      {
+        "observation": "get_system_info succeeded in System Settings",
+        "time": "2025-11-30T14:30:36.880146"
+      },
+      {
+        "observation": "get_system_info succeeded in System Settings",
+        "time": "2025-11-30T21:09:34.153648"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-11-30T14:30:36.880137"
+  },
+  "get_cpu_works_in_System Settings": {
+    "observations": [
+      {
+        "observation": "get_cpu succeeded in System Settings",
+        "time": "2025-11-30T14:30:37.356029"
+      },
+      {
+        "observation": "get_cpu succeeded in System Settings",
+        "time": "2025-11-30T14:31:54.053621"
+      },
+      {
+        "observation": "get_cpu succeeded in System Settings",
+        "time": "2025-11-30T21:09:34.153808"
+      },
+      {
+        "observation": "get_cpu succeeded in System Settings",
+        "time": "2025-12-01T14:22:15.677837"
+      },
+      {
+        "observation": "get_cpu succeeded in System Settings",
+        "time": "2025-12-01T14:22:18.160405"
+      },
+      {
+        "observation": "get_cpu succeeded in System Settings",
+        "time": "2025-12-01T14:39:48.884558"
+      }
+    ],
+    "confidence": 0.9000000000000001,
+    "discovered": "2025-11-30T14:30:37.356019"
+  },
+  "check_disk_space_works_in_System Settings": {
+    "observations": [
+      {
+        "observation": "check_disk_space succeeded in System Settings",
+        "time": "2025-11-30T14:30:39.242519"
+      },
+      {
+        "observation": "check_disk_space succeeded in System Settings",
+        "time": "2025-11-30T21:09:36.591105"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-11-30T14:30:39.242510"
+  },
+  "open_terminal_works_in_System Settings": {
+    "observations": [
+      {
+        "observation": "open_terminal succeeded in System Settings",
+        "time": "2025-11-30T14:30:41.725835"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T14:30:41.725827"
+  },
+  "open_url_works_in_Terminal": {
+    "observations": [
+      {
+        "observation": "open_url succeeded in Terminal",
+        "time": "2025-11-30T14:30:47.964335"
+      },
+      {
+        "observation": "open_url succeeded in Terminal",
+        "time": "2025-11-30T14:31:30.878411"
+      },
+      {
+        "observation": "open_url succeeded in Terminal",
+        "time": "2025-11-30T21:52:57.927573"
+      }
+    ],
+    "confidence": 0.6000000000000001,
+    "discovered": "2025-11-30T14:30:47.964325"
+  },
+  "click_here_fails_in_Comet": {
+    "observations": [
+      {
+        "observation": "click_here failed in Comet: 'AuroraUltimate' object has no attribute 'mouse_cl",
+        "time": "2025-11-30T14:30:54.407190"
+      },
+      {
+        "observation": "click_here failed in Comet: 'AuroraUltimate' object has no attribute 'mouse_cl",
+        "time": "2025-11-30T14:31:37.569456"
+      },
+      {
+        "observation": "click_here failed in Comet: 'AuroraUltimate' object has no attribute 'mouse_cl",
+        "time": "2025-11-30T14:32:29.674135"
+      }
+    ],
+    "confidence": 0.6000000000000001,
+    "discovered": "2025-11-30T14:30:54.407183"
+  },
+  "open_app_store_works_in_Activity Monitor": {
+    "observations": [
+      {
+        "observation": "open_app_store succeeded in Activity Monitor",
+        "time": "2025-11-30T14:31:02.465584"
+      },
+      {
+        "observation": "open_app_store succeeded in Activity Monitor",
+        "time": "2025-11-30T14:32:12.164053"
+      },
+      {
+        "observation": "open_app_store succeeded in Activity Monitor",
+        "time": "2025-11-30T14:32:57.923901"
+      },
+      {
+        "observation": "open_app_store succeeded in Activity Monitor",
+        "time": "2025-11-30T21:52:38.091106"
+      },
+      {
+        "observation": "open_app_store succeeded in Activity Monitor",
+        "time": "2025-11-30T21:53:04.371970"
+      },
+      {
+        "observation": "open_app_store succeeded in Activity Monitor",
+        "time": "2025-11-30T21:53:18.519003"
+      },
+      {
+        "observation": "open_app_store succeeded in Activity Monitor",
+        "time": "2025-11-30T21:53:25.837772"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-11-30T14:31:02.465573"
+  },
+  "open_terminal_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "open_terminal succeeded in Comet",
+        "time": "2025-11-30T14:31:19.975913"
+      },
+      {
+        "observation": "open_terminal succeeded in Comet",
+        "time": "2025-12-01T14:21:51.571798"
+      },
+      {
+        "observation": "open_terminal succeeded in Comet",
+        "time": "2025-12-01T14:22:55.414355"
+      }
+    ],
+    "confidence": 0.6000000000000001,
+    "discovered": "2025-11-30T14:31:19.975907"
+  },
+  "run_python_code_works_in_Terminal": {
+    "observations": [
+      {
+        "observation": "run_python_code succeeded in Terminal",
+        "time": "2025-11-30T14:31:22.307814"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T14:31:22.307801"
+  },
+  "move_mouse_center_works_in_Terminal": {
+    "observations": [
+      {
+        "observation": "move_mouse_center succeeded in Terminal",
+        "time": "2025-11-30T14:31:25.625614"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T14:31:25.625606"
+  },
+  "observe_wait_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "observe_wait succeeded in Comet",
+        "time": "2025-11-30T14:31:43.305246"
+      },
+      {
+        "observation": "observe_wait succeeded in Comet",
+        "time": "2025-12-01T14:39:29.593799"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-11-30T14:31:43.305236"
+  },
+  "process_list_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "process_list succeeded in Comet",
+        "time": "2025-11-30T14:31:46.357474"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T14:31:46.357468"
+  },
+  "open_system_preferences_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "open_system_preferences succeeded in Comet",
+        "time": "2025-11-30T14:31:52.619658"
+      },
+      {
+        "observation": "open_system_preferences succeeded in Comet",
+        "time": "2025-12-01T21:24:35.362545"
+      },
+      {
+        "observation": "open_system_preferences succeeded in Comet",
+        "time": "2025-12-01T21:47:41.407809"
+      }
+    ],
+    "confidence": 0.6000000000000001,
+    "discovered": "2025-11-30T14:31:52.619647"
+  },
+  "click_here_fails_in_System Settings": {
+    "observations": [
+      {
+        "observation": "click_here failed in System Settings: 'AuroraUltimate' object has no attribute 'mouse_cl",
+        "time": "2025-11-30T14:31:56.542836"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T14:31:56.542829"
+  },
+  "try_shortcut_works_in_App Store": {
+    "observations": [
+      {
+        "observation": "try_shortcut succeeded in App Store",
+        "time": "2025-11-30T14:32:07.253883"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T14:32:07.253874"
+  },
+  "open_activity_monitor_works_in_App Store": {
+    "observations": [
+      {
+        "observation": "open_activity_monitor succeeded in App Store",
+        "time": "2025-11-30T14:32:10.824689"
+      },
+      {
+        "observation": "open_activity_monitor succeeded in App Store",
+        "time": "2025-11-30T21:52:40.636866"
+      },
+      {
+        "observation": "open_activity_monitor succeeded in App Store",
+        "time": "2025-11-30T21:53:20.762266"
+      }
+    ],
+    "confidence": 0.6000000000000001,
+    "discovered": "2025-11-30T14:32:10.824680"
+  },
+  "press_key_random_works_in_App Store": {
+    "observations": [
+      {
+        "observation": "press_key_random succeeded in App Store",
+        "time": "2025-11-30T14:32:17.216350"
+      },
+      {
+        "observation": "press_key_random succeeded in App Store",
+        "time": "2025-12-01T14:22:45.490536"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-11-30T14:32:17.216336"
+  },
+  "get_hostname_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "get_hostname succeeded in Comet",
+        "time": "2025-11-30T14:32:26.754937"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T14:32:26.754906"
+  },
+  "get_ip_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "get_ip succeeded in Comet",
+        "time": "2025-11-30T14:32:27.268447"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T14:32:27.268419"
+  },
+  "get_clipboard_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "get_clipboard succeeded in Electron",
+        "time": "2025-11-30T14:32:47.415962"
+      },
+      {
+        "observation": "get_clipboard succeeded in Electron",
+        "time": "2025-12-01T14:20:58.626917"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-11-30T14:32:47.415939"
+  },
+  "get_system_info_works_in_App Store": {
+    "observations": [
+      {
+        "observation": "get_system_info succeeded in App Store",
+        "time": "2025-11-30T14:32:59.542789"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T14:32:59.542779"
+  },
+  "click_here_fails_in_Activity Monitor": {
+    "observations": [
+      {
+        "observation": "click_here failed in Activity Monitor: 'AuroraUltimate' object has no attribute 'mouse_cl",
+        "time": "2025-11-30T14:33:05.416140"
+      },
+      {
+        "observation": "click_here failed in Activity Monitor: 'AuroraUltimate' object has no attribute 'mouse_cl",
+        "time": "2025-12-01T14:23:26.847080"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-11-30T14:33:05.416135"
+  },
+  "chrome_get_url_fails_in_Python": {
+    "observations": [
+      {
+        "observation": "chrome_get_url failed in Python: 47:57: syntax error: A property can\u2019t go after thi",
+        "time": "2025-11-30T18:00:29.274009"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T18:00:29.273997"
+  },
+  "get_clipboard_fails_in_Python": {
+    "observations": [
+      {
+        "observation": "get_clipboard failed in Python: Failsafe triggered - mouse in corner",
+        "time": "2025-11-30T18:00:54.728233"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T18:00:54.728228"
+  },
+  "open_terminal_works_in_Python": {
+    "observations": [
+      {
+        "observation": "open_terminal succeeded in Python",
+        "time": "2025-11-30T21:09:16.487377"
+      },
+      {
+        "observation": "open_terminal succeeded in Python",
+        "time": "2025-12-01T01:35:16.963385"
+      },
+      {
+        "observation": "open_terminal succeeded in Python",
+        "time": "2025-12-01T21:45:10.770956"
+      }
+    ],
+    "confidence": 0.6000000000000001,
+    "discovered": "2025-11-30T21:09:16.487374"
+  },
+  "get_cpu_works_in_Terminal": {
+    "observations": [
+      {
+        "observation": "get_cpu succeeded in Terminal",
+        "time": "2025-11-30T21:09:22.435758"
+      },
+      {
+        "observation": "get_cpu succeeded in Terminal",
+        "time": "2025-12-01T14:21:59.152264"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-11-30T21:09:22.435755"
+  },
+  "get_disk_works_in_Terminal": {
+    "observations": [
+      {
+        "observation": "get_disk succeeded in Terminal",
+        "time": "2025-11-30T21:09:22.850860"
+      },
+      {
+        "observation": "get_disk succeeded in Terminal",
+        "time": "2025-12-01T14:22:02.135218"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-11-30T21:09:22.850857"
+  },
+  "explore_desktop_works_in_Terminal": {
+    "observations": [
+      {
+        "observation": "explore_desktop succeeded in Terminal",
+        "time": "2025-11-30T21:09:23.820737"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T21:09:23.820734"
+  },
+  "open_system_preferences_works_in_Terminal": {
+    "observations": [
+      {
+        "observation": "open_system_preferences succeeded in Terminal",
+        "time": "2025-11-30T21:09:26.365080"
+      },
+      {
+        "observation": "open_system_preferences succeeded in Terminal",
+        "time": "2025-12-01T14:22:13.186895"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-11-30T21:09:26.365078"
+  },
+  "get_clipboard_works_in_System Settings": {
+    "observations": [
+      {
+        "observation": "get_clipboard succeeded in System Settings",
+        "time": "2025-11-30T21:09:37.262056"
+      },
+      {
+        "observation": "get_clipboard succeeded in System Settings",
+        "time": "2025-12-01T14:22:29.682465"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-11-30T21:09:37.262053"
+  },
+  "type_test_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "type_test succeeded in Electron",
+        "time": "2025-11-30T21:11:51.759729"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T21:11:51.759724"
+  },
+  "open_url_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "open_url succeeded in Electron",
+        "time": "2025-11-30T21:38:24.345025"
+      },
+      {
+        "observation": "open_url succeeded in Electron",
+        "time": "2025-12-01T14:20:59.020172"
+      },
+      {
+        "observation": "open_url succeeded in Electron",
+        "time": "2025-12-01T14:35:19.255801"
+      },
+      {
+        "observation": "open_url succeeded in Electron",
+        "time": "2025-12-01T15:43:19.488433"
+      },
+      {
+        "observation": "open_url succeeded in Electron",
+        "time": "2025-12-01T21:45:18.299504"
+      }
+    ],
+    "confidence": 0.8,
+    "discovered": "2025-11-30T21:38:24.345018"
+  },
+  "open_app_store_works_in_App Store": {
+    "observations": [
+      {
+        "observation": "open_app_store succeeded in App Store",
+        "time": "2025-11-30T21:52:39.782381"
+      },
+      {
+        "observation": "open_app_store succeeded in App Store",
+        "time": "2025-11-30T21:52:40.448820"
+      },
+      {
+        "observation": "open_app_store succeeded in App Store",
+        "time": "2025-12-01T00:46:46.242730"
+      }
+    ],
+    "confidence": 0.6000000000000001,
+    "discovered": "2025-11-30T21:52:39.782375"
+  },
+  "move_mouse_explore_works_in_Activity Monitor": {
+    "observations": [
+      {
+        "observation": "move_mouse_explore succeeded in Activity Monitor",
+        "time": "2025-11-30T21:52:44.761726"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T21:52:44.761713"
+  },
+  "check_firewall_works_in_Activity Monitor": {
+    "observations": [
+      {
+        "observation": "check_firewall succeeded in Activity Monitor",
+        "time": "2025-11-30T21:52:47.953060"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T21:52:47.953050"
+  },
+  "open_terminal_works_in_Activity Monitor": {
+    "observations": [
+      {
+        "observation": "open_terminal succeeded in Activity Monitor",
+        "time": "2025-11-30T21:52:50.479238"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T21:52:50.479232"
+  },
+  "explore_desktop_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "explore_desktop succeeded in Electron",
+        "time": "2025-11-30T21:53:06.027728"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T21:53:06.027722"
+  },
+  "type_test_works_in_Activity Monitor": {
+    "observations": [
+      {
+        "observation": "type_test succeeded in Activity Monitor",
+        "time": "2025-11-30T21:53:23.708396"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T21:53:23.708385"
+  },
+  "open_activity_monitor_works_in_Activity Monitor": {
+    "observations": [
+      {
+        "observation": "open_activity_monitor succeeded in Activity Monitor",
+        "time": "2025-11-30T21:53:24.049650"
+      },
+      {
+        "observation": "open_activity_monitor succeeded in Activity Monitor",
+        "time": "2025-11-30T21:53:38.253806"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-11-30T21:53:24.049643"
+  },
+  "choose_file_fails_in_Terminal": {
+    "observations": [
+      {
+        "observation": "choose_file failed in Terminal: Command '['osascript', '-e', 'choose file']' timed",
+        "time": "2025-11-30T21:53:28.136387"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T21:53:28.136384"
+  },
+  "scroll_down_works_in_App Store": {
+    "observations": [
+      {
+        "observation": "scroll_down succeeded in App Store",
+        "time": "2025-11-30T21:53:30.907064"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-11-30T21:53:30.907060"
+  },
+  "close_app_store_works_in_App Store": {
+    "observations": [
+      {
+        "observation": "close_app_store succeeded in App Store",
+        "time": "2025-12-01T00:46:51.339449"
+      },
+      {
+        "observation": "close_app_store succeeded in App Store",
+        "time": "2025-12-01T14:39:53.151236"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-12-01T00:46:51.339441"
+  },
+  "get_clipboard_works_in_Python": {
+    "observations": [
+      {
+        "observation": "get_clipboard succeeded in Python",
+        "time": "2025-12-01T01:35:11.416491"
+      },
+      {
+        "observation": "get_clipboard succeeded in Python",
+        "time": "2025-12-01T14:14:31.043121"
+      },
+      {
+        "observation": "get_clipboard succeeded in Python",
+        "time": "2025-12-01T21:24:03.098383"
+      },
+      {
+        "observation": "get_clipboard succeeded in Python",
+        "time": "2025-12-01T21:24:12.812476"
+      },
+      {
+        "observation": "get_clipboard succeeded in Python",
+        "time": "2025-12-01T22:13:58.314740"
+      },
+      {
+        "observation": "get_clipboard succeeded in Python",
+        "time": "2025-12-01T22:14:14.532687"
+      },
+      {
+        "observation": "get_clipboard succeeded in Python",
+        "time": "2025-12-01T22:14:44.774310"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-12-01T01:35:11.416479"
+  },
+  "get_cpu_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "get_cpu succeeded in Electron",
+        "time": "2025-12-01T14:14:37.372088"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T14:14:37.372080"
+  },
+  "get_disk_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "get_disk succeeded in Comet",
+        "time": "2025-12-01T14:14:38.206827"
+      },
+      {
+        "observation": "get_disk succeeded in Comet",
+        "time": "2025-12-01T14:21:47.104524"
+      },
+      {
+        "observation": "get_disk succeeded in Comet",
+        "time": "2025-12-01T21:24:32.873538"
+      }
+    ],
+    "confidence": 0.6000000000000001,
+    "discovered": "2025-12-01T14:14:38.206819"
+  },
+  "get_disk_works_in_Python": {
+    "observations": [
+      {
+        "observation": "get_disk succeeded in Python",
+        "time": "2025-12-01T14:21:08.978397"
+      },
+      {
+        "observation": "get_disk succeeded in Python",
+        "time": "2025-12-01T22:13:54.372546"
+      },
+      {
+        "observation": "get_disk succeeded in Python",
+        "time": "2025-12-01T22:13:56.963926"
+      },
+      {
+        "observation": "get_disk succeeded in Python",
+        "time": "2025-12-01T22:14:12.322079"
+      },
+      {
+        "observation": "get_disk succeeded in Python",
+        "time": "2025-12-01T22:14:22.055333"
+      },
+      {
+        "observation": "get_disk succeeded in Python",
+        "time": "2025-12-01T22:14:24.633955"
+      },
+      {
+        "observation": "get_disk succeeded in Python",
+        "time": "2025-12-01T22:14:42.328180"
+      }
+    ],
+    "confidence": 1.0,
+    "discovered": "2025-12-01T14:21:08.978379"
+  },
+  "get_memory_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "get_memory succeeded in Comet",
+        "time": "2025-12-01T14:21:49.023942"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T14:21:49.023932"
+  },
+  "choose_file_fails_in_Python": {
+    "observations": [
+      {
+        "observation": "choose_file failed in Python: Command '['osascript', '-e', 'choose file']' timed",
+        "time": "2025-12-01T14:21:56.541482"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T14:21:56.541470"
+  },
+  "get_system_info_works_in_Terminal": {
+    "observations": [
+      {
+        "observation": "get_system_info succeeded in Terminal",
+        "time": "2025-12-01T14:21:58.298742"
+      },
+      {
+        "observation": "get_system_info succeeded in Terminal",
+        "time": "2025-12-01T14:21:58.885045"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-12-01T14:21:58.298733"
+  },
+  "scan_network_works_in_Terminal": {
+    "observations": [
+      {
+        "observation": "scan_network succeeded in Terminal",
+        "time": "2025-12-01T14:22:04.653683"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T14:22:04.653671"
+  },
+  "open_terminal_works_in_Terminal": {
+    "observations": [
+      {
+        "observation": "open_terminal succeeded in Terminal",
+        "time": "2025-12-01T14:22:07.211869"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T14:22:07.211860"
+  },
+  "open_system_preferences_works_in_System Settings": {
+    "observations": [
+      {
+        "observation": "open_system_preferences succeeded in System Settings",
+        "time": "2025-12-01T14:22:18.103872"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T14:22:18.103863"
+  },
+  "explore_desktop_works_in_System Settings": {
+    "observations": [
+      {
+        "observation": "explore_desktop succeeded in System Settings",
+        "time": "2025-12-01T14:22:19.793591"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T14:22:19.793586"
+  },
+  "try_shortcut_works_in_System Settings": {
+    "observations": [
+      {
+        "observation": "try_shortcut succeeded in System Settings",
+        "time": "2025-12-01T14:22:22.566994"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T14:22:22.566982"
+  },
+  "observe_wait_works_in_App Store": {
+    "observations": [
+      {
+        "observation": "observe_wait succeeded in App Store",
+        "time": "2025-12-01T14:22:38.468704"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T14:22:38.468697"
+  },
+  "check_disk_space_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "check_disk_space succeeded in Comet",
+        "time": "2025-12-01T14:22:53.086173"
+      },
+      {
+        "observation": "check_disk_space succeeded in Comet",
+        "time": "2025-12-01T21:24:30.450996"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-12-01T14:22:53.086159"
+  },
+  "get_clipboard_works_in_App Store": {
+    "observations": [
+      {
+        "observation": "get_clipboard succeeded in App Store",
+        "time": "2025-12-01T14:23:07.244169"
+      },
+      {
+        "observation": "get_clipboard succeeded in App Store",
+        "time": "2025-12-01T15:43:09.824717"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-12-01T14:23:07.244155"
+  },
+  "run_python_code_fails_in_Comet": {
+    "observations": [
+      {
+        "observation": "run_python_code failed in Comet: Failsafe triggered - mouse in corner",
+        "time": "2025-12-01T14:23:18.345815"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T14:23:18.345808"
+  },
+  "open_visual_studio_code_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "open_visual_studio_code succeeded in Comet",
+        "time": "2025-12-01T14:23:38.493994"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T14:23:38.493977"
+  },
+  "run_python_code_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "run_python_code succeeded in Electron",
+        "time": "2025-12-01T14:23:40.801695"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T14:23:40.801688"
+  },
+  "press_key_random_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "press_key_random succeeded in Electron",
+        "time": "2025-12-01T14:35:19.529669"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T14:35:19.529662"
+  },
+  "music_play_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "music_play succeeded in Comet",
+        "time": "2025-12-01T14:39:32.067808"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T14:39:32.067806"
+  },
+  "type_test_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "type_test succeeded in Comet",
+        "time": "2025-12-01T14:39:35.948696"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T14:39:35.948680"
+  },
+  "open_activity_monitor_works_in_System Settings": {
+    "observations": [
+      {
+        "observation": "open_activity_monitor succeeded in System Settings",
+        "time": "2025-12-01T14:39:49.830251"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T14:39:49.830246"
+  },
+  "open_app_store_works_in_System Settings": {
+    "observations": [
+      {
+        "observation": "open_app_store succeeded in System Settings",
+        "time": "2025-12-01T14:39:50.270742"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T14:39:50.270734"
+  },
+  "chrome_get_url_fails_in_Activity Monitor": {
+    "observations": [
+      {
+        "observation": "chrome_get_url failed in Activity Monitor: 47:57: syntax error: A property can\u2019t go after thi",
+        "time": "2025-12-01T14:40:00.502880"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T14:40:00.502872"
+  },
+  "open_system_preferences_works_in_Activity Monitor": {
+    "observations": [
+      {
+        "observation": "open_system_preferences succeeded in Activity Monitor",
+        "time": "2025-12-01T14:40:03.437788"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T14:40:03.437781"
+  },
+  "choose_file_fails_in_Activity Monitor": {
+    "observations": [
+      {
+        "observation": "choose_file failed in Activity Monitor: 0:11: execution error: User cancelled. (-128)",
+        "time": "2025-12-01T14:40:06.705308"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T14:40:06.705305"
+  },
+  "open_activity_monitor_works_in_Electron": {
+    "observations": [
+      {
+        "observation": "open_activity_monitor succeeded in Electron",
+        "time": "2025-12-01T15:04:28.055631"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T15:04:28.055620"
+  },
+  "close_system_preferences_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "close_system_preferences succeeded in Comet",
+        "time": "2025-12-01T15:43:21.395266"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T15:43:21.395253"
+  },
+  "get_memory_works_in_Python": {
+    "observations": [
+      {
+        "observation": "get_memory succeeded in Python",
+        "time": "2025-12-01T21:45:05.805962"
+      },
+      {
+        "observation": "get_memory succeeded in Python",
+        "time": "2025-12-01T22:14:27.195083"
+      }
+    ],
+    "confidence": 0.5,
+    "discovered": "2025-12-01T21:45:05.805954"
+  },
+  "choose_file_fails_in_Electron": {
+    "observations": [
+      {
+        "observation": "choose_file failed in Electron: 0:11: execution error: User cancelled. (-128)",
+        "time": "2025-12-01T21:47:41.794266"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T21:47:41.794260"
+  },
+  "close_firefox_works_in_Python": {
+    "observations": [
+      {
+        "observation": "close_firefox succeeded in Python",
+        "time": "2025-12-01T22:14:15.008959"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T22:14:15.008946"
+  },
+  "get_wifi_works_in_Python": {
+    "observations": [
+      {
+        "observation": "get_wifi succeeded in Python",
+        "time": "2025-12-01T22:14:32.216998"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T22:14:32.216987"
+  },
+  "close_finder_works_in_Comet": {
+    "observations": [
+      {
+        "observation": "close_finder succeeded in Comet",
+        "time": "2025-12-01T22:14:47.852434"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T22:14:47.852425"
+  },
+  "get_disk_fails_in_Comet": {
+    "observations": [
+      {
+        "observation": "get_disk failed in Comet: Failsafe triggered - mouse in corner",
+        "time": "2025-12-01T22:15:00.313659"
+      }
+    ],
+    "confidence": 0.4,
+    "discovered": "2025-12-01T22:15:00.313651"
+  }
+}

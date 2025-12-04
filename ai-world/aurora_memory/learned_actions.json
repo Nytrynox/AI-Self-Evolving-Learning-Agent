@@ -1,0 +1,3422 @@
+{
+  "try_shortcut": {
+    "times_tried": 51,
+    "successes": 51,
+    "failures": 0,
+    "first_discovered": "2025-11-29T17:27:40.023638",
+    "last_used": "2025-12-01T14:22:22.561664",
+    "results": [
+      {
+        "success": true,
+        "result": "Tried shortcut: command+v (paste)",
+        "context": null,
+        "time": "2025-11-30T07:21:06.981133"
+      },
+      {
+        "success": true,
+        "result": "Tried shortcut: command+z (undo)",
+        "context": null,
+        "time": "2025-11-30T07:21:09.019767"
+      },
+      {
+        "success": true,
+        "result": "Tried shortcut: command+a (select_all)",
+        "context": null,
+        "time": "2025-11-30T10:51:05.217548"
+      },
+      {
+        "success": true,
+        "result": "Tried shortcut: command+w (close_window)",
+        "context": null,
+        "time": "2025-11-30T10:51:27.245860"
+      },
+      {
+        "success": true,
+        "result": "Tried shortcut: command+c (copy)",
+        "context": null,
+        "time": "2025-11-30T10:52:07.589825"
+      },
+      {
+        "success": true,
+        "result": "Tried shortcut: command+a (select_all)",
+        "context": null,
+        "time": "2025-11-30T10:52:15.682165"
+      },
+      {
+        "success": true,
+        "result": "Tried shortcut: command+c (copy)",
+        "context": null,
+        "time": "2025-11-30T11:05:32.052708"
+      },
+      {
+        "success": true,
+        "result": "Tried shortcut: command+a (select_all)",
+        "context": null,
+        "time": "2025-11-30T11:06:04.242395"
+      },
+      {
+        "success": true,
+        "result": "Tried shortcut: command+c (copy)",
+        "context": null,
+        "time": "2025-11-30T14:32:07.248040"
+      },
+      {
+        "success": true,
+        "result": "Tried shortcut: command+v (paste)",
+        "context": null,
+        "time": "2025-12-01T14:22:22.561675"
+      }
+    ]
+  },
+  "get_system_info": {
+    "times_tried": 66,
+    "successes": 66,
+    "failures": 0,
+    "first_discovered": "2025-11-29T17:28:45.739460",
+    "last_used": "2025-12-01T22:14:29.940674",
+    "results": [
+      {
+        "success": true,
+        "result": "System: ProductName:\t\tmacOS ProductVersion:\t\t26.1 BuildVersion:\t\t25B",
+        "context": null,
+        "time": "2025-12-01T14:21:39.922052"
+      },
+      {
+        "success": true,
+        "result": "System: ProductName:\t\tmacOS ProductVersion:\t\t26.1 BuildVersion:\t\t25B",
+        "context": null,
+        "time": "2025-12-01T14:21:58.293176"
+      },
+      {
+        "success": true,
+        "result": "System: ProductName:\t\tmacOS ProductVersion:\t\t26.1 BuildVersion:\t\t25B",
+        "context": null,
+        "time": "2025-12-01T14:21:58.879722"
+      },
+      {
+        "success": true,
+        "result": "System: ProductName:\t\tmacOS ProductVersion:\t\t26.1 BuildVersion:\t\t25B",
+        "context": null,
+        "time": "2025-12-01T14:22:51.527712"
+      },
+      {
+        "success": true,
+        "result": "System: ProductName:\t\tmacOS ProductVersion:\t\t26.1 BuildVersion:\t\t25B",
+        "context": null,
+        "time": "2025-12-01T14:39:20.890845"
+      },
+      {
+        "success": true,
+        "result": "System: ProductName:\t\tmacOS ProductVersion:\t\t26.1 BuildVersion:\t\t25B",
+        "context": null,
+        "time": "2025-12-01T21:23:59.961088"
+      },
+      {
+        "success": true,
+        "result": "System: ProductName:\t\tmacOS ProductVersion:\t\t26.1 BuildVersion:\t\t25B",
+        "context": null,
+        "time": "2025-12-01T21:24:28.639012"
+      },
+      {
+        "success": true,
+        "result": "System: ProductName:\t\tmacOS ProductVersion:\t\t26.1 BuildVersion:\t\t25B",
+        "context": null,
+        "time": "2025-12-01T21:45:04.373984"
+      },
+      {
+        "success": true,
+        "result": "System: ProductName:\t\tmacOS ProductVersion:\t\t26.1 BuildVersion:\t\t25B",
+        "context": null,
+        "time": "2025-12-01T21:50:06.010887"
+      },
+      {
+        "success": true,
+        "result": "System: ProductName:\t\tmacOS ProductVersion:\t\t26.1 BuildVersion:\t\t25B",
+        "context": null,
+        "time": "2025-12-01T22:14:29.940691"
+      }
+    ]
+  },
+  "check_clipboard": {
+    "times_tried": 29,
+    "successes": 29,
+    "failures": 0,
+    "first_discovered": "2025-11-29T17:28:48.235755",
+    "last_used": "2025-11-30T11:05:51.836200",
+    "results": [
+      {
+        "success": true,
+        "result": "Clipboard: karthik@KARTHIKs-MacBook-Air y % cd /Users/karthik",
+        "context": null,
+        "time": "2025-11-30T07:22:22.981100"
+      },
+      {
+        "success": true,
+        "result": "Clipboard: karthik@KARTHIKs-MacBook-Air y % cd /Users/karthik",
+        "context": null,
+        "time": "2025-11-30T07:23:21.170519"
+      },
+      {
+        "success": true,
+        "result": "Clipboard: karthik@KARTHIKs-MacBook-Air y % python3 aurora_ul",
+        "context": null,
+        "time": "2025-11-30T10:20:23.311157"
+      },
+      {
+        "success": true,
+        "result": "Clipboard: Heuristic functions\u200b",
+        "context": null,
+        "time": "2025-11-30T10:38:08.347243"
+      },
+      {
+        "success": true,
+        "result": "Clipboard: Heuristic functions\u200b",
+        "context": null,
+        "time": "2025-11-30T10:39:06.213736"
+      },
+      {
+        "success": true,
+        "result": "Clipboard: For first iteration we pop node S and move it to t",
+        "context": null,
+        "time": "2025-11-30T10:51:07.003113"
+      },
+      {
+        "success": true,
+        "result": "Clipboard: For first iteration we pop node S and move it to t",
+        "context": null,
+        "time": "2025-11-30T10:51:23.017709"
+      },
+      {
+        "success": true,
+        "result": "Clipboard: For first iteration we pop node S and move it to t",
+        "context": null,
+        "time": "2025-11-30T10:52:21.346650"
+      },
+      {
+        "success": true,
+        "result": "Clipboard: cd \"/Users/karthik/Downloads/y/ai-world\" && python",
+        "context": null,
+        "time": "2025-11-30T11:05:45.808073"
+      },
+      {
+        "success": true,
+        "result": "Clipboard: cd \"/Users/karthik/Downloads/y/ai-world\" && python",
+        "context": null,
+        "time": "2025-11-30T11:05:51.836207"
+      }
+    ]
+  },
+  "take_screenshot": {
+    "times_tried": 30,
+    "successes": 30,
+    "failures": 0,
+    "first_discovered": "2025-11-29T17:28:50.434524",
+    "last_used": "2025-11-30T11:05:50.042476",
+    "results": [
+      {
+        "success": true,
+        "result": "Screenshot saved",
+        "context": null,
+        "time": "2025-11-30T07:23:23.380950"
+      },
+      {
+        "success": true,
+        "result": "Screenshot saved",
+        "context": null,
+        "time": "2025-11-30T10:20:25.435345"
+      },
+      {
+        "success": true,
+        "result": "Screenshot saved",
+        "context": null,
+        "time": "2025-11-30T10:38:10.524834"
+      },
+      {
+        "success": true,
+        "result": "Screenshot saved",
+        "context": null,
+        "time": "2025-11-30T10:39:08.374186"
+      },
+      {
+        "success": true,
+        "result": "Screenshot saved",
+        "context": null,
+        "time": "2025-11-30T10:51:01.179168"
+      },
+      {
+        "success": true,
+        "result": "Screenshot saved",
+        "context": null,
+        "time": "2025-11-30T10:51:25.172131"
+      },
+      {
+        "success": true,
+        "result": "Screenshot saved",
+        "context": null,
+        "time": "2025-11-30T10:51:41.287937"
+      },
+      {
+        "success": true,
+        "result": "Screenshot saved",
+        "context": null,
+        "time": "2025-11-30T10:51:45.378377"
+      },
+      {
+        "success": true,
+        "result": "Screenshot saved",
+        "context": null,
+        "time": "2025-11-30T10:52:17.527594"
+      },
+      {
+        "success": true,
+        "result": "Screenshot saved",
+        "context": null,
+        "time": "2025-11-30T11:05:50.042488"
+      }
+    ]
+  },
+  "open_finder": {
+    "times_tried": 25,
+    "successes": 25,
+    "failures": 0,
+    "first_discovered": "2025-11-29T17:28:54.357824",
+    "last_used": "2025-11-30T11:06:34.181372",
+    "results": [
+      {
+        "success": true,
+        "result": "Opened Finder",
+        "context": null,
+        "time": "2025-11-29T19:35:24.844981"
+      },
+      {
+        "success": true,
+        "result": "Opened Finder",
+        "context": null,
+        "time": "2025-11-29T19:36:13.090638"
+      },
+      {
+        "success": true,
+        "result": "Opened Finder",
+        "context": null,
+        "time": "2025-11-29T19:36:29.239284"
+      },
+      {
+        "success": true,
+        "result": "Opened Finder",
+        "context": null,
+        "time": "2025-11-29T19:37:09.760093"
+      },
+      {
+        "success": true,
+        "result": "Opened Finder",
+        "context": null,
+        "time": "2025-11-29T19:37:17.538227"
+      },
+      {
+        "success": true,
+        "result": "Opened Finder",
+        "context": null,
+        "time": "2025-11-30T10:39:12.349553"
+      },
+      {
+        "success": true,
+        "result": "Opened Finder",
+        "context": null,
+        "time": "2025-11-30T10:51:09.114802"
+      },
+      {
+        "success": true,
+        "result": "Opened Finder",
+        "context": null,
+        "time": "2025-11-30T11:05:35.874617"
+      },
+      {
+        "success": true,
+        "result": "Opened Finder",
+        "context": null,
+        "time": "2025-11-30T11:06:20.163287"
+      },
+      {
+        "success": true,
+        "result": "Opened Finder",
+        "context": null,
+        "time": "2025-11-30T11:06:34.181382"
+      }
+    ]
+  },
+  "speak_thought": {
+    "times_tried": 29,
+    "successes": 29,
+    "failures": 0,
+    "first_discovered": "2025-11-29T17:28:54.401455",
+    "last_used": "2025-11-30T11:06:00.226141",
+    "results": [
+      {
+        "success": true,
+        "result": "Said: Interesting!",
+        "context": null,
+        "time": "2025-11-30T10:20:29.557524"
+      },
+      {
+        "success": true,
+        "result": "Said: Interesting!",
+        "context": null,
+        "time": "2025-11-30T10:38:14.946063"
+      },
+      {
+        "success": true,
+        "result": "Said: I am learning",
+        "context": null,
+        "time": "2025-11-30T10:39:12.936061"
+      },
+      {
+        "success": true,
+        "result": "Said: I am learning",
+        "context": null,
+        "time": "2025-11-30T10:50:28.553409"
+      },
+      {
+        "success": true,
+        "result": "Said: Interesting!",
+        "context": null,
+        "time": "2025-11-30T10:51:17.014909"
+      },
+      {
+        "success": true,
+        "result": "Said: What does this do?",
+        "context": null,
+        "time": "2025-11-30T10:51:30.877986"
+      },
+      {
+        "success": true,
+        "result": "Said: Hello world",
+        "context": null,
+        "time": "2025-11-30T10:51:59.218537"
+      },
+      {
+        "success": true,
+        "result": "Said: Cycle number 50",
+        "context": null,
+        "time": "2025-11-30T10:52:08.914278"
+      },
+      {
+        "success": true,
+        "result": "Said: I am learning",
+        "context": null,
+        "time": "2025-11-30T10:52:16.823447"
+      },
+      {
+        "success": true,
+        "result": "Said: I am learning",
+        "context": null,
+        "time": "2025-11-30T11:06:00.226146"
+      }
+    ]
+  },
+  "explore_desktop": {
+    "times_tried": 46,
+    "successes": 46,
+    "failures": 0,
+    "first_discovered": "2025-11-29T17:28:56.235808",
+    "last_used": "2025-12-01T21:44:54.309796",
+    "results": [
+      {
+        "success": true,
+        "result": "Desktop: 2 items - ['.DS_Store', '.idea']",
+        "context": null,
+        "time": "2025-11-30T21:53:06.021707"
+      },
+      {
+        "success": true,
+        "result": "Desktop: 2 items - ['.DS_Store', '.idea']",
+        "context": null,
+        "time": "2025-11-30T21:53:28.129894"
+      },
+      {
+        "success": true,
+        "result": "Desktop: 2 items - ['.DS_Store', '.idea']",
+        "context": null,
+        "time": "2025-12-01T00:46:48.529059"
+      },
+      {
+        "success": true,
+        "result": "Desktop: 2 items - ['.DS_Store', '.idea']",
+        "context": null,
+        "time": "2025-12-01T00:46:58.652355"
+      },
+      {
+        "success": true,
+        "result": "Desktop: 2 items - ['.DS_Store', '.idea']",
+        "context": null,
+        "time": "2025-12-01T14:22:19.788317"
+      },
+      {
+        "success": true,
+        "result": "Desktop: 2 items - ['.DS_Store', '.idea']",
+        "context": null,
+        "time": "2025-12-01T14:22:35.472314"
+      },
+      {
+        "success": true,
+        "result": "Desktop: 2 items - ['.DS_Store', '.idea']",
+        "context": null,
+        "time": "2025-12-01T14:23:05.835206"
+      },
+      {
+        "success": true,
+        "result": "Desktop: 2 items - ['.DS_Store', '.idea']",
+        "context": null,
+        "time": "2025-12-01T14:23:35.662874"
+      },
+      {
+        "success": true,
+        "result": "Desktop: 2 items - ['.DS_Store', '.idea']",
+        "context": null,
+        "time": "2025-12-01T14:39:45.229198"
+      },
+      {
+        "success": true,
+        "result": "Desktop: 2 items - ['.DS_Store', '.idea']",
+        "context": null,
+        "time": "2025-12-01T21:44:54.309804"
+      }
+    ]
+  },
+  "click_here": {
+    "times_tried": 52,
+    "successes": 43,
+    "failures": 9,
+    "first_discovered": "2025-11-29T17:28:58.393191",
+    "last_used": "2025-12-01T14:23:26.840973",
+    "results": [
+      {
+        "success": true,
+        "result": "Clicked at (855, 556)",
+        "context": null,
+        "time": "2025-11-30T07:23:31.402662"
+      },
+      {
+        "success": false,
+        "result": "'AuroraUltimate' object has no attribute 'mouse_cl",
+        "context": null,
+        "time": "2025-11-30T10:27:24.890992"
+      },
+      {
+        "success": false,
+        "result": "'AuroraUltimate' object has no attribute 'mouse_cl",
+        "context": null,
+        "time": "2025-11-30T10:27:43.718181"
+      },
+      {
+        "success": false,
+        "result": "'AuroraUltimate' object has no attribute 'mouse_cl",
+        "context": null,
+        "time": "2025-11-30T14:30:10.955438"
+      },
+      {
+        "success": false,
+        "result": "'AuroraUltimate' object has no attribute 'mouse_cl",
+        "context": null,
+        "time": "2025-11-30T14:30:54.401662"
+      },
+      {
+        "success": false,
+        "result": "'AuroraUltimate' object has no attribute 'mouse_cl",
+        "context": null,
+        "time": "2025-11-30T14:31:37.564257"
+      },
+      {
+        "success": false,
+        "result": "'AuroraUltimate' object has no attribute 'mouse_cl",
+        "context": null,
+        "time": "2025-11-30T14:31:56.537851"
+      },
+      {
+        "success": false,
+        "result": "'AuroraUltimate' object has no attribute 'mouse_cl",
+        "context": null,
+        "time": "2025-11-30T14:32:29.669049"
+      },
+      {
+        "success": false,
+        "result": "'AuroraUltimate' object has no attribute 'mouse_cl",
+        "context": null,
+        "time": "2025-11-30T14:33:05.410887"
+      },
+      {
+        "success": false,
+        "result": "'AuroraUltimate' object has no attribute 'mouse_cl",
+        "context": null,
+        "time": "2025-12-01T14:23:26.840981"
+      }
+    ]
+  },
+  "observe_wait": {
+    "times_tried": 87,
+    "successes": 87,
+    "failures": 0,
+    "first_discovered": "2025-11-29T17:29:00.690852",
+    "last_used": "2025-12-01T14:39:29.587492",
+    "results": [
+      {
+        "success": true,
+        "result": "Observed environment",
+        "context": null,
+        "time": "2025-11-30T10:39:17.302461"
+      },
+      {
+        "success": true,
+        "result": "Observed environment",
+        "context": null,
+        "time": "2025-11-30T10:39:55.229025"
+      },
+      {
+        "success": true,
+        "result": "Observed environment",
+        "context": null,
+        "time": "2025-11-30T10:50:41.542551"
+      },
+      {
+        "success": true,
+        "result": "Observed environment",
+        "context": null,
+        "time": "2025-11-30T11:05:42.325907"
+      },
+      {
+        "success": true,
+        "result": "Observed environment",
+        "context": null,
+        "time": "2025-11-30T11:05:55.036211"
+      },
+      {
+        "success": true,
+        "result": "Observed environment",
+        "context": null,
+        "time": "2025-11-30T11:06:30.987864"
+      },
+      {
+        "success": true,
+        "result": "Observed environment",
+        "context": null,
+        "time": "2025-11-30T14:30:28.877064"
+      },
+      {
+        "success": true,
+        "result": "Observed environment",
+        "context": null,
+        "time": "2025-11-30T14:31:43.300209"
+      },
+      {
+        "success": true,
+        "result": "Observed environment",
+        "context": null,
+        "time": "2025-12-01T14:22:38.462120"
+      },
+      {
+        "success": true,
+        "result": "Observed environment",
+        "context": null,
+        "time": "2025-12-01T14:39:29.587501"
+      }
+    ]
+  },
+  "press_key_random": {
+    "times_tried": 60,
+    "successes": 60,
+    "failures": 0,
+    "first_discovered": "2025-11-29T17:29:22.419276",
+    "last_used": "2025-12-01T21:44:57.162083",
+    "results": [
+      {
+        "success": true,
+        "result": "Pressed: left",
+        "context": null,
+        "time": "2025-11-30T14:32:40.691109"
+      },
+      {
+        "success": true,
+        "result": "Pressed: down",
+        "context": null,
+        "time": "2025-11-30T21:11:48.417541"
+      },
+      {
+        "success": true,
+        "result": "Pressed: escape",
+        "context": null,
+        "time": "2025-12-01T14:20:50.515459"
+      },
+      {
+        "success": true,
+        "result": "Pressed: escape",
+        "context": null,
+        "time": "2025-12-01T14:20:53.606267"
+      },
+      {
+        "success": true,
+        "result": "Pressed: tab",
+        "context": null,
+        "time": "2025-12-01T14:21:44.240551"
+      },
+      {
+        "success": true,
+        "result": "Pressed: up",
+        "context": null,
+        "time": "2025-12-01T14:22:45.481253"
+      },
+      {
+        "success": true,
+        "result": "Pressed: tab",
+        "context": null,
+        "time": "2025-12-01T14:35:19.515753"
+      },
+      {
+        "success": true,
+        "result": "Pressed: right",
+        "context": null,
+        "time": "2025-12-01T14:39:35.238209"
+      },
+      {
+        "success": true,
+        "result": "Pressed: space",
+        "context": null,
+        "time": "2025-12-01T21:24:26.682445"
+      },
+      {
+        "success": true,
+        "result": "Pressed: down",
+        "context": null,
+        "time": "2025-12-01T21:44:57.162091"
+      }
+    ]
+  },
+  "open_spotlight": {
+    "times_tried": 27,
+    "successes": 27,
+    "failures": 0,
+    "first_discovered": "2025-11-29T17:29:26.462766",
+    "last_used": "2025-11-30T11:06:22.339425",
+    "results": [
+      {
+        "success": true,
+        "result": "Opened Spotlight",
+        "context": null,
+        "time": "2025-11-30T10:37:58.515288"
+      },
+      {
+        "success": true,
+        "result": "Opened Spotlight",
+        "context": null,
+        "time": "2025-11-30T10:39:48.511931"
+      },
+      {
+        "success": true,
+        "result": "Opened Spotlight",
+        "context": null,
+        "time": "2025-11-30T10:50:33.058441"
+      },
+      {
+        "success": true,
+        "result": "Opened Spotlight",
+        "context": null,
+        "time": "2025-11-30T10:50:45.207547"
+      },
+      {
+        "success": true,
+        "result": "Opened Spotlight",
+        "context": null,
+        "time": "2025-11-30T10:51:17.273428"
+      },
+      {
+        "success": true,
+        "result": "Opened Spotlight",
+        "context": null,
+        "time": "2025-11-30T10:51:51.347209"
+      },
+      {
+        "success": true,
+        "result": "Opened Spotlight",
+        "context": null,
+        "time": "2025-11-30T10:52:01.542288"
+      },
+      {
+        "success": true,
+        "result": "Opened Spotlight",
+        "context": null,
+        "time": "2025-11-30T10:52:03.551029"
+      },
+      {
+        "success": true,
+        "result": "Opened Spotlight",
+        "context": null,
+        "time": "2025-11-30T11:06:02.133893"
+      },
+      {
+        "success": true,
+        "result": "Opened Spotlight",
+        "context": null,
+        "time": "2025-11-30T11:06:22.339433"
+      }
+    ]
+  },
+  "open_safari": {
+    "times_tried": 24,
+    "successes": 24,
+    "failures": 0,
+    "first_discovered": "2025-11-29T17:29:28.304031",
+    "last_used": "2025-12-01T21:44:56.597857",
+    "results": [
+      {
+        "success": true,
+        "result": "Opened Safari",
+        "context": null,
+        "time": "2025-11-29T19:37:53.592113"
+      },
+      {
+        "success": true,
+        "result": "Opened Safari",
+        "context": null,
+        "time": "2025-11-30T10:27:15.329573"
+      },
+      {
+        "success": true,
+        "result": "Opened Safari",
+        "context": null,
+        "time": "2025-11-30T10:37:20.283789"
+      },
+      {
+        "success": true,
+        "result": "Opened Safari",
+        "context": null,
+        "time": "2025-11-30T10:38:00.570652"
+      },
+      {
+        "success": true,
+        "result": "Opened Safari",
+        "context": null,
+        "time": "2025-11-30T10:38:52.432996"
+      },
+      {
+        "success": true,
+        "result": "Opened Safari",
+        "context": null,
+        "time": "2025-11-30T10:39:50.408295"
+      },
+      {
+        "success": true,
+        "result": "Opened Safari",
+        "context": null,
+        "time": "2025-11-30T10:51:43.180734"
+      },
+      {
+        "success": true,
+        "result": "Opened Safari",
+        "context": null,
+        "time": "2025-11-30T10:51:59.458361"
+      },
+      {
+        "success": true,
+        "result": "Opened Safari",
+        "context": null,
+        "time": "2025-11-30T14:32:38.639797"
+      },
+      {
+        "success": true,
+        "result": "Opened Safari",
+        "context": null,
+        "time": "2025-12-01T21:44:56.597871"
+      }
+    ]
+  },
+  "switch_app": {
+    "times_tried": 25,
+    "successes": 25,
+    "failures": 0,
+    "first_discovered": "2025-11-29T17:29:31.233960",
+    "last_used": "2025-11-30T11:06:32.418315",
+    "results": [
+      {
+        "success": true,
+        "result": "Switched app",
+        "context": null,
+        "time": "2025-11-30T10:27:18.550921"
+      },
+      {
+        "success": true,
+        "result": "Switched app",
+        "context": null,
+        "time": "2025-11-30T10:37:22.343144"
+      },
+      {
+        "success": true,
+        "result": "Switched app",
+        "context": null,
+        "time": "2025-11-30T10:38:02.604213"
+      },
+      {
+        "success": true,
+        "result": "Switched app",
+        "context": null,
+        "time": "2025-11-30T10:39:52.546676"
+      },
+      {
+        "success": true,
+        "result": "Switched app",
+        "context": null,
+        "time": "2025-11-30T10:50:39.201937"
+      },
+      {
+        "success": true,
+        "result": "Switched app",
+        "context": null,
+        "time": "2025-11-30T10:50:43.116219"
+      },
+      {
+        "success": true,
+        "result": "Switched app",
+        "context": null,
+        "time": "2025-11-30T10:52:11.552925"
+      },
+      {
+        "success": true,
+        "result": "Switched app",
+        "context": null,
+        "time": "2025-11-30T11:05:40.014076"
+      },
+      {
+        "success": true,
+        "result": "Switched app",
+        "context": null,
+        "time": "2025-11-30T11:06:18.510335"
+      },
+      {
+        "success": true,
+        "result": "Switched app",
+        "context": null,
+        "time": "2025-11-30T11:06:32.418332"
+      }
+    ]
+  },
+  "move_mouse_explore": {
+    "times_tried": 33,
+    "successes": 33,
+    "failures": 0,
+    "first_discovered": "2025-11-29T17:30:07.198113",
+    "last_used": "2025-12-01T14:21:02.187464",
+    "results": [
+      {
+        "success": true,
+        "result": "Moved mouse to (181, 157)",
+        "context": null,
+        "time": "2025-11-30T10:27:22.008160"
+      },
+      {
+        "success": true,
+        "result": "Moved mouse to (639, 651)",
+        "context": null,
+        "time": "2025-11-30T10:27:29.850799"
+      },
+      {
+        "success": true,
+        "result": "Moved mouse to (1607, 251)",
+        "context": null,
+        "time": "2025-11-30T10:37:12.572089"
+      },
+      {
+        "success": true,
+        "result": "Moved mouse to (522, 218)",
+        "context": null,
+        "time": "2025-11-30T10:39:27.406402"
+      },
+      {
+        "success": true,
+        "result": "Moved mouse to (375, 367)",
+        "context": null,
+        "time": "2025-11-30T10:51:32.120583"
+      },
+      {
+        "success": true,
+        "result": "Moved mouse to (590, 942)",
+        "context": null,
+        "time": "2025-11-30T10:52:10.233548"
+      },
+      {
+        "success": true,
+        "result": "Moved mouse to (1409, 120)",
+        "context": null,
+        "time": "2025-11-30T11:05:26.633812"
+      },
+      {
+        "success": true,
+        "result": "Moved mouse to (954, 299)",
+        "context": null,
+        "time": "2025-11-30T11:06:06.813559"
+      },
+      {
+        "success": true,
+        "result": "Moved mouse to (781, 714)",
+        "context": null,
+        "time": "2025-11-30T21:52:44.755582"
+      },
+      {
+        "success": true,
+        "result": "Moved mouse to (729, 511)",
+        "context": null,
+        "time": "2025-12-01T14:21:02.187481"
+      }
+    ]
+  },
+  "move_mouse_center": {
+    "times_tried": 38,
+    "successes": 38,
+    "failures": 0,
+    "first_discovered": "2025-11-29T17:30:09.183404",
+    "last_used": "2025-11-30T21:53:08.845037",
+    "results": [
+      {
+        "success": true,
+        "result": "Mouse centered at (855, 556)",
+        "context": null,
+        "time": "2025-11-30T10:50:59.764087"
+      },
+      {
+        "success": true,
+        "result": "Mouse centered at (855, 556)",
+        "context": null,
+        "time": "2025-11-30T10:51:21.795177"
+      },
+      {
+        "success": true,
+        "result": "Mouse centered at (855, 556)",
+        "context": null,
+        "time": "2025-11-30T10:51:33.811595"
+      },
+      {
+        "success": true,
+        "result": "Mouse centered at (855, 556)",
+        "context": null,
+        "time": "2025-11-30T10:51:49.912808"
+      },
+      {
+        "success": true,
+        "result": "Mouse centered at (855, 556)",
+        "context": null,
+        "time": "2025-11-30T11:06:16.986244"
+      },
+      {
+        "success": true,
+        "result": "Mouse centered at (855, 556)",
+        "context": null,
+        "time": "2025-11-30T11:06:26.996578"
+      },
+      {
+        "success": true,
+        "result": "Mouse centered at (855, 556)",
+        "context": null,
+        "time": "2025-11-30T11:06:38.959157"
+      },
+      {
+        "success": true,
+        "result": "Mouse centered at (855, 556)",
+        "context": null,
+        "time": "2025-11-30T11:26:51.445927"
+      },
+      {
+        "success": true,
+        "result": "Mouse centered at (855, 556)",
+        "context": null,
+        "time": "2025-11-30T14:31:25.620157"
+      },
+      {
+        "success": true,
+        "result": "Mouse centered at (855, 556)",
+        "context": null,
+        "time": "2025-11-30T21:53:08.845068"
+      }
+    ]
+  },
+  "scroll_down": {
+    "times_tried": 31,
+    "successes": 31,
+    "failures": 0,
+    "first_discovered": "2025-11-29T17:30:12.596361",
+    "last_used": "2025-11-30T21:53:30.901354",
+    "results": [
+      {
+        "success": true,
+        "result": "Scrolled down",
+        "context": null,
+        "time": "2025-11-29T19:38:04.125037"
+      },
+      {
+        "success": true,
+        "result": "Scrolled down",
+        "context": null,
+        "time": "2025-11-30T07:23:33.584609"
+      },
+      {
+        "success": true,
+        "result": "Scrolled down",
+        "context": null,
+        "time": "2025-11-30T10:27:27.063095"
+      },
+      {
+        "success": true,
+        "result": "Scrolled down",
+        "context": null,
+        "time": "2025-11-30T10:37:16.180069"
+      },
+      {
+        "success": true,
+        "result": "Scrolled down",
+        "context": null,
+        "time": "2025-11-30T10:39:30.429701"
+      },
+      {
+        "success": true,
+        "result": "Scrolled down",
+        "context": null,
+        "time": "2025-11-30T10:51:35.342809"
+      },
+      {
+        "success": true,
+        "result": "Scrolled down",
+        "context": null,
+        "time": "2025-11-30T10:51:37.295327"
+      },
+      {
+        "success": true,
+        "result": "Scrolled down",
+        "context": null,
+        "time": "2025-11-30T11:05:19.814559"
+      },
+      {
+        "success": true,
+        "result": "Scrolled down",
+        "context": null,
+        "time": "2025-11-30T11:05:56.013277"
+      },
+      {
+        "success": true,
+        "result": "Scrolled down",
+        "context": null,
+        "time": "2025-11-30T21:53:30.901361"
+      }
+    ]
+  },
+  "type_test": {
+    "times_tried": 41,
+    "successes": 41,
+    "failures": 0,
+    "first_discovered": "2025-11-29T17:30:23.136410",
+    "last_used": "2025-12-01T14:39:35.911262",
+    "results": [
+      {
+        "success": true,
+        "result": "Typed: hello",
+        "context": null,
+        "time": "2025-11-29T19:35:51.473942"
+      },
+      {
+        "success": true,
+        "result": "Typed: cycle101",
+        "context": null,
+        "time": "2025-11-29T19:36:05.800258"
+      },
+      {
+        "success": true,
+        "result": "Typed: cycle102",
+        "context": null,
+        "time": "2025-11-29T19:36:07.781552"
+      },
+      {
+        "success": true,
+        "result": "Typed: aurora",
+        "context": null,
+        "time": "2025-11-29T19:38:06.632172"
+      },
+      {
+        "success": true,
+        "result": "Typed: hello",
+        "context": null,
+        "time": "2025-11-29T19:38:08.582837"
+      },
+      {
+        "success": true,
+        "result": "Typed: aurora",
+        "context": null,
+        "time": "2025-11-30T07:23:35.902669"
+      },
+      {
+        "success": true,
+        "result": "Typed: cycle76",
+        "context": null,
+        "time": "2025-11-30T07:23:37.987745"
+      },
+      {
+        "success": true,
+        "result": "Typed: cycle4",
+        "context": null,
+        "time": "2025-11-30T21:11:51.752891"
+      },
+      {
+        "success": true,
+        "result": "Typed: test",
+        "context": null,
+        "time": "2025-11-30T21:53:23.702199"
+      },
+      {
+        "success": true,
+        "result": "Typed: test",
+        "context": null,
+        "time": "2025-12-01T14:39:35.911270"
+      }
+    ]
+  },
+  "check_firewall": {
+    "times_tried": 8,
+    "successes": 8,
+    "failures": 0,
+    "first_discovered": "2025-11-30T00:29:32.042436",
+    "last_used": "2025-11-30T21:52:47.945855",
+    "results": [
+      {
+        "success": true,
+        "result": "Firewall: disabled",
+        "context": null,
+        "time": "2025-11-30T00:29:32.042448"
+      },
+      {
+        "success": true,
+        "result": "Firewall: disabled",
+        "context": null,
+        "time": "2025-11-30T07:22:35.003952"
+      },
+      {
+        "success": true,
+        "result": "Firewall: disabled",
+        "context": null,
+        "time": "2025-11-30T10:20:11.163048"
+      },
+      {
+        "success": true,
+        "result": "Firewall: disabled",
+        "context": null,
+        "time": "2025-11-30T10:20:35.481319"
+      },
+      {
+        "success": true,
+        "result": "Firewall: disabled",
+        "context": null,
+        "time": "2025-11-30T10:38:28.222299"
+      },
+      {
+        "success": true,
+        "result": "Firewall: disabled",
+        "context": null,
+        "time": "2025-11-30T10:39:18.241950"
+      },
+      {
+        "success": true,
+        "result": "Firewall: disabled",
+        "context": null,
+        "time": "2025-11-30T10:39:38.226142"
+      },
+      {
+        "success": true,
+        "result": "Firewall: disabled",
+        "context": null,
+        "time": "2025-11-30T21:52:47.945876"
+      }
+    ]
+  },
+  "check_users": {
+    "times_tried": 2,
+    "successes": 2,
+    "failures": 0,
+    "first_discovered": "2025-11-30T00:29:34.322828",
+    "last_used": "2025-11-30T10:39:20.217555",
+    "results": [
+      {
+        "success": true,
+        "result": "Logged users: 1",
+        "context": null,
+        "time": "2025-11-30T00:29:34.322838"
+      },
+      {
+        "success": true,
+        "result": "Logged users: 1",
+        "context": null,
+        "time": "2025-11-30T10:39:20.217569"
+      }
+    ]
+  },
+  "check_processes": {
+    "times_tried": 4,
+    "successes": 4,
+    "failures": 0,
+    "first_discovered": "2025-11-30T00:29:36.262020",
+    "last_used": "2025-11-30T10:39:22.244271",
+    "results": [
+      {
+        "success": true,
+        "result": "Processes: 382 running",
+        "context": null,
+        "time": "2025-11-30T00:29:36.262029"
+      },
+      {
+        "success": true,
+        "result": "Processes: 373 running",
+        "context": null,
+        "time": "2025-11-30T07:22:37.036226"
+      },
+      {
+        "success": true,
+        "result": "Processes: 377 running",
+        "context": null,
+        "time": "2025-11-30T10:21:10.145405"
+      },
+      {
+        "success": true,
+        "result": "Processes: 456 running",
+        "context": null,
+        "time": "2025-11-30T10:39:22.244292"
+      }
+    ]
+  },
+  "check_running_apps": {
+    "times_tried": 9,
+    "successes": 9,
+    "failures": 0,
+    "first_discovered": "2025-11-30T00:29:38.382313",
+    "last_used": "2025-11-30T10:40:16.472955",
+    "results": [
+      {
+        "success": true,
+        "result": "Running: Finder, Electron, Comet, Safari, Python",
+        "context": null,
+        "time": "2025-11-30T00:29:38.382323"
+      },
+      {
+        "success": true,
+        "result": "Running: Finder, Electron, Comet, Safari, Python",
+        "context": null,
+        "time": "2025-11-30T00:29:42.388803"
+      },
+      {
+        "success": true,
+        "result": "Running: Finder, Electron, Comet, Safari, Python",
+        "context": null,
+        "time": "2025-11-30T00:29:50.420940"
+      },
+      {
+        "success": true,
+        "result": "Running: Finder, Electron, Comet, Safari, Python",
+        "context": null,
+        "time": "2025-11-30T07:21:59.048625"
+      },
+      {
+        "success": true,
+        "result": "Running: Finder, Electron, Comet, Safari, Python",
+        "context": null,
+        "time": "2025-11-30T07:22:41.148010"
+      },
+      {
+        "success": true,
+        "result": "Running: Finder, Electron, Comet, Safari, Python",
+        "context": null,
+        "time": "2025-11-30T07:23:13.313363"
+      },
+      {
+        "success": true,
+        "result": "Running: Electron, Comet, Finder, Safari, Python",
+        "context": null,
+        "time": "2025-11-30T10:37:44.188194"
+      },
+      {
+        "success": true,
+        "result": "Running: Electron, Comet, Finder, Safari, Python",
+        "context": null,
+        "time": "2025-11-30T10:39:24.347161"
+      },
+      {
+        "success": true,
+        "result": "Running: Electron, Comet, Finder, Safari, Python",
+        "context": null,
+        "time": "2025-11-30T10:40:16.472964"
+      }
+    ]
+  },
+  "list_installed_apps": {
+    "times_tried": 7,
+    "successes": 7,
+    "failures": 0,
+    "first_discovered": "2025-11-30T00:29:40.220897",
+    "last_used": "2025-11-30T10:40:14.327334",
+    "results": [
+      {
+        "success": true,
+        "result": "Installed apps: 8",
+        "context": null,
+        "time": "2025-11-30T00:29:40.220906"
+      },
+      {
+        "success": true,
+        "result": "Installed apps: 8",
+        "context": null,
+        "time": "2025-11-30T00:29:48.247078"
+      },
+      {
+        "success": true,
+        "result": "Installed apps: 8",
+        "context": null,
+        "time": "2025-11-30T07:21:56.897573"
+      },
+      {
+        "success": true,
+        "result": "Installed apps: 8",
+        "context": null,
+        "time": "2025-11-30T07:22:38.997554"
+      },
+      {
+        "success": true,
+        "result": "Installed apps: 8",
+        "context": null,
+        "time": "2025-11-30T07:23:11.183819"
+      },
+      {
+        "success": true,
+        "result": "Installed apps: 8",
+        "context": null,
+        "time": "2025-11-30T10:37:42.037295"
+      },
+      {
+        "success": true,
+        "result": "Installed apps: 8",
+        "context": null,
+        "time": "2025-11-30T10:40:14.327349"
+      }
+    ]
+  },
+  "check_python": {
+    "times_tried": 13,
+    "successes": 13,
+    "failures": 0,
+    "first_discovered": "2025-11-30T00:29:44.244182",
+    "last_used": "2025-11-30T10:40:06.301416",
+    "results": [
+      {
+        "success": true,
+        "result": "Python: Python 3.11.0",
+        "context": null,
+        "time": "2025-11-30T07:21:54.901129"
+      },
+      {
+        "success": true,
+        "result": "Python: Python 3.11.0",
+        "context": null,
+        "time": "2025-11-30T07:22:00.894121"
+      },
+      {
+        "success": true,
+        "result": "Python: Python 3.11.0",
+        "context": null,
+        "time": "2025-11-30T07:22:42.986568"
+      },
+      {
+        "success": true,
+        "result": "Python: Python 3.11.0",
+        "context": null,
+        "time": "2025-11-30T07:23:15.148111"
+      },
+      {
+        "success": true,
+        "result": "Python: Python 3.11.0",
+        "context": null,
+        "time": "2025-11-30T10:20:03.080465"
+      },
+      {
+        "success": true,
+        "result": "Python: Python 3.11.0",
+        "context": null,
+        "time": "2025-11-30T10:37:26.030153"
+      },
+      {
+        "success": true,
+        "result": "Python: Python 3.11.0",
+        "context": null,
+        "time": "2025-11-30T10:37:46.045556"
+      },
+      {
+        "success": true,
+        "result": "Python: Python 3.11.0",
+        "context": null,
+        "time": "2025-11-30T10:37:56.155628"
+      },
+      {
+        "success": true,
+        "result": "Python: Python 3.11.0",
+        "context": null,
+        "time": "2025-11-30T10:39:46.247521"
+      },
+      {
+        "success": true,
+        "result": "Python: Python 3.11.0",
+        "context": null,
+        "time": "2025-11-30T10:40:06.301427"
+      }
+    ]
+  },
+  "check_git": {
+    "times_tried": 8,
+    "successes": 8,
+    "failures": 0,
+    "first_discovered": "2025-11-30T00:29:46.242510",
+    "last_used": "2025-11-30T10:40:08.326579",
+    "results": [
+      {
+        "success": true,
+        "result": "Git: git version 2.52.0",
+        "context": null,
+        "time": "2025-11-30T00:29:46.242519"
+      },
+      {
+        "success": true,
+        "result": "Git: git version 2.52.0",
+        "context": null,
+        "time": "2025-11-30T00:29:54.269950"
+      },
+      {
+        "success": true,
+        "result": "Git: git version 2.52.0",
+        "context": null,
+        "time": "2025-11-30T07:22:02.961772"
+      },
+      {
+        "success": true,
+        "result": "Git: git version 2.52.0",
+        "context": null,
+        "time": "2025-11-30T07:22:45.002881"
+      },
+      {
+        "success": true,
+        "result": "Git: git version 2.52.0",
+        "context": null,
+        "time": "2025-11-30T07:23:17.148174"
+      },
+      {
+        "success": true,
+        "result": "Git: git version 2.52.0",
+        "context": null,
+        "time": "2025-11-30T10:37:28.043957"
+      },
+      {
+        "success": true,
+        "result": "Git: git version 2.52.0",
+        "context": null,
+        "time": "2025-11-30T10:37:48.037976"
+      },
+      {
+        "success": true,
+        "result": "Git: git version 2.52.0",
+        "context": null,
+        "time": "2025-11-30T10:40:08.326588"
+      }
+    ]
+  },
+  "check_permissions": {
+    "times_tried": 4,
+    "successes": 4,
+    "failures": 0,
+    "first_discovered": "2025-11-30T00:29:56.312593",
+    "last_used": "2025-11-30T10:37:34.032387",
+    "results": [
+      {
+        "success": true,
+        "result": "Home permissions checked: 5 items",
+        "context": null,
+        "time": "2025-11-30T00:29:56.312599"
+      },
+      {
+        "success": true,
+        "result": "Home permissions checked: 5 items",
+        "context": null,
+        "time": "2025-11-30T07:22:04.941992"
+      },
+      {
+        "success": true,
+        "result": "Home permissions checked: 5 items",
+        "context": null,
+        "time": "2025-11-30T10:26:32.230865"
+      },
+      {
+        "success": true,
+        "result": "Home permissions checked: 5 items",
+        "context": null,
+        "time": "2025-11-30T10:37:34.032397"
+      }
+    ]
+  },
+  "find_hidden_files": {
+    "times_tried": 9,
+    "successes": 9,
+    "failures": 0,
+    "first_discovered": "2025-11-30T00:29:58.292566",
+    "last_used": "2025-11-30T10:39:58.291042",
+    "results": [
+      {
+        "success": true,
+        "result": "Hidden files in ~: 4",
+        "context": null,
+        "time": "2025-11-30T00:29:58.292576"
+      },
+      {
+        "success": true,
+        "result": "Hidden files in ~: 4",
+        "context": null,
+        "time": "2025-11-30T07:21:40.865353"
+      },
+      {
+        "success": true,
+        "result": "Hidden files in ~: 4",
+        "context": null,
+        "time": "2025-11-30T07:22:06.928692"
+      },
+      {
+        "success": true,
+        "result": "Hidden files in ~: 4",
+        "context": null,
+        "time": "2025-11-30T10:26:34.545994"
+      },
+      {
+        "success": true,
+        "result": "Hidden files in ~: 4",
+        "context": null,
+        "time": "2025-11-30T10:27:04.884879"
+      },
+      {
+        "success": true,
+        "result": "Hidden files in ~: 4",
+        "context": null,
+        "time": "2025-11-30T10:37:36.025926"
+      },
+      {
+        "success": true,
+        "result": "Hidden files in ~: 4",
+        "context": null,
+        "time": "2025-11-30T10:38:38.276417"
+      },
+      {
+        "success": true,
+        "result": "Hidden files in ~: 4",
+        "context": null,
+        "time": "2025-11-30T10:38:56.280745"
+      },
+      {
+        "success": true,
+        "result": "Hidden files in ~: 4",
+        "context": null,
+        "time": "2025-11-30T10:39:58.291050"
+      }
+    ]
+  },
+  "explore_downloads": {
+    "times_tried": 5,
+    "successes": 5,
+    "failures": 0,
+    "first_discovered": "2025-11-30T00:30:00.331509",
+    "last_used": "2025-11-30T14:32:48.084487",
+    "results": [
+      {
+        "success": true,
+        "result": "Downloads: 12 items",
+        "context": null,
+        "time": "2025-11-30T00:30:00.331517"
+      },
+      {
+        "success": true,
+        "result": "Downloads: 12 items",
+        "context": null,
+        "time": "2025-11-30T07:22:08.910100"
+      },
+      {
+        "success": true,
+        "result": "Downloads: 12 items",
+        "context": null,
+        "time": "2025-11-30T10:26:36.564249"
+      },
+      {
+        "success": true,
+        "result": "Downloads: 12 items",
+        "context": null,
+        "time": "2025-11-30T10:37:38.014886"
+      },
+      {
+        "success": true,
+        "result": "Downloads: 12 items",
+        "context": null,
+        "time": "2025-11-30T14:32:48.084500"
+      }
+    ]
+  },
+  "ping_test": {
+    "times_tried": 7,
+    "successes": 7,
+    "failures": 0,
+    "first_discovered": "2025-11-30T07:21:14.866277",
+    "last_used": "2025-11-30T10:38:34.301822",
+    "results": [
+      {
+        "success": true,
+        "result": "Ping 1.1.1.1: SUCCESS",
+        "context": null,
+        "time": "2025-11-30T07:21:14.866295"
+      },
+      {
+        "success": true,
+        "result": "Ping 1.1.1.1: SUCCESS",
+        "context": null,
+        "time": "2025-11-30T07:21:30.919756"
+      },
+      {
+        "success": true,
+        "result": "Ping 1.1.1.1: SUCCESS",
+        "context": null,
+        "time": "2025-11-30T07:22:53.120596"
+      },
+      {
+        "success": true,
+        "result": "Ping 1.1.1.1: SUCCESS",
+        "context": null,
+        "time": "2025-11-30T10:20:19.335632"
+      },
+      {
+        "success": true,
+        "result": "Ping google.com: SUCCESS",
+        "context": null,
+        "time": "2025-11-30T10:26:52.697033"
+      },
+      {
+        "success": true,
+        "result": "Ping 1.1.1.1: SUCCESS",
+        "context": null,
+        "time": "2025-11-30T10:26:54.712168"
+      },
+      {
+        "success": true,
+        "result": "Ping 1.1.1.1: SUCCESS",
+        "context": null,
+        "time": "2025-11-30T10:38:34.301830"
+      }
+    ]
+  },
+  "dns_lookup": {
+    "times_tried": 6,
+    "successes": 6,
+    "failures": 0,
+    "first_discovered": "2025-11-30T07:21:16.864866",
+    "last_used": "2025-11-30T10:39:36.255270",
+    "results": [
+      {
+        "success": true,
+        "result": "DNS github.com: Resolved",
+        "context": null,
+        "time": "2025-11-30T07:21:16.864877"
+      },
+      {
+        "success": true,
+        "result": "DNS google.com: Resolved",
+        "context": null,
+        "time": "2025-11-30T07:21:32.878141"
+      },
+      {
+        "success": true,
+        "result": "DNS apple.com: Resolved",
+        "context": null,
+        "time": "2025-11-30T10:20:09.121825"
+      },
+      {
+        "success": true,
+        "result": "DNS apple.com: Resolved",
+        "context": null,
+        "time": "2025-11-30T10:26:56.807157"
+      },
+      {
+        "success": true,
+        "result": "DNS google.com: Resolved",
+        "context": null,
+        "time": "2025-11-30T10:38:26.165268"
+      },
+      {
+        "success": true,
+        "result": "DNS google.com: Resolved",
+        "context": null,
+        "time": "2025-11-30T10:39:36.255279"
+      }
+    ]
+  },
+  "check_ports": {
+    "times_tried": 8,
+    "successes": 8,
+    "failures": 0,
+    "first_discovered": "2025-11-30T07:21:20.800379",
+    "last_used": "2025-11-30T10:39:56.297079",
+    "results": [
+      {
+        "success": true,
+        "result": "Active connections: 5",
+        "context": null,
+        "time": "2025-11-30T07:21:20.800395"
+      },
+      {
+        "success": true,
+        "result": "Active connections: 5",
+        "context": null,
+        "time": "2025-11-30T07:21:36.880064"
+      },
+      {
+        "success": true,
+        "result": "Active connections: 5",
+        "context": null,
+        "time": "2025-11-30T07:21:38.870102"
+      },
+      {
+        "success": true,
+        "result": "Active connections: 5",
+        "context": null,
+        "time": "2025-11-30T10:27:00.931666"
+      },
+      {
+        "success": true,
+        "result": "Active connections: 5",
+        "context": null,
+        "time": "2025-11-30T10:27:02.816102"
+      },
+      {
+        "success": true,
+        "result": "Active connections: 5",
+        "context": null,
+        "time": "2025-11-30T10:38:36.351616"
+      },
+      {
+        "success": true,
+        "result": "Active connections: 5",
+        "context": null,
+        "time": "2025-11-30T10:38:54.214011"
+      },
+      {
+        "success": true,
+        "result": "Active connections: 5",
+        "context": null,
+        "time": "2025-11-30T10:39:56.297091"
+      }
+    ]
+  },
+  "curl_test": {
+    "times_tried": 4,
+    "successes": 4,
+    "failures": 0,
+    "first_discovered": "2025-11-30T07:21:20.943547",
+    "last_used": "2025-11-30T10:38:50.815151",
+    "results": [
+      {
+        "success": true,
+        "result": "HTTP: {\n  \"origin\": \"223.228.14.13\"\n}\n",
+        "context": null,
+        "time": "2025-11-30T07:21:20.943577"
+      },
+      {
+        "success": true,
+        "result": "HTTP: 2401:4900:ac2f:ecf5:7d6f:838:eb9f:71a1",
+        "context": null,
+        "time": "2025-11-30T07:21:35.514740"
+      },
+      {
+        "success": true,
+        "result": "HTTP: 119.160.199.91",
+        "context": null,
+        "time": "2025-11-30T10:26:59.635700"
+      },
+      {
+        "success": true,
+        "result": "HTTP: 119.160.199.91",
+        "context": null,
+        "time": "2025-11-30T10:38:50.815166"
+      }
+    ]
+  },
+  "run_python_code": {
+    "times_tried": 34,
+    "successes": 33,
+    "failures": 1,
+    "first_discovered": "2025-11-30T07:21:22.814839",
+    "last_used": "2025-12-01T21:45:00.869509",
+    "results": [
+      {
+        "success": true,
+        "result": "Python output: 4",
+        "context": null,
+        "time": "2025-12-01T14:14:31.366851"
+      },
+      {
+        "success": true,
+        "result": "Python output: [0, 1, 2, 3, 4]",
+        "context": null,
+        "time": "2025-12-01T14:21:12.025517"
+      },
+      {
+        "success": true,
+        "result": "Python output: Hello",
+        "context": null,
+        "time": "2025-12-01T14:23:10.847711"
+      },
+      {
+        "success": false,
+        "result": "Failsafe triggered - mouse in corner",
+        "context": null,
+        "time": "2025-12-01T14:23:18.340152"
+      },
+      {
+        "success": true,
+        "result": "Python output: 3.11.0 (v3",
+        "context": null,
+        "time": "2025-12-01T14:23:40.796039"
+      },
+      {
+        "success": true,
+        "result": "Python output: Hello",
+        "context": null,
+        "time": "2025-12-01T15:43:08.958877"
+      },
+      {
+        "success": true,
+        "result": "Python output: 3.11.0 (v3",
+        "context": null,
+        "time": "2025-12-01T15:43:13.890243"
+      },
+      {
+        "success": true,
+        "result": "Python output: 4",
+        "context": null,
+        "time": "2025-12-01T21:24:08.092897"
+      },
+      {
+        "success": true,
+        "result": "Python output: 3.11.0 (v3",
+        "context": null,
+        "time": "2025-12-01T21:24:15.666620"
+      },
+      {
+        "success": true,
+        "result": "Python output: Hello",
+        "context": null,
+        "time": "2025-12-01T21:45:00.869516"
+      }
+    ]
+  },
+  "run_shell_cmd": {
+    "times_tried": 13,
+    "successes": 13,
+    "failures": 0,
+    "first_discovered": "2025-11-30T07:21:24.881512",
+    "last_used": "2025-11-30T10:39:44.234328",
+    "results": [
+      {
+        "success": true,
+        "result": "Shell: Hello from Aurora",
+        "context": null,
+        "time": "2025-11-30T07:21:52.895320"
+      },
+      {
+        "success": true,
+        "result": "Shell: Sun Nov 30 07:23:08 IST 2025",
+        "context": null,
+        "time": "2025-11-30T07:23:09.194937"
+      },
+      {
+        "success": true,
+        "result": "Shell: /Users/karthik/Downloads/y/ai-world",
+        "context": null,
+        "time": "2025-11-30T10:19:59.053737"
+      },
+      {
+        "success": true,
+        "result": "Shell: Sun Nov 30 10:20:00 IST 2025",
+        "context": null,
+        "time": "2025-11-30T10:20:01.021653"
+      },
+      {
+        "success": true,
+        "result": "Shell: karthik",
+        "context": null,
+        "time": "2025-11-30T10:26:46.607661"
+      },
+      {
+        "success": true,
+        "result": "Shell: karthik",
+        "context": null,
+        "time": "2025-11-30T10:37:52.032846"
+      },
+      {
+        "success": true,
+        "result": "Shell: karthik",
+        "context": null,
+        "time": "2025-11-30T10:37:54.087715"
+      },
+      {
+        "success": true,
+        "result": "Shell: karthik",
+        "context": null,
+        "time": "2025-11-30T10:38:20.184858"
+      },
+      {
+        "success": true,
+        "result": "Shell: Darwin KARTHIKs-MacBook-Air.local 25.1.0",
+        "context": null,
+        "time": "2025-11-30T10:39:42.224701"
+      },
+      {
+        "success": true,
+        "result": "Shell: /Users/karthik/Downloads/y",
+        "context": null,
+        "time": "2025-11-30T10:39:44.234336"
+      }
+    ]
+  },
+  "check_ssh_keys": {
+    "times_tried": 8,
+    "successes": 8,
+    "failures": 0,
+    "first_discovered": "2025-11-30T07:21:42.829990",
+    "last_used": "2025-11-30T10:40:00.324054",
+    "results": [
+      {
+        "success": true,
+        "result": "No SSH directory",
+        "context": null,
+        "time": "2025-11-30T07:21:42.830018"
+      },
+      {
+        "success": true,
+        "result": "No SSH directory",
+        "context": null,
+        "time": "2025-11-30T07:22:10.920986"
+      },
+      {
+        "success": true,
+        "result": "No SSH directory",
+        "context": null,
+        "time": "2025-11-30T10:26:38.638560"
+      },
+      {
+        "success": true,
+        "result": "No SSH directory",
+        "context": null,
+        "time": "2025-11-30T10:27:06.795744"
+      },
+      {
+        "success": true,
+        "result": "No SSH directory",
+        "context": null,
+        "time": "2025-11-30T10:37:40.007828"
+      },
+      {
+        "success": true,
+        "result": "No SSH directory",
+        "context": null,
+        "time": "2025-11-30T10:38:40.144991"
+      },
+      {
+        "success": true,
+        "result": "No SSH directory",
+        "context": null,
+        "time": "2025-11-30T10:38:58.151378"
+      },
+      {
+        "success": true,
+        "result": "No SSH directory",
+        "context": null,
+        "time": "2025-11-30T10:40:00.324071"
+      }
+    ]
+  },
+  "check_hosts_file": {
+    "times_tried": 8,
+    "successes": 8,
+    "failures": 0,
+    "first_discovered": "2025-11-30T07:21:44.824819",
+    "last_used": "2025-11-30T10:40:02.303653",
+    "results": [
+      {
+        "success": true,
+        "result": "Host entries: 3",
+        "context": null,
+        "time": "2025-11-30T07:21:44.824829"
+      },
+      {
+        "success": true,
+        "result": "Host entries: 3",
+        "context": null,
+        "time": "2025-11-30T10:20:07.150618"
+      },
+      {
+        "success": true,
+        "result": "Host entries: 3",
+        "context": null,
+        "time": "2025-11-30T10:27:08.829230"
+      },
+      {
+        "success": true,
+        "result": "Host entries: 3",
+        "context": null,
+        "time": "2025-11-30T10:38:24.145024"
+      },
+      {
+        "success": true,
+        "result": "Host entries: 3",
+        "context": null,
+        "time": "2025-11-30T10:38:42.160266"
+      },
+      {
+        "success": true,
+        "result": "Host entries: 3",
+        "context": null,
+        "time": "2025-11-30T10:39:00.174897"
+      },
+      {
+        "success": true,
+        "result": "Host entries: 3",
+        "context": null,
+        "time": "2025-11-30T10:39:34.229232"
+      },
+      {
+        "success": true,
+        "result": "Host entries: 3",
+        "context": null,
+        "time": "2025-11-30T10:40:02.303668"
+      }
+    ]
+  },
+  "check_env_vars": {
+    "times_tried": 8,
+    "successes": 8,
+    "failures": 0,
+    "first_discovered": "2025-11-30T07:21:46.879983",
+    "last_used": "2025-11-30T10:40:04.276832",
+    "results": [
+      {
+        "success": true,
+        "result": "Env vars: 46, USER=karthik",
+        "context": null,
+        "time": "2025-11-30T07:21:46.880011"
+      },
+      {
+        "success": true,
+        "result": "Env vars: 46, USER=karthik",
+        "context": null,
+        "time": "2025-11-30T07:23:03.168789"
+      },
+      {
+        "success": true,
+        "result": "Env vars: 48, USER=karthik",
+        "context": null,
+        "time": "2025-11-30T10:26:40.647732"
+      },
+      {
+        "success": true,
+        "result": "Env vars: 48, USER=karthik",
+        "context": null,
+        "time": "2025-11-30T10:27:10.796099"
+      },
+      {
+        "success": true,
+        "result": "Env vars: 48, USER=karthik",
+        "context": null,
+        "time": "2025-11-30T10:38:14.203272"
+      },
+      {
+        "success": true,
+        "result": "Env vars: 48, USER=karthik",
+        "context": null,
+        "time": "2025-11-30T10:38:44.190695"
+      },
+      {
+        "success": true,
+        "result": "Env vars: 48, USER=karthik",
+        "context": null,
+        "time": "2025-11-30T10:39:02.139371"
+      },
+      {
+        "success": true,
+        "result": "Env vars: 48, USER=karthik",
+        "context": null,
+        "time": "2025-11-30T10:40:04.276858"
+      }
+    ]
+  },
+  "check_cpu_info": {
+    "times_tried": 5,
+    "successes": 5,
+    "failures": 0,
+    "first_discovered": "2025-11-30T07:22:12.943684",
+    "last_used": "2025-11-30T10:50:50.913863",
+    "results": [
+      {
+        "success": true,
+        "result": "CPU: Apple M2",
+        "context": null,
+        "time": "2025-11-30T07:22:12.943694"
+      },
+      {
+        "success": true,
+        "result": "CPU: Apple M2",
+        "context": null,
+        "time": "2025-11-30T07:22:30.994529"
+      },
+      {
+        "success": true,
+        "result": "CPU: Apple M2",
+        "context": null,
+        "time": "2025-11-30T07:22:55.109123"
+      },
+      {
+        "success": true,
+        "result": "CPU: Apple M2",
+        "context": null,
+        "time": "2025-11-30T10:20:31.404459"
+      },
+      {
+        "success": true,
+        "result": "CPU: Apple M2",
+        "context": null,
+        "time": "2025-11-30T10:50:50.913872"
+      }
+    ]
+  },
+  "check_memory": {
+    "times_tried": 3,
+    "successes": 3,
+    "failures": 0,
+    "first_discovered": "2025-11-30T07:22:14.947826",
+    "last_used": "2025-11-30T10:50:52.899100",
+    "results": [
+      {
+        "success": true,
+        "result": "Memory: 8.0 GB",
+        "context": null,
+        "time": "2025-11-30T07:22:14.947834"
+      },
+      {
+        "success": true,
+        "result": "Memory: 8.0 GB",
+        "context": null,
+        "time": "2025-11-30T07:22:57.145867"
+      },
+      {
+        "success": true,
+        "result": "Memory: 8.0 GB",
+        "context": null,
+        "time": "2025-11-30T10:50:52.899109"
+      }
+    ]
+  },
+  "check_disk_space": {
+    "times_tried": 9,
+    "successes": 9,
+    "failures": 0,
+    "first_discovered": "2025-11-30T07:22:16.930537",
+    "last_used": "2025-12-01T21:24:30.445238",
+    "results": [
+      {
+        "success": true,
+        "result": "Disk used: 9%",
+        "context": null,
+        "time": "2025-11-30T07:22:16.930554"
+      },
+      {
+        "success": true,
+        "result": "Disk used: 9%",
+        "context": null,
+        "time": "2025-11-30T07:22:59.128313"
+      },
+      {
+        "success": true,
+        "result": "Disk used: 10%",
+        "context": null,
+        "time": "2025-11-30T10:50:54.931760"
+      },
+      {
+        "success": true,
+        "result": "Disk used: 10%",
+        "context": null,
+        "time": "2025-11-30T14:30:39.234140"
+      },
+      {
+        "success": true,
+        "result": "Disk used: 9%",
+        "context": null,
+        "time": "2025-11-30T21:09:36.584847"
+      },
+      {
+        "success": true,
+        "result": "Disk used: 10%",
+        "context": null,
+        "time": "2025-12-01T01:35:14.315347"
+      },
+      {
+        "success": true,
+        "result": "Disk used: 10%",
+        "context": null,
+        "time": "2025-12-01T14:22:53.080184"
+      },
+      {
+        "success": true,
+        "result": "Disk used: 10%",
+        "context": null,
+        "time": "2025-12-01T14:40:06.290871"
+      },
+      {
+        "success": true,
+        "result": "Disk used: 10%",
+        "context": null,
+        "time": "2025-12-01T21:24:30.445247"
+      }
+    ]
+  },
+  "check_uptime": {
+    "times_tried": 3,
+    "successes": 3,
+    "failures": 0,
+    "first_discovered": "2025-11-30T07:22:18.969210",
+    "last_used": "2025-11-30T10:50:56.937195",
+    "results": [
+      {
+        "success": true,
+        "result": "Uptime: 7:22  up 21:36, 1 user, load averages: 2",
+        "context": null,
+        "time": "2025-11-30T07:22:18.969235"
+      },
+      {
+        "success": true,
+        "result": "Uptime: 7:23  up 21:37, 1 user, load averages: 2",
+        "context": null,
+        "time": "2025-11-30T07:23:01.208716"
+      },
+      {
+        "success": true,
+        "result": "Uptime: 10:50  up  1:34, 1 user, load averages: ",
+        "context": null,
+        "time": "2025-11-30T10:50:56.937204"
+      }
+    ]
+  },
+  "scan_network": {
+    "times_tried": 10,
+    "successes": 10,
+    "failures": 0,
+    "first_discovered": "2025-11-30T07:22:33.008922",
+    "last_used": "2025-12-01T21:45:08.339185",
+    "results": [
+      {
+        "success": true,
+        "result": "Network: |Hardware Port: Ethernet Adapter (en3)|Device: en3|Ethernet ",
+        "context": null,
+        "time": "2025-11-30T07:22:33.008944"
+      },
+      {
+        "success": true,
+        "result": "Network: |Hardware Port: Ethernet Adapter (en3)|Device: en3|Ethernet ",
+        "context": null,
+        "time": "2025-11-30T07:22:47.059975"
+      },
+      {
+        "success": true,
+        "result": "Network: |Hardware Port: Ethernet Adapter (en3)|Device: en3|Ethernet ",
+        "context": null,
+        "time": "2025-11-30T10:20:13.137235"
+      },
+      {
+        "success": true,
+        "result": "Network: |Hardware Port: Ethernet Adapter (en3)|Device: en3|Ethernet ",
+        "context": null,
+        "time": "2025-11-30T10:20:33.339962"
+      },
+      {
+        "success": true,
+        "result": "Network: |Hardware Port: Ethernet Adapter (en3)|Device: en3|Ethernet ",
+        "context": null,
+        "time": "2025-11-30T10:23:34.867128"
+      },
+      {
+        "success": true,
+        "result": "Network: |Hardware Port: Ethernet Adapter (en3)|Device: en3|Ethernet ",
+        "context": null,
+        "time": "2025-11-30T10:26:48.714797"
+      },
+      {
+        "success": true,
+        "result": "Network: |Hardware Port: Ethernet Adapter (en3)|Device: en3|Ethernet ",
+        "context": null,
+        "time": "2025-11-30T10:38:30.181784"
+      },
+      {
+        "success": true,
+        "result": "Network: |Hardware Port: Ethernet Adapter (en3)|Device: en3|Ethernet ",
+        "context": null,
+        "time": "2025-11-30T21:09:14.039769"
+      },
+      {
+        "success": true,
+        "result": "Network: |Hardware Port: Ethernet Adapter (en3)|Device: en3|Ethernet ",
+        "context": null,
+        "time": "2025-12-01T14:22:04.646275"
+      },
+      {
+        "success": true,
+        "result": "Network: |Hardware Port: Ethernet Adapter (en3)|Device: en3|Ethernet ",
+        "context": null,
+        "time": "2025-12-01T21:45:08.339193"
+      }
+    ]
+  },
+  "check_wifi": {
+    "times_tried": 2,
+    "successes": 0,
+    "failures": 2,
+    "first_discovered": "2025-11-30T07:22:49.025092",
+    "last_used": "2025-11-30T10:20:15.181633",
+    "results": [
+      {
+        "success": false,
+        "result": "[Errno 2] No such file or directory: '/System/Libr",
+        "context": null,
+        "time": "2025-11-30T07:22:49.025112"
+      },
+      {
+        "success": false,
+        "result": "[Errno 2] No such file or directory: '/System/Libr",
+        "context": null,
+        "time": "2025-11-30T10:20:15.181644"
+      }
+    ]
+  },
+  "get_ip_address": {
+    "times_tried": 7,
+    "successes": 7,
+    "failures": 0,
+    "first_discovered": "2025-11-30T07:22:51.086816",
+    "last_used": "2025-11-30T10:39:32.229214",
+    "results": [
+      {
+        "success": true,
+        "result": "IP Address: 10.35.180.70",
+        "context": null,
+        "time": "2025-11-30T07:22:51.086831"
+      },
+      {
+        "success": true,
+        "result": "IP Address: 10.150.14.100",
+        "context": null,
+        "time": "2025-11-30T10:20:05.116716"
+      },
+      {
+        "success": true,
+        "result": "IP Address: 10.150.14.100",
+        "context": null,
+        "time": "2025-11-30T10:20:17.172275"
+      },
+      {
+        "success": true,
+        "result": "IP Address: 10.150.14.100",
+        "context": null,
+        "time": "2025-11-30T10:26:50.658324"
+      },
+      {
+        "success": true,
+        "result": "IP Address: 10.150.14.100",
+        "context": null,
+        "time": "2025-11-30T10:38:22.135343"
+      },
+      {
+        "success": true,
+        "result": "IP Address: 10.150.14.100",
+        "context": null,
+        "time": "2025-11-30T10:38:32.370537"
+      },
+      {
+        "success": true,
+        "result": "IP Address: 10.150.14.100",
+        "context": null,
+        "time": "2025-11-30T10:39:32.229222"
+      }
+    ]
+  },
+  "check_homebrew": {
+    "times_tried": 5,
+    "successes": 5,
+    "failures": 0,
+    "first_discovered": "2025-11-30T07:23:05.231275",
+    "last_used": "2025-11-30T10:40:10.426242",
+    "results": [
+      {
+        "success": true,
+        "result": "Homebrew: Homebrew 5.0.3",
+        "context": null,
+        "time": "2025-11-30T07:23:05.231291"
+      },
+      {
+        "success": true,
+        "result": "Homebrew: Homebrew 5.0.3",
+        "context": null,
+        "time": "2025-11-30T10:26:42.698960"
+      },
+      {
+        "success": true,
+        "result": "Homebrew: Homebrew 5.0.3",
+        "context": null,
+        "time": "2025-11-30T10:37:30.106477"
+      },
+      {
+        "success": true,
+        "result": "Homebrew: Homebrew 5.0.3",
+        "context": null,
+        "time": "2025-11-30T10:38:16.201699"
+      },
+      {
+        "success": true,
+        "result": "Homebrew: Homebrew 5.0.3",
+        "context": null,
+        "time": "2025-11-30T10:40:10.426252"
+      }
+    ]
+  },
+  "learn_shell_history": {
+    "times_tried": 3,
+    "successes": 3,
+    "failures": 0,
+    "first_discovered": "2025-11-30T07:23:07.128270",
+    "last_used": "2025-11-30T10:38:18.181453",
+    "results": [
+      {
+        "success": true,
+        "result": "Shell history: 20 recent commands",
+        "context": null,
+        "time": "2025-11-30T07:23:07.128279"
+      },
+      {
+        "success": true,
+        "result": "Shell history: 20 recent commands",
+        "context": null,
+        "time": "2025-11-30T10:26:44.759990"
+      },
+      {
+        "success": true,
+        "result": "Shell history: 20 recent commands",
+        "context": null,
+        "time": "2025-11-30T10:38:18.181501"
+      }
+    ]
+  },
+  "open_url": {
+    "times_tried": 60,
+    "successes": 60,
+    "failures": 0,
+    "first_discovered": "2025-11-30T10:38:46.307297",
+    "last_used": "2025-12-01T22:14:57.297005",
+    "results": [
+      {
+        "success": true,
+        "result": "Opened: HackerNews",
+        "context": null,
+        "time": "2025-12-01T21:24:24.344745"
+      },
+      {
+        "success": true,
+        "result": "Opened: HackerNews",
+        "context": null,
+        "time": "2025-12-01T21:45:00.583068"
+      },
+      {
+        "success": true,
+        "result": "Opened: GitHub",
+        "context": null,
+        "time": "2025-12-01T21:45:18.287627"
+      },
+      {
+        "success": true,
+        "result": "Opened: StackOverflow",
+        "context": null,
+        "time": "2025-12-01T21:47:32.351122"
+      },
+      {
+        "success": true,
+        "result": "Opened: GitHub",
+        "context": null,
+        "time": "2025-12-01T21:50:00.457617"
+      },
+      {
+        "success": true,
+        "result": "Opened: GitHub",
+        "context": null,
+        "time": "2025-12-01T22:13:59.598492"
+      },
+      {
+        "success": true,
+        "result": "Opened: GitHub",
+        "context": null,
+        "time": "2025-12-01T22:14:02.129949"
+      },
+      {
+        "success": true,
+        "result": "Opened: HackerNews",
+        "context": null,
+        "time": "2025-12-01T22:14:14.742861"
+      },
+      {
+        "success": true,
+        "result": "Opened: HackerNews",
+        "context": null,
+        "time": "2025-12-01T22:14:45.086370"
+      },
+      {
+        "success": true,
+        "result": "Opened: GitHub",
+        "context": null,
+        "time": "2025-12-01T22:14:57.297015"
+      }
+    ]
+  },
+  "search_web": {
+    "times_tried": 1,
+    "successes": 1,
+    "failures": 0,
+    "first_discovered": "2025-11-30T10:38:48.772454",
+    "last_used": "2025-11-30T10:38:48.772477",
+    "results": [
+      {
+        "success": true,
+        "result": "Searched: Python tutorial",
+        "context": null,
+        "time": "2025-11-30T10:38:48.772478"
+      }
+    ]
+  },
+  "open_google_chrome": {
+    "times_tried": 3,
+    "successes": 0,
+    "failures": 3,
+    "first_discovered": "2025-11-30T11:26:36.190882",
+    "last_used": "2025-12-01T14:39:27.458000",
+    "results": [
+      {
+        "success": false,
+        "result": "Unable to find application named 'Google Chrome'",
+        "context": null,
+        "time": "2025-11-30T11:26:36.190909"
+      },
+      {
+        "success": false,
+        "result": "Unable to find application named 'Google Chrome'",
+        "context": null,
+        "time": "2025-11-30T14:29:42.141877"
+      },
+      {
+        "success": false,
+        "result": "Unable to find application named 'Google Chrome'",
+        "context": null,
+        "time": "2025-12-01T14:39:27.458015"
+      }
+    ]
+  },
+  "open_activity_monitor": {
+    "times_tried": 26,
+    "successes": 26,
+    "failures": 0,
+    "first_discovered": "2025-11-30T11:26:38.984823",
+    "last_used": "2025-12-01T21:15:47.621760",
+    "results": [
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-11-30T21:53:24.043568"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-11-30T21:53:38.245440"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T00:46:44.873624"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T00:46:45.507693"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T14:22:33.298185"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T14:23:25.889318"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T14:39:49.824756"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T15:04:26.941492"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T15:43:05.301843"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T21:15:47.621769"
+      }
+    ]
+  },
+  "get_cpu": {
+    "times_tried": 45,
+    "successes": 45,
+    "failures": 0,
+    "first_discovered": "2025-11-30T11:26:42.339581",
+    "last_used": "2025-12-01T22:14:59.611758",
+    "results": [
+      {
+        "success": true,
+        "result": "Apple M2",
+        "context": null,
+        "time": "2025-12-01T21:44:53.331347"
+      },
+      {
+        "success": true,
+        "result": "Apple M2",
+        "context": null,
+        "time": "2025-12-01T21:45:04.941636"
+      },
+      {
+        "success": true,
+        "result": "Apple M2",
+        "context": null,
+        "time": "2025-12-01T22:13:51.705616"
+      },
+      {
+        "success": true,
+        "result": "Apple M2",
+        "context": null,
+        "time": "2025-12-01T22:13:54.939323"
+      },
+      {
+        "success": true,
+        "result": "Apple M2",
+        "context": null,
+        "time": "2025-12-01T22:14:11.167552"
+      },
+      {
+        "success": true,
+        "result": "Apple M2",
+        "context": null,
+        "time": "2025-12-01T22:14:20.599824"
+      },
+      {
+        "success": true,
+        "result": "Apple M2",
+        "context": null,
+        "time": "2025-12-01T22:14:23.969320"
+      },
+      {
+        "success": true,
+        "result": "Apple M2",
+        "context": null,
+        "time": "2025-12-01T22:14:41.675352"
+      },
+      {
+        "success": true,
+        "result": "Apple M2",
+        "context": null,
+        "time": "2025-12-01T22:14:54.725070"
+      },
+      {
+        "success": true,
+        "result": "Apple M2",
+        "context": null,
+        "time": "2025-12-01T22:14:59.611904"
+      }
+    ]
+  },
+  "get_disk": {
+    "times_tried": 16,
+    "successes": 15,
+    "failures": 1,
+    "first_discovered": "2025-11-30T11:26:42.707870",
+    "last_used": "2025-12-01T22:15:00.307181",
+    "results": [
+      {
+        "success": true,
+        "result": "/dev/disk3s1s1   228Gi    11Gi   110Gi    10%    451k  1.2G    0%   /",
+        "context": null,
+        "time": "2025-12-01T14:21:47.097257"
+      },
+      {
+        "success": true,
+        "result": "/dev/disk3s1s1   228Gi    11Gi   110Gi    10%    451k  1.2G    0%   /",
+        "context": null,
+        "time": "2025-12-01T14:22:02.129402"
+      },
+      {
+        "success": true,
+        "result": "/dev/disk3s1s1   228Gi    11Gi   110Gi    10%    451k  1.2G    0%   /",
+        "context": null,
+        "time": "2025-12-01T21:24:32.868195"
+      },
+      {
+        "success": true,
+        "result": "/dev/disk3s1s1   228Gi    11Gi   112Gi    10%    451k  1.2G    0%   /",
+        "context": null,
+        "time": "2025-12-01T22:13:54.366647"
+      },
+      {
+        "success": true,
+        "result": "/dev/disk3s1s1   228Gi    11Gi   112Gi    10%    451k  1.2G    0%   /",
+        "context": null,
+        "time": "2025-12-01T22:13:56.956719"
+      },
+      {
+        "success": true,
+        "result": "/dev/disk3s1s1   228Gi    11Gi   112Gi    10%    451k  1.2G    0%   /",
+        "context": null,
+        "time": "2025-12-01T22:14:12.316182"
+      },
+      {
+        "success": true,
+        "result": "/dev/disk3s1s1   228Gi    11Gi   112Gi    10%    451k  1.2G    0%   /",
+        "context": null,
+        "time": "2025-12-01T22:14:22.048920"
+      },
+      {
+        "success": true,
+        "result": "/dev/disk3s1s1   228Gi    11Gi   112Gi    10%    451k  1.2G    0%   /",
+        "context": null,
+        "time": "2025-12-01T22:14:24.627450"
+      },
+      {
+        "success": true,
+        "result": "/dev/disk3s1s1   228Gi    11Gi   112Gi    10%    451k  1.2G    0%   /",
+        "context": null,
+        "time": "2025-12-01T22:14:42.321711"
+      },
+      {
+        "success": false,
+        "result": "Failsafe triggered - mouse in corner",
+        "context": null,
+        "time": "2025-12-01T22:15:00.307189"
+      }
+    ]
+  },
+  "get_memory": {
+    "times_tried": 4,
+    "successes": 4,
+    "failures": 0,
+    "first_discovered": "2025-11-30T11:26:44.557258",
+    "last_used": "2025-12-01T22:14:27.188552",
+    "results": [
+      {
+        "success": true,
+        "result": "Mach Virtual Memory Statistics: (page size of 16384 bytes)\nPages free:                                6700.\nPages active:                             53036.\nPages inactive:                           5",
+        "context": null,
+        "time": "2025-11-30T11:26:44.557273"
+      },
+      {
+        "success": true,
+        "result": "Mach Virtual Memory Statistics: (page size of 16384 bytes)\nPages free:                                8051.\nPages active:                            121294.\nPages inactive:                          11",
+        "context": null,
+        "time": "2025-12-01T14:21:49.018387"
+      },
+      {
+        "success": true,
+        "result": "Mach Virtual Memory Statistics: (page size of 16384 bytes)\nPages free:                                7218.\nPages active:                            130830.\nPages inactive:                          11",
+        "context": null,
+        "time": "2025-12-01T21:45:05.798799"
+      },
+      {
+        "success": true,
+        "result": "Mach Virtual Memory Statistics: (page size of 16384 bytes)\nPages free:                                9320.\nPages active:                             73292.\nPages inactive:                           6",
+        "context": null,
+        "time": "2025-12-01T22:14:27.188566"
+      }
+    ]
+  },
+  "get_clipboard": {
+    "times_tried": 25,
+    "successes": 24,
+    "failures": 1,
+    "first_discovered": "2025-11-30T11:26:48.550045",
+    "last_used": "2025-12-01T22:14:53.038554",
+    "results": [
+      {
+        "success": true,
+        "result": "karthik@KARTHIKs-MacBook-Air y % cd /Users/karthik/Downloads/y/ai-world && python3 aurora_ultimate.py\nAURORA ULTIMATE v4.0\n============================================================\nEvent-Driven Vis",
+        "context": null,
+        "time": "2025-12-01T14:23:07.238411"
+      },
+      {
+        "success": true,
+        "result": "karthik@KARTHIKs-MacBook-Air y % cd /Users/karthik/Downloads/y/ai-world && python3 aurora_ultimate.py\nAURORA ULTIMATE v4.0\n============================================================\nEvent-Driven Vis",
+        "context": null,
+        "time": "2025-12-01T14:23:15.796341"
+      },
+      {
+        "success": true,
+        "result": "python3 aurora_ultimate.py",
+        "context": null,
+        "time": "2025-12-01T15:43:09.804229"
+      },
+      {
+        "success": true,
+        "result": "python3 aurora_ultimate.py",
+        "context": null,
+        "time": "2025-12-01T15:43:18.398309"
+      },
+      {
+        "success": true,
+        "result": "python3 aurora_ultimate.py",
+        "context": null,
+        "time": "2025-12-01T21:24:03.092319"
+      },
+      {
+        "success": true,
+        "result": "python3 aurora_ultimate.py",
+        "context": null,
+        "time": "2025-12-01T21:24:12.806088"
+      },
+      {
+        "success": true,
+        "result": "[22:12:16] You: hi\n[22:12:25] Aurora: Hi! It's nice to meet you. How can I assist you today? Is there something on your mind that you'd like help with or perhaps some information you're looking for? D",
+        "context": null,
+        "time": "2025-12-01T22:13:58.307125"
+      },
+      {
+        "success": true,
+        "result": "[22:12:16] You: hi\n[22:12:25] Aurora: Hi! It's nice to meet you. How can I assist you today? Is there something on your mind that you'd like help with or perhaps some information you're looking for? D",
+        "context": null,
+        "time": "2025-12-01T22:14:14.526077"
+      },
+      {
+        "success": true,
+        "result": "[22:12:16] You: hi\n[22:12:25] Aurora: Hi! It's nice to meet you. How can I assist you today? Is there something on your mind that you'd like help with or perhaps some information you're looking for? D",
+        "context": null,
+        "time": "2025-12-01T22:14:44.767597"
+      },
+      {
+        "success": true,
+        "result": "[22:12:16] You: hi\n[22:12:25] Aurora: Hi! It's nice to meet you. How can I assist you today? Is there something on your mind that you'd like help with or perhaps some information you're looking for? D",
+        "context": null,
+        "time": "2025-12-01T22:14:53.038564"
+      }
+    ]
+  },
+  "open_app_store": {
+    "times_tried": 28,
+    "successes": 28,
+    "failures": 0,
+    "first_discovered": "2025-11-30T11:27:04.770124",
+    "last_used": "2025-12-01T21:15:47.651120",
+    "results": [
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T00:46:45.413929"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T00:46:46.236358"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T14:22:33.369000"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T14:23:03.539047"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T14:23:04.140497"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T14:23:26.357848"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T14:23:34.239688"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T14:39:50.265166"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T15:43:05.937312"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T21:15:47.651127"
+      }
+    ]
+  },
+  "get_hostname": {
+    "times_tried": 2,
+    "successes": 2,
+    "failures": 0,
+    "first_discovered": "2025-11-30T11:27:22.748519",
+    "last_used": "2025-11-30T14:32:26.749367",
+    "results": [
+      {
+        "success": true,
+        "result": "KARTHIKs-MacBook-Air.local",
+        "context": null,
+        "time": "2025-11-30T11:27:22.748531"
+      },
+      {
+        "success": true,
+        "result": "KARTHIKs-MacBook-Air.local",
+        "context": null,
+        "time": "2025-11-30T14:32:26.749374"
+      }
+    ]
+  },
+  "choose_file": {
+    "times_tried": 8,
+    "successes": 0,
+    "failures": 8,
+    "first_discovered": "2025-11-30T11:27:22.801933",
+    "last_used": "2025-12-01T21:47:41.785481",
+    "results": [
+      {
+        "success": false,
+        "result": "0:11: execution error: User cancelled. (-128)",
+        "context": null,
+        "time": "2025-11-30T11:27:22.801941"
+      },
+      {
+        "success": false,
+        "result": "0:11: execution error: User cancelled. (-128)",
+        "context": null,
+        "time": "2025-11-30T11:27:23.515819"
+      },
+      {
+        "success": false,
+        "result": "Command '['osascript', '-e', 'choose file']' timed out after 30 seconds",
+        "context": null,
+        "time": "2025-11-30T14:31:37.245684"
+      },
+      {
+        "success": false,
+        "result": "Command '['osascript', '-e', 'choose file']' timed out after 30 seconds",
+        "context": null,
+        "time": "2025-11-30T21:53:28.129559"
+      },
+      {
+        "success": false,
+        "result": "Command '['osascript', '-e', 'choose file']' timed out after 30 seconds",
+        "context": null,
+        "time": "2025-12-01T14:21:56.536087"
+      },
+      {
+        "success": false,
+        "result": "0:11: execution error: User cancelled. (-128)",
+        "context": null,
+        "time": "2025-12-01T14:23:04.450117"
+      },
+      {
+        "success": false,
+        "result": "0:11: execution error: User cancelled. (-128)",
+        "context": null,
+        "time": "2025-12-01T14:40:06.699820"
+      },
+      {
+        "success": false,
+        "result": "0:11: execution error: User cancelled. (-128)",
+        "context": null,
+        "time": "2025-12-01T21:47:41.785492"
+      }
+    ]
+  },
+  "open_xcode": {
+    "times_tried": 1,
+    "successes": 0,
+    "failures": 1,
+    "first_discovered": "2025-11-30T11:27:32.042317",
+    "last_used": "2025-11-30T11:27:32.042328",
+    "results": [
+      {
+        "success": false,
+        "result": "Unable to find application named 'Xcode'",
+        "context": null,
+        "time": "2025-11-30T11:27:32.042329"
+      }
+    ]
+  },
+  "open_system_preferences": {
+    "times_tried": 10,
+    "successes": 10,
+    "failures": 0,
+    "first_discovered": "2025-11-30T14:29:49.968212",
+    "last_used": "2025-12-01T21:47:41.401197",
+    "results": [
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-11-30T14:29:49.968232"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-11-30T14:30:36.228397"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-11-30T14:31:52.612821"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-11-30T21:09:26.359499"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T14:22:13.149613"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T14:22:18.097143"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T14:39:46.704800"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T14:40:03.429388"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T21:24:35.356283"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T21:47:41.401205"
+      }
+    ]
+  },
+  "safari_get_title": {
+    "times_tried": 3,
+    "successes": 3,
+    "failures": 0,
+    "first_discovered": "2025-11-30T14:30:11.425030",
+    "last_used": "2025-12-01T14:21:31.197986",
+    "results": [
+      {
+        "success": true,
+        "result": "Start Page",
+        "context": null,
+        "time": "2025-11-30T14:30:11.425042"
+      },
+      {
+        "success": true,
+        "result": "Start Page",
+        "context": null,
+        "time": "2025-11-30T21:53:03.577909"
+      },
+      {
+        "success": true,
+        "result": "Start Page",
+        "context": null,
+        "time": "2025-12-01T14:21:31.197996"
+      }
+    ]
+  },
+  "open_terminal": {
+    "times_tried": 9,
+    "successes": 9,
+    "failures": 0,
+    "first_discovered": "2025-11-30T14:30:41.719672",
+    "last_used": "2025-12-01T21:45:10.764235",
+    "results": [
+      {
+        "success": true,
+        "result": "Opened Terminal",
+        "context": null,
+        "time": "2025-11-30T14:30:41.719685"
+      },
+      {
+        "success": true,
+        "result": "Opened Terminal",
+        "context": null,
+        "time": "2025-11-30T14:31:19.970467"
+      },
+      {
+        "success": true,
+        "result": "Opened Terminal",
+        "context": null,
+        "time": "2025-11-30T21:09:16.481938"
+      },
+      {
+        "success": true,
+        "result": "Opened Terminal",
+        "context": null,
+        "time": "2025-11-30T21:52:50.473270"
+      },
+      {
+        "success": true,
+        "result": "Opened Terminal",
+        "context": null,
+        "time": "2025-12-01T01:35:16.956709"
+      },
+      {
+        "success": true,
+        "result": "Opened Terminal",
+        "context": null,
+        "time": "2025-12-01T14:21:51.566185"
+      },
+      {
+        "success": true,
+        "result": "Opened Terminal",
+        "context": null,
+        "time": "2025-12-01T14:22:07.204837"
+      },
+      {
+        "success": true,
+        "result": "Opened Terminal",
+        "context": null,
+        "time": "2025-12-01T14:22:55.408529"
+      },
+      {
+        "success": true,
+        "result": "Opened Terminal",
+        "context": null,
+        "time": "2025-12-01T21:45:10.764256"
+      }
+    ]
+  },
+  "process_list": {
+    "times_tried": 1,
+    "successes": 1,
+    "failures": 0,
+    "first_discovered": "2025-11-30T14:31:46.352104",
+    "last_used": "2025-11-30T14:31:46.352112",
+    "results": [
+      {
+        "success": true,
+        "result": "USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND\nkarthik          25736  70.2  1.8 412524144 148688 s031  R+    2:28PM   2:01.53 /Library/Frameworks/Python.framew",
+        "context": null,
+        "time": "2025-11-30T14:31:46.352113"
+      }
+    ]
+  },
+  "get_ip": {
+    "times_tried": 1,
+    "successes": 1,
+    "failures": 0,
+    "first_discovered": "2025-11-30T14:32:27.263020",
+    "last_used": "2025-11-30T14:32:27.263031",
+    "results": [
+      {
+        "success": true,
+        "result": "10.150.14.100",
+        "context": null,
+        "time": "2025-11-30T14:32:27.263033"
+      }
+    ]
+  },
+  "chrome_get_url": {
+    "times_tried": 2,
+    "successes": 0,
+    "failures": 2,
+    "first_discovered": "2025-11-30T18:00:29.258322",
+    "last_used": "2025-12-01T14:40:00.496026",
+    "results": [
+      {
+        "success": false,
+        "result": "47:57: syntax error: A property can\u2019t go after this identifier. (-2740)",
+        "context": null,
+        "time": "2025-11-30T18:00:29.258471"
+      },
+      {
+        "success": false,
+        "result": "47:57: syntax error: A property can\u2019t go after this identifier. (-2740)",
+        "context": null,
+        "time": "2025-12-01T14:40:00.496037"
+      }
+    ]
+  },
+  "close_app_store": {
+    "times_tried": 2,
+    "successes": 2,
+    "failures": 0,
+    "first_discovered": "2025-12-01T00:46:51.333712",
+    "last_used": "2025-12-01T14:39:53.145906",
+    "results": [
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T00:46:51.333733"
+      },
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T14:39:53.145916"
+      }
+    ]
+  },
+  "open_visual_studio_code": {
+    "times_tried": 1,
+    "successes": 1,
+    "failures": 0,
+    "first_discovered": "2025-12-01T14:23:38.482591",
+    "last_used": "2025-12-01T14:23:38.482675",
+    "results": [
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T14:23:38.482679"
+      }
+    ]
+  },
+  "music_play": {
+    "times_tried": 1,
+    "successes": 1,
+    "failures": 0,
+    "first_discovered": "2025-12-01T14:39:32.062341",
+    "last_used": "2025-12-01T14:39:32.062351",
+    "results": [
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T14:39:32.062353"
+      }
+    ]
+  },
+  "close_system_preferences": {
+    "times_tried": 1,
+    "successes": 1,
+    "failures": 0,
+    "first_discovered": "2025-12-01T15:43:21.384974",
+    "last_used": "2025-12-01T15:43:21.385050",
+    "results": [
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T15:43:21.385073"
+      }
+    ]
+  },
+  "close_firefox": {
+    "times_tried": 1,
+    "successes": 1,
+    "failures": 0,
+    "first_discovered": "2025-12-01T22:14:14.995902",
+    "last_used": "2025-12-01T22:14:14.996386",
+    "results": [
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T22:14:14.996392"
+      }
+    ]
+  },
+  "get_wifi": {
+    "times_tried": 1,
+    "successes": 1,
+    "failures": 0,
+    "first_discovered": "2025-12-01T22:14:32.211266",
+    "last_used": "2025-12-01T22:14:32.211299",
+    "results": [
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T22:14:32.211300"
+      }
+    ]
+  },
+  "close_finder": {
+    "times_tried": 1,
+    "successes": 1,
+    "failures": 0,
+    "first_discovered": "2025-12-01T22:14:47.845190",
+    "last_used": "2025-12-01T22:14:47.845206",
+    "results": [
+      {
+        "success": true,
+        "result": "",
+        "context": null,
+        "time": "2025-12-01T22:14:47.845208"
+      }
+    ]
+  }
+}

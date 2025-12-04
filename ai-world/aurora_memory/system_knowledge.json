@@ -1,0 +1,98 @@
+{
+  "hardware": {
+    "screen_size": {
+      "value": "1710x1112",
+      "learned": "2025-12-01T22:14:59.127163"
+    },
+    "cpu": {
+      "value": "Apple M2",
+      "learned": "2025-11-30T10:50:50.608367"
+    },
+    "memory": {
+      "value": "8.0GB",
+      "learned": "2025-11-30T10:50:52.593724"
+    },
+    "disk_used": {
+      "value": "10%",
+      "learned": "2025-12-01T21:24:30.136866"
+    }
+  },
+  "os": {
+    "version": {
+      "value": "ProductName:\t\tmacOS ProductVersion:\t\t26.1 BuildVersion:\t\t25B",
+      "learned": "2025-12-01T22:14:29.613702"
+    }
+  },
+  "security": {
+    "firewall": {
+      "value": "disabled",
+      "learned": "2025-11-30T21:52:47.628632"
+    },
+    "users": {
+      "value": "1",
+      "learned": "2025-11-30T10:39:19.911938"
+    },
+    "processes": {
+      "value": "456",
+      "learned": "2025-11-30T10:39:21.938717"
+    }
+  },
+  "software": {
+    "running_apps": {
+      "value": "Electron, Comet, Finder, Safari, Python",
+      "learned": "2025-11-30T10:40:16.167378"
+    },
+    "apps": {
+      "value": "8",
+      "learned": "2025-11-30T10:40:14.021320"
+    }
+  },
+  "dev": {
+    "python": {
+      "value": "Python 3.11.0",
+      "learned": "2025-11-30T10:40:05.995835"
+    },
+    "git": {
+      "value": "git version 2.52.0",
+      "learned": "2025-11-30T10:40:08.020975"
+    },
+    "homebrew": {
+      "value": "Homebrew 5.0.3",
+      "learned": "2025-11-30T10:40:10.120754"
+    }
+  },
+  "network": {
+    "open_ports": {
+      "value": "5",
+      "learned": "2025-11-30T10:39:55.991511"
+    },
+    "hosts": {
+      "value": "3",
+      "learned": "2025-11-30T10:40:01.998093"
+    },
+    "interfaces": {
+      "value": "|Hardware Port: Ethernet Adapter (en3)|Device: en3|Ethernet Address: 7e:ba:20:54:4e:c2||Hardware Por",
+      "learned": "2025-12-01T21:45:08.013175"
+    },
+    "ip": {
+      "value": "10.150.14.100",
+      "learned": "2025-11-30T10:39:31.923609"
+    }
+  },
+  "system": {
+    "env_vars": {
+      "value": "48",
+      "learned": "2025-11-30T10:40:03.971335"
+    },
+    "uptime": {
+      "value": "10:50  up  1:34, 1 user, load averages: 2.49 2.44 ",
+      "learned": "2025-11-30T10:50:56.631800"
+    }
+  },
+  "shell": {
+    "history_size": {
+      "value": "20",
+      "learned": "2025-11-30T10:38:17.877781"
+    }
+  }
+}

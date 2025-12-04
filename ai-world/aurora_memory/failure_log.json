@@ -1,0 +1,267 @@
+{
+  "failures": [
+    {
+      "action": "check_wifi",
+      "error": "[Errno 2] No such file or directory: '/System/Libr",
+      "context": "Observing: Python active, morning, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-11-30T07:22:48.722352",
+      "session": "session_1764467464",
+      "repeated": false
+    },
+    {
+      "action": "check_wifi",
+      "error": "[Errno 2] No such file or directory: '/System/Libr",
+      "context": "Observing: Python active, morning, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-11-30T10:20:14.876262",
+      "session": "session_1764478194",
+      "repeated": true
+    },
+    {
+      "action": "click_here",
+      "error": "'AuroraUltimate' object has no attribute 'mouse_cl",
+      "context": "Observing: Safari active, morning, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-11-30T10:27:24.587492",
+      "session": "session_1764478590",
+      "repeated": false
+    },
+    {
+      "action": "click_here",
+      "error": "'AuroraUltimate' object has no attribute 'mouse_cl",
+      "context": "Observing: Unknown active, morning, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-11-30T10:27:43.412618",
+      "session": "session_1764478590",
+      "repeated": true
+    },
+    {
+      "action": "open_google_chrome",
+      "error": "Unable to find application named 'Google Chrome'",
+      "context": "Observing: Comet active, morning, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-11-30T11:26:35.885138",
+      "session": "session_1764482182",
+      "repeated": false
+    },
+    {
+      "action": "choose_file",
+      "error": "0:11: execution error: User cancelled. (-128)",
+      "context": "Observing: Comet active, morning, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-11-30T11:27:22.495510",
+      "session": "session_1764482182",
+      "repeated": false
+    },
+    {
+      "action": "choose_file",
+      "error": "0:11: execution error: User cancelled. (-128)",
+      "context": "Observing: Comet active, morning, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-11-30T11:27:23.209164",
+      "session": "session_1764482182",
+      "repeated": true
+    },
+    {
+      "action": "open_xcode",
+      "error": "Unable to find application named 'Xcode'",
+      "context": "Observing: Python active, morning, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-11-30T11:27:31.736859",
+      "session": "session_1764482182",
+      "repeated": false
+    },
+    {
+      "action": "open_google_chrome",
+      "error": "Unable to find application named 'Google Chrome'",
+      "context": "Observing: App Store active, afternoon, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-11-30T14:29:41.838377",
+      "session": "session_1764493152",
+      "repeated": true
+    },
+    {
+      "action": "click_here",
+      "error": "'AuroraUltimate' object has no attribute 'mouse_cl",
+      "context": "Observing: App Store active, afternoon, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-11-30T14:30:10.654496",
+      "session": "session_1764493152",
+      "repeated": true
+    },
+    {
+      "action": "click_here",
+      "error": "'AuroraUltimate' object has no attribute 'mouse_cl",
+      "context": "Observing: Comet active, afternoon, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-11-30T14:30:54.098914",
+      "session": "session_1764493152",
+      "repeated": true
+    },
+    {
+      "action": "choose_file",
+      "error": "Command '['osascript', '-e', 'choose file']' timed out after 30 seconds",
+      "context": "Observing: Comet active, afternoon, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-11-30T14:31:36.944689",
+      "session": "session_1764493152",
+      "repeated": false
+    },
+    {
+      "action": "click_here",
+      "error": "'AuroraUltimate' object has no attribute 'mouse_cl",
+      "context": "Observing: Comet active, afternoon, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-11-30T14:31:37.254855",
+      "session": "session_1764493152",
+      "repeated": true
+    },
+    {
+      "action": "click_here",
+      "error": "'AuroraUltimate' object has no attribute 'mouse_cl",
+      "context": "Observing: System Settings active, afternoon, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-11-30T14:31:56.233122",
+      "session": "session_1764493152",
+      "repeated": true
+    },
+    {
+      "action": "click_here",
+      "error": "'AuroraUltimate' object has no attribute 'mouse_cl",
+      "context": "Observing: Comet active, afternoon, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-11-30T14:32:29.366383",
+      "session": "session_1764493152",
+      "repeated": true
+    },
+    {
+      "action": "click_here",
+      "error": "'AuroraUltimate' object has no attribute 'mouse_cl",
+      "context": "Observing: Activity Monitor active, afternoon, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-11-30T14:33:05.106446",
+      "session": "session_1764493152",
+      "repeated": true
+    },
+    {
+      "action": "chrome_get_url",
+      "error": "47:57: syntax error: A property can\u2019t go after this identifier. (-2740)",
+      "context": "Observing: Python active, evening, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-11-30T18:00:28.954737",
+      "session": "session_1764505822",
+      "repeated": false
+    },
+    {
+      "action": "get_clipboard",
+      "error": "Failsafe triggered - mouse in corner",
+      "context": "Observing: Python active, evening, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-11-30T18:00:54.422476",
+      "session": "session_1764505822",
+      "repeated": false
+    },
+    {
+      "action": "choose_file",
+      "error": "Command '['osascript', '-e', 'choose file']' timed out after 30 seconds",
+      "context": "Observing: Terminal active, evening, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-11-30T21:53:27.827343",
+      "session": "session_1764519743",
+      "repeated": true
+    },
+    {
+      "action": "choose_file",
+      "error": "Command '['osascript', '-e', 'choose file']' timed out after 30 seconds",
+      "context": "Observing: Python active, afternoon, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-12-01T14:21:56.231473",
+      "session": "session_1764579035",
+      "repeated": true
+    },
+    {
+      "action": "choose_file",
+      "error": "0:11: execution error: User cancelled. (-128)",
+      "context": "Observing: Comet active, afternoon, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-12-01T14:23:04.142817",
+      "session": "session_1764579035",
+      "repeated": true
+    },
+    {
+      "action": "run_python_code",
+      "error": "Failsafe triggered - mouse in corner",
+      "context": "Observing: Comet active, afternoon, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-12-01T14:23:18.034479",
+      "session": "session_1764579035",
+      "repeated": false
+    },
+    {
+      "action": "click_here",
+      "error": "'AuroraUltimate' object has no attribute 'mouse_cl",
+      "context": "Observing: Activity Monitor active, afternoon, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-12-01T14:23:26.534893",
+      "session": "session_1764579035",
+      "repeated": true
+    },
+    {
+      "action": "open_google_chrome",
+      "error": "Unable to find application named 'Google Chrome'",
+      "context": "Observing: Comet active, afternoon, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-12-01T14:39:27.152064",
+      "session": "session_1764580150",
+      "repeated": true
+    },
+    {
+      "action": "chrome_get_url",
+      "error": "47:57: syntax error: A property can\u2019t go after this identifier. (-2740)",
+      "context": "Observing: Activity Monitor active, afternoon, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-12-01T14:40:00.188483",
+      "session": "session_1764580150",
+      "repeated": true
+    },
+    {
+      "action": "choose_file",
+      "error": "0:11: execution error: User cancelled. (-128)",
+      "context": "Observing: Activity Monitor active, afternoon, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-12-01T14:40:06.393139",
+      "session": "session_1764580150",
+      "repeated": true
+    },
+    {
+      "action": "choose_file",
+      "error": "0:11: execution error: User cancelled. (-128)",
+      "context": "Observing: Electron active, evening, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-12-01T21:47:41.483756",
+      "session": "session_1764605843",
+      "repeated": true
+    },
+    {
+      "action": "get_disk",
+      "error": "Failsafe triggered - mouse in corner",
+      "context": "Observing: Comet active, evening, 1 new discoveries!",
+      "screenshot": null,
+      "time": "2025-12-01T22:15:00.002173",
+      "session": "session_1764607423",
+      "repeated": false
+    }
+  ],
+  "failure_counts": {
+    "check_wifi": 2,
+    "click_here": 9,
+    "open_google_chrome": 3,
+    "choose_file": 8,
+    "open_xcode": 1,
+    "chrome_get_url": 2,
+    "get_clipboard": 1,
+    "run_python_code": 1,
+    "get_disk": 1
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "keyboard_control": {
+    "name": "keyboard_control",
+    "level": 1,
+    "description": null,
+    "acquired": "2025-11-29T17:27:40.024424",
+    "practice_count": 151
+  },
+  "system_control": {
+    "name": "system_control",
+    "level": 1,
+    "description": null,
+    "acquired": "2025-11-29T17:28:45.740673",
+    "practice_count": 283
+  },
+  "screenshot": {
+    "name": "screenshot",
+    "level": 1,
+    "description": "Can capture screen",
+    "acquired": "2025-11-29T17:28:50.129155",
+    "practice_count": 29
+  },
+  "speech": {
+    "name": "speech",
+    "level": 1,
+    "description": "Can speak",
+    "acquired": "2025-11-29T17:28:54.096185",
+    "practice_count": 28
+  },
+  "app_control": {
+    "name": "app_control",
+    "level": 1,
+    "description": null,
+    "acquired": "2025-11-29T17:28:54.358601",
+    "practice_count": 243
+  },
+  "voice_control": {
+    "name": "voice_control",
+    "level": 1,
+    "description": null,
+    "acquired": "2025-11-29T17:28:54.402811",
+    "practice_count": 29
+  },
+  "other_control": {
+    "name": "other_control",
+    "level": 1,
+    "description": null,
+    "acquired": "2025-11-29T17:28:56.236595",
+    "practice_count": 114
+  },
+  "clicking": {
+    "name": "clicking",
+    "level": 1,
+    "description": "Can click",
+    "acquired": "2025-11-29T17:28:58.087800",
+    "practice_count": 42
+  },
+  "mouse_control": {
+    "name": "mouse_control",
+    "level": 1,
+    "description": null,
+    "acquired": "2025-11-29T17:28:58.393998",
+    "practice_count": 177
+  },
+  "typing": {
+    "name": "typing",
+    "level": 1,
+    "description": "Can type text",
+    "acquired": "2025-11-29T17:30:22.831516",
+    "practice_count": 40
+  },
+  "security": {
+    "name": "security",
+    "level": 3,
+    "description": "Can check firewall status",
+    "acquired": "2025-11-30T00:29:31.741709",
+    "practice_count": 34
+  },
+  "security_control": {
+    "name": "security_control",
+    "level": 1,
+    "description": null,
+    "acquired": "2025-11-30T00:29:32.046838",
+    "practice_count": 34
+  },
+  "programming": {
+    "name": "programming",
+    "level": 2,
+    "description": "Python available",
+    "acquired": "2025-11-30T00:29:43.938979",
+    "practice_count": 53
+  },
+  "code_control": {
+    "name": "code_control",
+    "level": 1,
+    "description": null,
+    "acquired": "2025-11-30T00:29:44.248398",
+    "practice_count": 75
+  },
+  "networking": {
+    "name": "networking",
+    "level": 2,
+    "description": "Can ping 1.1.1.1",
+    "acquired": "2025-11-30T07:21:14.560787",
+    "practice_count": 37
+  },
+  "network_control": {
+    "name": "network_control",
+    "level": 1,
+    "description": null,
+    "acquired": "2025-11-30T07:21:14.870595",
+    "practice_count": 49
+  },
+  "web": {
+    "name": "web",
+    "level": 2,
+    "description": "Can make HTTP requests",
+    "acquired": "2025-11-30T07:21:20.638444",
+    "practice_count": 65
+  },
+  "shell": {
+    "name": "shell",
+    "level": 2,
+    "description": "Learned uname command",
+    "acquired": "2025-11-30T07:21:24.576202",
+    "practice_count": 15
+  },
+  "system": {
+    "name": "system",
+    "level": 2,
+    "description": "Can read environment",
+    "acquired": "2025-11-30T07:21:46.575452",
+    "practice_count": 17
+  },
+  "macos_app": {
+    "name": "macos_app",
+    "level": 1,
+    "description": "Executed open_activity_monitor",
+    "acquired": "2025-11-30T11:26:38.678878",
+    "practice_count": 72
+  },
+  "macos_system": {
+    "name": "macos_system",
+    "level": 1,
+    "description": "Executed get_cpu",
+    "acquired": "2025-11-30T11:26:42.033761",
+    "practice_count": 92
+  },
+  "macos_code": {
+    "name": "macos_code",
+    "level": 1,
+    "description": "Executed process_list",
+    "acquired": "2025-11-30T14:31:46.045005",
+    "practice_count": 0
+  },
+  "macos_voice": {
+    "name": "macos_voice",
+    "level": 1,
+    "description": "Executed music_play",
+    "acquired": "2025-12-01T14:39:31.707762",
+    "practice_count": 0
+  }
+}

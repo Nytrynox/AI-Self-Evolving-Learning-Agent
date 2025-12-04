@@ -1,0 +1,5777 @@
+{
+  "plans": [
+    {
+      "id": "plan_1764417458",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-29T17:27:38.652824",
+      "results": [],
+      "session": "session_1764417457"
+    },
+    {
+      "id": "plan_1764417524",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:28:44.628005",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417533",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:28:53.132020",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417541",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:29:01.070568",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417549",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:29:09.072200",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417557",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:29:17.104619",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417565",
+      "goal": "Discover applications",
+      "steps": [
+        "open_spotlight",
+        "open_safari",
+        "switch_app",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:29:25.142377",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417573",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:29:33.187099",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417581",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:29:41.234588",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417589",
+      "goal": "Discover applications",
+      "steps": [
+        "open_spotlight",
+        "open_safari",
+        "switch_app",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:29:49.271455",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417597",
+      "goal": "Discover applications",
+      "steps": [
+        "open_spotlight",
+        "open_safari",
+        "switch_app",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:29:57.305002",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417605",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:30:05.281199",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417613",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:30:13.282141",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417621",
+      "goal": "Practice typing",
+      "steps": [
+        "type_test",
+        "type_test",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:30:21.288066",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417629",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:30:29.321812",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417637",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:30:37.324560",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417645",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:30:45.351462",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417653",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:30:53.391333",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417661",
+      "goal": "Discover applications",
+      "steps": [
+        "open_spotlight",
+        "open_safari",
+        "switch_app",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:31:01.398637",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417669",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:31:09.413316",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417677",
+      "goal": "Practice typing",
+      "steps": [
+        "type_test",
+        "type_test",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:31:17.433465",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417685",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:31:25.488613",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417693",
+      "goal": "Practice typing",
+      "steps": [
+        "type_test",
+        "type_test",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:31:33.481910",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417701",
+      "goal": "Practice typing",
+      "steps": [
+        "type_test",
+        "type_test",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:31:41.563155",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417709",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:31:49.553628",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417717",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:31:57.641311",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417725",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:32:05.614562",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417733",
+      "goal": "Practice typing",
+      "steps": [
+        "type_test",
+        "type_test",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:32:13.618962",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417741",
+      "goal": "Practice typing",
+      "steps": [
+        "type_test",
+        "type_test",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:32:21.639488",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417749",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:32:29.684457",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417757",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:32:37.638578",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417765",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:32:45.676172",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417773",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:32:53.707665",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417781",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:33:01.750267",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417789",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:33:09.753544",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417797",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:33:17.772864",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417805",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:33:25.837890",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417813",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:33:33.878522",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417821",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:33:41.942655",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417829",
+      "goal": "Practice typing",
+      "steps": [
+        "type_test",
+        "type_test",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:33:49.943389",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417838",
+      "goal": "Practice typing",
+      "steps": [
+        "type_test",
+        "type_test",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:33:58.000652",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417846",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:34:06.061511",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417854",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:34:14.119763",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417862",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:34:22.122473",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417870",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:34:30.201501",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417878",
+      "goal": "Discover applications",
+      "steps": [
+        "open_spotlight",
+        "open_safari",
+        "switch_app",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:34:38.189460",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417886",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:34:46.197567",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417894",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:34:54.283829",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417902",
+      "goal": "Discover applications",
+      "steps": [
+        "open_spotlight",
+        "open_safari",
+        "switch_app",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:35:02.301034",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417910",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:35:10.327695",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417918",
+      "goal": "Practice typing",
+      "steps": [
+        "type_test",
+        "type_test",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:35:18.412119",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417926",
+      "goal": "Discover applications",
+      "steps": [
+        "open_spotlight",
+        "open_safari",
+        "switch_app",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:35:26.364996",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417934",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:35:34.427472",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417942",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:35:42.426061",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417950",
+      "goal": "Discover applications",
+      "steps": [
+        "open_spotlight",
+        "open_safari",
+        "switch_app",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:35:50.426891",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417958",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:35:58.393895",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417966",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:36:06.519113",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417974",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:36:14.487802",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417982",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:36:22.526410",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417990",
+      "goal": "Practice typing",
+      "steps": [
+        "type_test",
+        "type_test",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:36:30.567290",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764417998",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:36:38.595013",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764418006",
+      "goal": "Practice typing",
+      "steps": [
+        "type_test",
+        "type_test",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:36:46.614082",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764418014",
+      "goal": "Practice typing",
+      "steps": [
+        "type_test",
+        "type_test",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:36:54.600396",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764418022",
+      "goal": "Discover applications",
+      "steps": [
+        "open_spotlight",
+        "open_safari",
+        "switch_app",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:37:02.661463",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764418030",
+      "goal": "Discover applications",
+      "steps": [
+        "open_spotlight",
+        "open_safari",
+        "switch_app",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:37:10.708259",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764418038",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:37:18.760447",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764418046",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-29T17:37:26.776169",
+      "results": [],
+      "session": "session_1764417523"
+    },
+    {
+      "id": "plan_1764418614",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:46:54.207066",
+      "results": [],
+      "session": "session_1764418613"
+    },
+    {
+      "id": "plan_1764418622",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:47:02.942742",
+      "results": [],
+      "session": "session_1764418613"
+    },
+    {
+      "id": "plan_1764418630",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T17:47:10.948411",
+      "results": [],
+      "session": "session_1764418613"
+    },
+    {
+      "id": "plan_1764418638",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-29T17:47:18.938630",
+      "results": [],
+      "session": "session_1764418613"
+    },
+    {
+      "id": "plan_1764424173",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:19:33.396109",
+      "results": [],
+      "session": "session_1764424172"
+    },
+    {
+      "id": "plan_1764424181",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:19:41.593903",
+      "results": [],
+      "session": "session_1764424172"
+    },
+    {
+      "id": "plan_1764424189",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-29T19:19:49.654446",
+      "results": [],
+      "session": "session_1764424172"
+    },
+    {
+      "id": "plan_1764424962",
+      "goal": "Discover applications",
+      "steps": [
+        "open_spotlight",
+        "open_safari",
+        "switch_app",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:32:42.133736",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764424970",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:32:50.449251",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764424978",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:32:58.479940",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764424986",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:33:06.387826",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764424994",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:33:14.434965",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425002",
+      "goal": "Discover applications",
+      "steps": [
+        "open_spotlight",
+        "open_safari",
+        "switch_app",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:33:22.525028",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425010",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:33:30.626201",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425018",
+      "goal": "Discover applications",
+      "steps": [
+        "open_spotlight",
+        "open_safari",
+        "switch_app",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:33:38.623875",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425026",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:33:46.732766",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425034",
+      "goal": "Practice typing",
+      "steps": [
+        "type_test",
+        "type_test",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:33:54.989324",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425042",
+      "goal": "Practice typing",
+      "steps": [
+        "type_test",
+        "type_test",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:34:02.852727",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425050",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:34:10.895121",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425058",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:34:18.957892",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425067",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:34:27.024168",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425075",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:34:35.083887",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425083",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:34:43.152836",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425091",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:34:51.327011",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425099",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:34:59.270192",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425107",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:35:07.345532",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425115",
+      "goal": "Practice typing",
+      "steps": [
+        "type_test",
+        "type_test",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:35:15.652599",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425123",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:35:23.587489",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425131",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:35:31.556224",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425139",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:35:39.630317",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425147",
+      "goal": "Practice typing",
+      "steps": [
+        "type_test",
+        "type_test",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:35:47.699333",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425155",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:35:55.797149",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425163",
+      "goal": "Practice typing",
+      "steps": [
+        "type_test",
+        "type_test",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:36:03.800521",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425171",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:36:11.809328",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425179",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:36:19.940734",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425187",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:36:27.980977",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425196",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:36:36.042678",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425204",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:36:44.131573",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425212",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:36:52.213000",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425220",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:37:00.326420",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425228",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:37:08.430597",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425236",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:37:16.239096",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425244",
+      "goal": "Discover applications",
+      "steps": [
+        "open_spotlight",
+        "open_safari",
+        "switch_app",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:37:24.471209",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425252",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:37:32.722823",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425260",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:37:40.661066",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425268",
+      "goal": "Discover applications",
+      "steps": [
+        "open_spotlight",
+        "open_safari",
+        "switch_app",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:37:48.684193",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425277",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:37:57.032209",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425284",
+      "goal": "Practice typing",
+      "steps": [
+        "type_test",
+        "type_test",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:38:04.766864",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425293",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:38:13.037388",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425301",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:38:21.297473",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425309",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-29T19:38:29.183142",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764425317",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-29T19:38:37.231515",
+      "results": [],
+      "session": "session_1764424960"
+    },
+    {
+      "id": "plan_1764442770",
+      "goal": "System security audit",
+      "steps": [
+        "check_firewall",
+        "check_users",
+        "check_processes",
+        "check_running_apps"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T00:29:30.899744",
+      "results": [],
+      "session": "session_1764442769"
+    },
+    {
+      "id": "plan_1764442779",
+      "goal": "Software inventory",
+      "steps": [
+        "list_installed_apps",
+        "check_running_apps",
+        "check_python",
+        "check_git"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T00:29:39.116681",
+      "results": [],
+      "session": "session_1764442769"
+    },
+    {
+      "id": "plan_1764442787",
+      "goal": "Software inventory",
+      "steps": [
+        "list_installed_apps",
+        "check_running_apps",
+        "check_python",
+        "check_git"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T00:29:47.133872",
+      "results": [],
+      "session": "session_1764442769"
+    },
+    {
+      "id": "plan_1764442795",
+      "goal": "File security scan",
+      "steps": [
+        "check_permissions",
+        "find_hidden_files",
+        "explore_downloads",
+        "check_ssh_keys"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T00:29:55.203673",
+      "results": [],
+      "session": "session_1764442769"
+    },
+    {
+      "id": "plan_1764467465",
+      "goal": "Learn keyboard shortcuts",
+      "steps": [
+        "try_shortcut",
+        "try_shortcut",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T07:21:05.498694",
+      "results": [],
+      "session": "session_1764467464"
+    },
+    {
+      "id": "plan_1764467473",
+      "goal": "Explore connectivity",
+      "steps": [
+        "ping_test",
+        "dns_lookup",
+        "curl_test",
+        "check_ports"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T07:21:13.675114",
+      "results": [],
+      "session": "session_1764467464"
+    },
+    {
+      "id": "plan_1764467481",
+      "goal": "Code execution practice",
+      "steps": [
+        "run_python_code",
+        "run_shell_cmd",
+        "run_shell_cmd",
+        "check_python"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T07:21:21.684414",
+      "results": [],
+      "session": "session_1764467464"
+    },
+    {
+      "id": "plan_1764467489",
+      "goal": "Explore connectivity",
+      "steps": [
+        "ping_test",
+        "dns_lookup",
+        "curl_test",
+        "check_ports"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T07:21:29.792371",
+      "results": [],
+      "session": "session_1764467464"
+    },
+    {
+      "id": "plan_1764467497",
+      "goal": "Hacker mindset training",
+      "steps": [
+        "check_ports",
+        "find_hidden_files",
+        "check_ssh_keys",
+        "check_hosts_file",
+        "check_env_vars"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T07:21:37.754123",
+      "results": [],
+      "session": "session_1764467464"
+    },
+    {
+      "id": "plan_1764467507",
+      "goal": "Code execution practice",
+      "steps": [
+        "run_python_code",
+        "run_shell_cmd",
+        "run_shell_cmd",
+        "check_python"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T07:21:47.794882",
+      "results": [],
+      "session": "session_1764467464"
+    },
+    {
+      "id": "plan_1764467515",
+      "goal": "Software inventory",
+      "steps": [
+        "list_installed_apps",
+        "check_running_apps",
+        "check_python",
+        "check_git"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T07:21:55.792420",
+      "results": [],
+      "session": "session_1764467464"
+    },
+    {
+      "id": "plan_1764467523",
+      "goal": "File security scan",
+      "steps": [
+        "check_permissions",
+        "find_hidden_files",
+        "explore_downloads",
+        "check_ssh_keys"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T07:22:03.823754",
+      "results": [],
+      "session": "session_1764467464"
+    },
+    {
+      "id": "plan_1764467531",
+      "goal": "Hardware reconnaissance",
+      "steps": [
+        "check_cpu_info",
+        "check_memory",
+        "check_disk_space",
+        "check_uptime"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T07:22:11.839291",
+      "results": [],
+      "session": "session_1764467464"
+    },
+    {
+      "id": "plan_1764467539",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T07:22:19.857163",
+      "results": [],
+      "session": "session_1764467464"
+    },
+    {
+      "id": "plan_1764467547",
+      "goal": "Full system audit",
+      "steps": [
+        "get_system_info",
+        "check_cpu_info",
+        "scan_network",
+        "check_firewall",
+        "check_processes"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T07:22:27.951578",
+      "results": [],
+      "session": "session_1764467464"
+    },
+    {
+      "id": "plan_1764467557",
+      "goal": "Software inventory",
+      "steps": [
+        "list_installed_apps",
+        "check_running_apps",
+        "check_python",
+        "check_git"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T07:22:37.889707",
+      "results": [],
+      "session": "session_1764467464"
+    },
+    {
+      "id": "plan_1764467565",
+      "goal": "Map the network",
+      "steps": [
+        "scan_network",
+        "check_wifi",
+        "get_ip_address",
+        "ping_test"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T07:22:45.927329",
+      "results": [],
+      "session": "session_1764467464"
+    },
+    {
+      "id": "plan_1764467574",
+      "goal": "Hardware reconnaissance",
+      "steps": [
+        "check_cpu_info",
+        "check_memory",
+        "check_disk_space",
+        "check_uptime"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T07:22:54.003083",
+      "results": [],
+      "session": "session_1764467464"
+    },
+    {
+      "id": "plan_1764467582",
+      "goal": "Environment exploration",
+      "steps": [
+        "check_env_vars",
+        "check_homebrew",
+        "learn_shell_history",
+        "run_shell_cmd"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T07:23:02.073173",
+      "results": [],
+      "session": "session_1764467464"
+    },
+    {
+      "id": "plan_1764467590",
+      "goal": "Software inventory",
+      "steps": [
+        "list_installed_apps",
+        "check_running_apps",
+        "check_python",
+        "check_git"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T07:23:10.078064",
+      "results": [],
+      "session": "session_1764467464"
+    },
+    {
+      "id": "plan_1764467598",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T07:23:18.059935",
+      "results": [],
+      "session": "session_1764467464"
+    },
+    {
+      "id": "plan_1764467606",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T07:23:26.137272",
+      "results": [],
+      "session": "session_1764467464"
+    },
+    {
+      "id": "plan_1764467614",
+      "goal": "Practice typing",
+      "steps": [
+        "type_test",
+        "type_test",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T07:23:34.136694",
+      "results": [],
+      "session": "session_1764467464"
+    },
+    {
+      "id": "plan_1764469163",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T07:49:23.438155",
+      "results": [],
+      "session": "session_1764469162"
+    },
+    {
+      "id": "plan_1764469218",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T07:50:18.792000",
+      "results": [],
+      "session": "session_1764469217"
+    },
+    {
+      "id": "plan_1764469221",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T07:50:21.283044",
+      "results": [],
+      "session": "session_1764469220"
+    },
+    {
+      "id": "plan_1764469574",
+      "goal": "Map the network",
+      "steps": [
+        "scan_network",
+        "check_wifi",
+        "get_ip_address",
+        "ping_test"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T07:56:14.760949",
+      "results": [],
+      "session": "session_1764469573"
+    },
+    {
+      "id": "plan_1764469602",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T07:56:42.596564",
+      "results": [],
+      "session": "session_1764469601"
+    },
+    {
+      "id": "plan_1764470500",
+      "goal": "Web exploration",
+      "steps": [
+        "open_url",
+        "search_web",
+        "curl_test",
+        "open_safari"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T08:11:40.891062",
+      "results": [],
+      "session": "session_1764470500"
+    },
+    {
+      "id": "plan_1764471111",
+      "goal": "Discover applications",
+      "steps": [
+        "open_spotlight",
+        "open_safari",
+        "switch_app",
+        "observe_wait"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T08:21:51.369876",
+      "results": [],
+      "session": "session_1764471110"
+    },
+    {
+      "id": "plan_1764477169",
+      "goal": "Security assessment",
+      "steps": [
+        "check_processes",
+        "check_users",
+        "check_firewall",
+        "check_ssh_keys"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T10:02:49.835338",
+      "results": [],
+      "session": "session_1764477168"
+    },
+    {
+      "id": "plan_1764477547",
+      "goal": "Map the network",
+      "steps": [
+        "scan_network",
+        "check_wifi",
+        "get_ip_address",
+        "ping_test"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T10:09:07.738521",
+      "results": [],
+      "session": "session_1764477546"
+    },
+    {
+      "id": "plan_1764477692",
+      "goal": "Dev environment check",
+      "steps": [
+        "check_python",
+        "check_git",
+        "check_homebrew",
+        "run_python_code"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T10:11:32.718918",
+      "results": [],
+      "session": "session_1764477692"
+    },
+    {
+      "id": "plan_1764478195",
+      "goal": "Code execution practice",
+      "steps": [
+        "run_python_code",
+        "run_shell_cmd",
+        "run_shell_cmd",
+        "check_python"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:19:55.851947",
+      "results": [],
+      "session": "session_1764478194"
+    },
+    {
+      "id": "plan_1764478203",
+      "goal": "Network reconnaissance",
+      "steps": [
+        "get_ip_address",
+        "check_hosts_file",
+        "dns_lookup",
+        "check_firewall"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:20:03.983855",
+      "results": [],
+      "session": "session_1764478194"
+    },
+    {
+      "id": "plan_1764478212",
+      "goal": "Map the network",
+      "steps": [
+        "scan_network",
+        "check_wifi",
+        "get_ip_address",
+        "ping_test"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:20:12.007419",
+      "results": [],
+      "session": "session_1764478194"
+    },
+    {
+      "id": "plan_1764478220",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:20:20.192008",
+      "results": [],
+      "session": "session_1764478194"
+    },
+    {
+      "id": "plan_1764478228",
+      "goal": "Full system audit",
+      "steps": [
+        "get_system_info",
+        "check_cpu_info",
+        "scan_network",
+        "check_firewall",
+        "check_processes"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:20:28.216292",
+      "results": [],
+      "session": "session_1764478194"
+    },
+    {
+      "id": "plan_1764478269",
+      "goal": "Map the network",
+      "steps": [
+        "scan_network",
+        "check_wifi",
+        "get_ip_address",
+        "ping_test"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T10:21:09.978250",
+      "results": [],
+      "session": "session_1764478194"
+    },
+    {
+      "id": "plan_1764478591",
+      "goal": "File security scan",
+      "steps": [
+        "check_permissions",
+        "find_hidden_files",
+        "explore_downloads",
+        "check_ssh_keys"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:26:31.136177",
+      "results": [],
+      "session": "session_1764478590"
+    },
+    {
+      "id": "plan_1764478599",
+      "goal": "Environment exploration",
+      "steps": [
+        "check_env_vars",
+        "check_homebrew",
+        "learn_shell_history",
+        "run_shell_cmd"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:26:39.527257",
+      "results": [],
+      "session": "session_1764478590"
+    },
+    {
+      "id": "plan_1764478607",
+      "goal": "Map the network",
+      "steps": [
+        "scan_network",
+        "check_wifi",
+        "get_ip_address",
+        "ping_test"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:26:47.568347",
+      "results": [],
+      "session": "session_1764478590"
+    },
+    {
+      "id": "plan_1764478613",
+      "goal": "Explore connectivity",
+      "steps": [
+        "ping_test",
+        "dns_lookup",
+        "curl_test",
+        "check_ports"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:26:53.565950",
+      "results": [],
+      "session": "session_1764478590"
+    },
+    {
+      "id": "plan_1764478621",
+      "goal": "Hacker mindset training",
+      "steps": [
+        "check_ports",
+        "find_hidden_files",
+        "check_ssh_keys",
+        "check_hosts_file",
+        "check_env_vars"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:27:01.662560",
+      "results": [],
+      "session": "session_1764478590"
+    },
+    {
+      "id": "plan_1764478631",
+      "goal": "Discover applications",
+      "steps": [
+        "open_spotlight",
+        "open_safari",
+        "switch_app",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:27:11.646280",
+      "results": [],
+      "session": "session_1764478590"
+    },
+    {
+      "id": "plan_1764478639",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:27:19.755492",
+      "results": [],
+      "session": "session_1764478590"
+    },
+    {
+      "id": "plan_1764478647",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T10:27:27.755084",
+      "results": [],
+      "session": "session_1764478590"
+    },
+    {
+      "id": "plan_1764479230",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:37:10.747300",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479236",
+      "goal": "Discover applications",
+      "steps": [
+        "open_spotlight",
+        "open_safari",
+        "switch_app",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:37:16.894294",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479244",
+      "goal": "Dev environment check",
+      "steps": [
+        "check_python",
+        "check_git",
+        "check_homebrew",
+        "run_python_code"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:37:24.923954",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479252",
+      "goal": "File security scan",
+      "steps": [
+        "check_permissions",
+        "find_hidden_files",
+        "explore_downloads",
+        "check_ssh_keys"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:37:32.927051",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479260",
+      "goal": "Software inventory",
+      "steps": [
+        "list_installed_apps",
+        "check_running_apps",
+        "check_python",
+        "check_git"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:37:40.929850",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479268",
+      "goal": "Code execution practice",
+      "steps": [
+        "run_python_code",
+        "run_shell_cmd",
+        "run_shell_cmd",
+        "check_python"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:37:48.939080",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479277",
+      "goal": "Discover applications",
+      "steps": [
+        "open_spotlight",
+        "open_safari",
+        "switch_app",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:37:57.158204",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479285",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:38:05.104382",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479293",
+      "goal": "Environment exploration",
+      "steps": [
+        "check_env_vars",
+        "check_homebrew",
+        "learn_shell_history",
+        "run_shell_cmd"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:38:13.088358",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479301",
+      "goal": "Network reconnaissance",
+      "steps": [
+        "get_ip_address",
+        "check_hosts_file",
+        "dns_lookup",
+        "check_firewall"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:38:21.028475",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479309",
+      "goal": "Map the network",
+      "steps": [
+        "scan_network",
+        "check_wifi",
+        "get_ip_address",
+        "ping_test"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:38:29.050902",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479315",
+      "goal": "Hacker mindset training",
+      "steps": [
+        "check_ports",
+        "find_hidden_files",
+        "check_ssh_keys",
+        "check_hosts_file",
+        "check_env_vars"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:38:35.188581",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479325",
+      "goal": "Web exploration",
+      "steps": [
+        "open_url",
+        "search_web",
+        "curl_test",
+        "open_safari"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:38:45.071846",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479333",
+      "goal": "Hacker mindset training",
+      "steps": [
+        "check_ports",
+        "find_hidden_files",
+        "check_ssh_keys",
+        "check_hosts_file",
+        "check_env_vars"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:38:53.092749",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479343",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:39:03.141617",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479351",
+      "goal": "Explore the desktop",
+      "steps": [
+        "open_finder",
+        "explore_desktop",
+        "click_here",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:39:11.101224",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479357",
+      "goal": "System security audit",
+      "steps": [
+        "check_firewall",
+        "check_users",
+        "check_processes",
+        "check_running_apps"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:39:17.134627",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479365",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:39:25.094860",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479371",
+      "goal": "Network reconnaissance",
+      "steps": [
+        "get_ip_address",
+        "check_hosts_file",
+        "dns_lookup",
+        "check_firewall"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:39:31.129557",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479379",
+      "goal": "Code execution practice",
+      "steps": [
+        "run_python_code",
+        "run_shell_cmd",
+        "run_shell_cmd",
+        "check_python"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:39:39.160294",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479387",
+      "goal": "Discover applications",
+      "steps": [
+        "open_spotlight",
+        "open_safari",
+        "switch_app",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:39:47.156581",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479395",
+      "goal": "Hacker mindset training",
+      "steps": [
+        "check_ports",
+        "find_hidden_files",
+        "check_ssh_keys",
+        "check_hosts_file",
+        "check_env_vars"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:39:55.160349",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479405",
+      "goal": "Dev environment check",
+      "steps": [
+        "check_python",
+        "check_git",
+        "check_homebrew",
+        "run_python_code"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:40:05.206923",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764479413",
+      "goal": "Software inventory",
+      "steps": [
+        "list_installed_apps",
+        "check_running_apps",
+        "check_python",
+        "check_git"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T10:40:13.210429",
+      "results": [],
+      "session": "session_1764479229"
+    },
+    {
+      "id": "plan_1764480025",
+      "goal": "\ud83e\udd16 Proven success sequence (AI-Generated)",
+      "steps": [
+        "speak_thought",
+        "get_system_info",
+        "press_key_random",
+        "open_spotlight"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:50:25.164847",
+      "results": [],
+      "session": "session_1764480024"
+    },
+    {
+      "id": "plan_1764480033",
+      "goal": "\ud83e\udd16 Adaptive learning cycle (AI-Generated)",
+      "steps": [
+        "get_system_info",
+        "press_key_random",
+        "switch_app"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:50:33.802205",
+      "results": [],
+      "session": "session_1764480024"
+    },
+    {
+      "id": "plan_1764480039",
+      "goal": "\ud83e\udd16 AI-generated workflow (AI-Generated)",
+      "steps": [
+        "observe_wait",
+        "switch_app",
+        "open_spotlight",
+        "press_key_random",
+        "move_mouse_center"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:50:39.761571",
+      "results": [],
+      "session": "session_1764480024"
+    },
+    {
+      "id": "plan_1764480049",
+      "goal": "Hardware scan",
+      "steps": [
+        "check_cpu_info",
+        "check_memory",
+        "check_disk_space",
+        "check_uptime"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:50:49.801724",
+      "results": [],
+      "session": "session_1764480024"
+    },
+    {
+      "id": "plan_1764480057",
+      "goal": "\ud83e\udd16 Self-discovered routine (AI-Generated)",
+      "steps": [
+        "move_mouse_center",
+        "take_screenshot",
+        "press_key_random",
+        "try_shortcut"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:50:57.849617",
+      "results": [],
+      "session": "session_1764480024"
+    },
+    {
+      "id": "plan_1764480065",
+      "goal": "\ud83e\udd16 Learned exploration routine (AI-Generated)",
+      "steps": [
+        "check_clipboard",
+        "open_finder",
+        "explore_desktop",
+        "get_system_info"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:51:05.867414",
+      "results": [],
+      "session": "session_1764480024"
+    },
+    {
+      "id": "plan_1764480073",
+      "goal": "\ud83e\udd16 Learned exploration routine (AI-Generated)",
+      "steps": [
+        "speak_thought",
+        "open_spotlight",
+        "explore_desktop",
+        "move_mouse_center"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:51:13.862680",
+      "results": [],
+      "session": "session_1764480024"
+    },
+    {
+      "id": "plan_1764480081",
+      "goal": "\ud83e\udd16 Experience-based exploration (AI-Generated)",
+      "steps": [
+        "check_clipboard",
+        "take_screenshot",
+        "try_shortcut",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:51:21.900504",
+      "results": [],
+      "session": "session_1764480024"
+    },
+    {
+      "id": "plan_1764480089",
+      "goal": "Learn mouse control",
+      "steps": [
+        "move_mouse_explore",
+        "move_mouse_center",
+        "click_here",
+        "scroll_down"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:51:29.945762",
+      "results": [],
+      "session": "session_1764480024"
+    },
+    {
+      "id": "plan_1764480095",
+      "goal": "\ud83e\udd16 Adaptive learning cycle (AI-Generated)",
+      "steps": [
+        "scroll_down",
+        "get_system_info",
+        "take_screenshot"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:51:35.996486",
+      "results": [],
+      "session": "session_1764480024"
+    },
+    {
+      "id": "plan_1764480102",
+      "goal": "\ud83e\udd16 AI-generated workflow (AI-Generated)",
+      "steps": [
+        "open_safari",
+        "take_screenshot",
+        "press_key_random",
+        "move_mouse_center",
+        "open_spotlight"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:51:42.008002",
+      "results": [],
+      "session": "session_1764480024"
+    },
+    {
+      "id": "plan_1764480112",
+      "goal": "\ud83e\udd16 Optimized system scan (AI-Generated)",
+      "steps": [
+        "explore_desktop",
+        "get_system_info",
+        "speak_thought",
+        "open_safari",
+        "open_spotlight"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:51:52.021070",
+      "results": [],
+      "session": "session_1764480024"
+    },
+    {
+      "id": "plan_1764480122",
+      "goal": "\ud83e\udd16 Proven success sequence (AI-Generated)",
+      "steps": [
+        "open_spotlight",
+        "speak_thought",
+        "try_shortcut",
+        "move_mouse_explore"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:52:02.158225",
+      "results": [],
+      "session": "session_1764480024"
+    },
+    {
+      "id": "plan_1764480130",
+      "goal": "\ud83e\udd16 Learned exploration routine (AI-Generated)",
+      "steps": [
+        "switch_app",
+        "speak_thought",
+        "try_shortcut",
+        "take_screenshot"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T10:52:10.197091",
+      "results": [],
+      "session": "session_1764480024"
+    },
+    {
+      "id": "plan_1764480138",
+      "goal": "Explore the system",
+      "steps": [
+        "get_system_info",
+        "check_clipboard",
+        "take_screenshot",
+        "speak_thought"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T10:52:18.108531",
+      "results": [],
+      "session": "session_1764480024"
+    },
+    {
+      "id": "plan_1764480918",
+      "goal": "\ud83e\udd16 AI-generated workflow (AI-Generated)",
+      "steps": [
+        "scroll_down",
+        "explore_desktop",
+        "get_system_info",
+        "move_mouse_explore",
+        "press_key_random"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T11:05:18.485846",
+      "results": [],
+      "session": "session_1764480917"
+    },
+    {
+      "id": "plan_1764480930",
+      "goal": "\ud83e\udd16 Learned exploration routine (AI-Generated)",
+      "steps": [
+        "try_shortcut",
+        "get_system_info",
+        "open_finder",
+        "press_key_random"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T11:05:30.712421",
+      "results": [],
+      "session": "session_1764480917"
+    },
+    {
+      "id": "plan_1764480938",
+      "goal": "\ud83e\udd16 Learned exploration routine (AI-Generated)",
+      "steps": [
+        "switch_app",
+        "observe_wait",
+        "explore_desktop",
+        "check_clipboard"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T11:05:38.684182",
+      "results": [],
+      "session": "session_1764480917"
+    },
+    {
+      "id": "plan_1764480948",
+      "goal": "\ud83e\udd16 AI-generated workflow (AI-Generated)",
+      "steps": [
+        "take_screenshot",
+        "check_clipboard",
+        "observe_wait",
+        "scroll_down",
+        "speak_thought"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T11:05:48.751840",
+      "results": [],
+      "session": "session_1764480917"
+    },
+    {
+      "id": "plan_1764480958",
+      "goal": "\ud83e\udd16 Proven success sequence (AI-Generated)",
+      "steps": [
+        "explore_desktop",
+        "open_spotlight",
+        "try_shortcut",
+        "move_mouse_explore"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T11:05:58.896621",
+      "results": [],
+      "session": "session_1764480917"
+    },
+    {
+      "id": "plan_1764480973",
+      "goal": "\ud83e\udd16 Optimized system scan (AI-Generated)",
+      "steps": [
+        "explore_desktop",
+        "move_mouse_center",
+        "switch_app",
+        "open_finder",
+        "open_spotlight"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T11:06:13.125876",
+      "results": [],
+      "session": "session_1764480917"
+    },
+    {
+      "id": "plan_1764480985",
+      "goal": "\ud83e\udd16 AI-generated workflow (AI-Generated)",
+      "steps": [
+        "move_mouse_center",
+        "get_system_info",
+        "observe_wait",
+        "switch_app",
+        "open_finder"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T11:06:25.089302",
+      "results": [],
+      "session": "session_1764480917"
+    },
+    {
+      "id": "plan_1764480995",
+      "goal": "\ud83e\udd16 AI-generated workflow (AI-Generated)",
+      "steps": [
+        "get_system_info",
+        "move_mouse_center",
+        "observe_wait",
+        "take_screenshot",
+        "press_key_random"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T11:06:35.104672",
+      "results": [],
+      "session": "session_1764480917"
+    },
+    {
+      "id": "plan_1764482191",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_url",
+        "run_python_code",
+        "choose_file",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T11:26:31.041238",
+      "results": [],
+      "session": "session_1764482182"
+    },
+    {
+      "id": "plan_1764482194",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "click_here",
+        "open_url",
+        "open_google_chrome"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T11:26:34.462246",
+      "results": [],
+      "session": "session_1764482182"
+    },
+    {
+      "id": "plan_1764482197",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "explore_desktop",
+        "get_cpu",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T11:26:37.736620",
+      "results": [],
+      "session": "session_1764482182"
+    },
+    {
+      "id": "plan_1764482201",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_cpu",
+        "get_disk",
+        "get_memory",
+        "get_system_info",
+        "open_terminal"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T11:26:41.037927",
+      "results": [],
+      "session": "session_1764482182"
+    },
+    {
+      "id": "plan_1764482204",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_url",
+        "run_python_code",
+        "get_clipboard",
+        "click_here"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T11:26:44.135704",
+      "results": [],
+      "session": "session_1764482182"
+    },
+    {
+      "id": "plan_1764482212",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_url",
+        "run_python_code",
+        "get_clipboard",
+        "click_here"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T11:26:52.182675",
+      "results": [],
+      "session": "session_1764482182"
+    },
+    {
+      "id": "plan_1764482223",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "explore_desktop",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T11:27:03.031172",
+      "results": [],
+      "session": "session_1764482182"
+    },
+    {
+      "id": "plan_1764482226",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_url",
+        "run_python_code",
+        "click_here",
+        "choose_file"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T11:27:06.188995",
+      "results": [],
+      "session": "session_1764482182"
+    },
+    {
+      "id": "plan_1764482233",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_url",
+        "run_python_code",
+        "click_here",
+        "choose_file"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T11:27:13.176368",
+      "results": [],
+      "session": "session_1764482182"
+    },
+    {
+      "id": "plan_1764482236",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "explore_desktop",
+        "get_hostname"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T11:27:16.301202",
+      "results": [],
+      "session": "session_1764482182"
+    },
+    {
+      "id": "plan_1764482247",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_url",
+        "run_python_code",
+        "choose_file",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T11:27:27.615715",
+      "results": [],
+      "session": "session_1764482182"
+    },
+    {
+      "id": "plan_1764482248",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_url",
+        "run_python_code",
+        "get_system_info",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T11:27:28.067759",
+      "results": [],
+      "session": "session_1764482182"
+    },
+    {
+      "id": "plan_1764493162",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "check_disk_space",
+        "choose_file",
+        "open_terminal"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T14:29:22.352426",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493162",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "check_disk_space",
+        "choose_file",
+        "open_terminal"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T14:29:22.888035",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493166",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "explore_desktop",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T14:29:26.045833",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493169",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "choose_file",
+        "open_url",
+        "run_python_code",
+        "click_here"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T14:29:29.142828",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493179",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_app_store",
+        "open_google_chrome",
+        "choose_file",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T14:29:39.965992",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493183",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "get_cpu",
+        "get_disk",
+        "explore_desktop",
+        "open_system_preferences"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T14:29:43.363291",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493198",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_url",
+        "run_python_code",
+        "get_clipboard",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T14:29:58.736999",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493202",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_url",
+        "safari_get_title",
+        "play_sound",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T14:30:02.620909",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493207",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "open_google_chrome",
+        "click_here"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T14:30:07.487963",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493217",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "get_memory",
+        "open_terminal",
+        "run_python_code"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T14:30:17.320247",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493220",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "click_here",
+        "open_url",
+        "choose_file",
+        "run_python_code"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T14:30:20.444308",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493223",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_url",
+        "click_here",
+        "press_key_random",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T14:30:23.841961",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493232",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_system_preferences",
+        "get_cpu",
+        "choose_file",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T14:30:32.890830",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493236",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "check_disk_space",
+        "choose_file",
+        "open_terminal"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T14:30:36.180755",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493246",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "click_here",
+        "open_url",
+        "press_key_random",
+        "type_test"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T14:30:46.680952",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493249",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_url",
+        "run_python_code",
+        "choose_file",
+        "click_here"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T14:30:49.969768",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493259",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "explore_desktop",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T14:30:59.002501",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493262",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_url",
+        "run_python_code",
+        "click_here",
+        "choose_file"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T14:31:02.098111",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493272",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_url",
+        "run_python_code",
+        "choose_file",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T14:31:12.690871",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493275",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_clipboard",
+        "get_cpu",
+        "open_terminal",
+        "run_python_code",
+        "click_here"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T14:31:15.987145",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493289",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "click_here",
+        "open_url",
+        "press_key_random",
+        "type_test"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T14:31:29.595626",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493292",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_url",
+        "get_system_info",
+        "choose_file",
+        "click_here"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T14:31:32.819530",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493300",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "get_clipboard",
+        "observe_wait",
+        "process_list",
+        "run_python_code"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T14:31:40.192481",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493311",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_system_preferences",
+        "get_cpu",
+        "choose_file",
+        "click_here"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T14:31:51.327441",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493321",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "get_cpu",
+        "get_disk",
+        "explore_desktop",
+        "open_system_preferences"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T14:32:01.099462",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493321",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "explore_desktop",
+        "click_here"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T14:32:01.568989",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493329",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "explore_desktop",
+        "click_here"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T14:32:09.524530",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493341",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "choose_file",
+        "open_url",
+        "run_python_code",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T14:32:21.974928",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493345",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "get_hostname",
+        "get_ip",
+        "open_google_chrome",
+        "click_here"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T14:32:25.530433",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493354",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "get_clipboard",
+        "choose_file",
+        "open_url",
+        "run_python_code"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T14:32:34.178328",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493357",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_google_chrome",
+        "open_safari",
+        "click_here",
+        "press_key_random"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T14:32:37.302377",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493366",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_url",
+        "press_key_random",
+        "run_python_code",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T14:32:46.057499",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493366",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "get_clipboard",
+        "choose_file",
+        "open_url",
+        "click_here"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T14:32:46.518418",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493375",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "explore_desktop",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T14:32:55.020325",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493378",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "get_disk",
+        "scan_network",
+        "observe_wait"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T14:32:58.321257",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764493381",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "explore_desktop",
+        "open_google_chrome",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T14:33:01.553747",
+      "results": [],
+      "session": "session_1764493152"
+    },
+    {
+      "id": "plan_1764505827",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "click_here",
+        "open_url",
+        "choose_file",
+        "safari_get_title"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T18:00:27.650724",
+      "results": [],
+      "session": "session_1764505822"
+    },
+    {
+      "id": "plan_1764505828",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "click_here",
+        "choose_file",
+        "chrome_get_url",
+        "open_url"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T18:00:28.066729",
+      "results": [],
+      "session": "session_1764505822"
+    },
+    {
+      "id": "plan_1764505841",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "open_url",
+        "get_system_info",
+        "check_disk_space",
+        "choose_file",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T18:00:41.101710",
+      "results": [],
+      "session": "session_1764505822"
+    },
+    {
+      "id": "plan_1764505846",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "explore_desktop",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T18:00:46.315472",
+      "results": [],
+      "session": "session_1764505822"
+    },
+    {
+      "id": "plan_1764505849",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_url",
+        "run_python_code",
+        "get_clipboard",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T18:00:49.630387",
+      "results": [],
+      "session": "session_1764505822"
+    },
+    {
+      "id": "plan_1764517148",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "check_disk_space",
+        "choose_file",
+        "open_terminal"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T21:09:08.278705",
+      "results": [],
+      "session": "session_1764517139"
+    },
+    {
+      "id": "plan_1764517148",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "get_disk",
+        "get_memory",
+        "open_terminal"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T21:09:08.775648",
+      "results": [],
+      "session": "session_1764517139"
+    },
+    {
+      "id": "plan_1764517149",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "scan_network",
+        "open_terminal"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T21:09:09.304703",
+      "results": [],
+      "session": "session_1764517139"
+    },
+    {
+      "id": "plan_1764517161",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "click_here",
+        "close_app_store"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T21:09:21.269059",
+      "results": [],
+      "session": "session_1764517139"
+    },
+    {
+      "id": "plan_1764517161",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "get_cpu",
+        "get_disk",
+        "explore_desktop",
+        "open_system_preferences"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T21:09:21.701335",
+      "results": [],
+      "session": "session_1764517139"
+    },
+    {
+      "id": "plan_1764517172",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "check_disk_space",
+        "choose_file",
+        "open_terminal"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T21:09:32.879581",
+      "results": [],
+      "session": "session_1764517139"
+    },
+    {
+      "id": "plan_1764517176",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "get_clipboard",
+        "choose_file",
+        "open_url",
+        "run_python_code"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T21:09:36.077888",
+      "results": [],
+      "session": "session_1764517139"
+    },
+    {
+      "id": "plan_1764517189",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "choose_file",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T21:09:49.017816",
+      "results": [],
+      "session": "session_1764517139"
+    },
+    {
+      "id": "plan_1764517192",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "click_here",
+        "close_app_store"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T21:09:52.196735",
+      "results": [],
+      "session": "session_1764517139"
+    },
+    {
+      "id": "plan_1764517297",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_app_store",
+        "click_here",
+        "open_google_chrome",
+        "safari_get_url"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T21:11:37.418231",
+      "results": [],
+      "session": "session_1764517293"
+    },
+    {
+      "id": "plan_1764517306",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_url",
+        "click_here",
+        "choose_file",
+        "open_visual_studio_code"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T21:11:46.602935",
+      "results": [],
+      "session": "session_1764517302"
+    },
+    {
+      "id": "plan_1764517306",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_url",
+        "click_here",
+        "press_key_random",
+        "type_test"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T21:11:46.985924",
+      "results": [],
+      "session": "session_1764517302"
+    },
+    {
+      "id": "plan_1764518902",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_url",
+        "choose_file",
+        "click_here",
+        "run_python_code"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T21:38:22.617725",
+      "results": [],
+      "session": "session_1764518892"
+    },
+    {
+      "id": "plan_1764519755",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "get_cpu",
+        "run_python_code"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T21:52:35.081080",
+      "results": [],
+      "session": "session_1764519743"
+    },
+    {
+      "id": "plan_1764519758",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_app_store",
+        "open_google_chrome",
+        "explore_desktop",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T21:52:38.389562",
+      "results": [],
+      "session": "session_1764519743"
+    },
+    {
+      "id": "plan_1764519759",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_app_store",
+        "open_activity_monitor",
+        "click_here",
+        "move_mouse_explore"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T21:52:39.163297",
+      "results": [],
+      "session": "session_1764519743"
+    },
+    {
+      "id": "plan_1764519762",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_cpu",
+        "get_disk",
+        "check_firewall",
+        "choose_file",
+        "open_terminal"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T21:52:42.850262",
+      "results": [],
+      "session": "session_1764519743"
+    },
+    {
+      "id": "plan_1764519776",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_url",
+        "click_here",
+        "choose_file",
+        "safari_get_title"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T21:52:56.621949",
+      "results": [],
+      "session": "session_1764519743"
+    },
+    {
+      "id": "plan_1764519780",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "explore_desktop",
+        "move_mouse_center"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T21:53:00.922461",
+      "results": [],
+      "session": "session_1764519743"
+    },
+    {
+      "id": "plan_1764519796",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "open_google_chrome",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T21:53:16.276175",
+      "results": [],
+      "session": "session_1764519743"
+    },
+    {
+      "id": "plan_1764519799",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "click_here",
+        "open_activity_monitor",
+        "get_cpu",
+        "choose_file"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T21:53:19.528520",
+      "results": [],
+      "session": "session_1764519743"
+    },
+    {
+      "id": "plan_1764519802",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "explore_desktop",
+        "click_here"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-11-30T21:53:22.758882",
+      "results": [],
+      "session": "session_1764519743"
+    },
+    {
+      "id": "plan_1764519816",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_url",
+        "click_here",
+        "press_key_random",
+        "choose_file"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T21:53:36.454480",
+      "results": [],
+      "session": "session_1764519743"
+    },
+    {
+      "id": "plan_1764519817",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "open_google_chrome",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-11-30T21:53:37.017759",
+      "results": [],
+      "session": "session_1764519743"
+    },
+    {
+      "id": "plan_1764530203",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "get_cpu",
+        "get_disk",
+        "open_terminal",
+        "explore_desktop"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T00:46:43.153722",
+      "results": [],
+      "session": "session_1764530192"
+    },
+    {
+      "id": "plan_1764530203",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "open_google_chrome",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T00:46:43.909712",
+      "results": [],
+      "session": "session_1764530192"
+    },
+    {
+      "id": "plan_1764530204",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "explore_desktop",
+        "close_app_store"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T00:46:44.678846",
+      "results": [],
+      "session": "session_1764530192"
+    },
+    {
+      "id": "plan_1764530217",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_url",
+        "run_python_code",
+        "click_here",
+        "choose_file"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T00:46:57.376202",
+      "results": [],
+      "session": "session_1764530192"
+    },
+    {
+      "id": "plan_1764530220",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "get_cpu",
+        "get_clipboard",
+        "choose_file",
+        "open_url"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T00:47:00.567642",
+      "results": [],
+      "session": "session_1764530217"
+    },
+    {
+      "id": "plan_1764530223",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "get_cpu",
+        "get_disk",
+        "open_terminal",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T00:47:03.702478",
+      "results": [],
+      "session": "session_1764530217"
+    },
+    {
+      "id": "plan_1764533108",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "get_disk",
+        "get_memory",
+        "open_terminal"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T01:35:08.218797",
+      "results": [],
+      "session": "session_1764533096"
+    },
+    {
+      "id": "plan_1764533108",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "get_disk",
+        "open_terminal",
+        "run_python_code"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T01:35:08.845526",
+      "results": [],
+      "session": "session_1764533096"
+    },
+    {
+      "id": "plan_1764533109",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "check_disk_space",
+        "choose_file",
+        "open_terminal"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T01:35:09.633430",
+      "results": [],
+      "session": "session_1764533096"
+    },
+    {
+      "id": "plan_1764533110",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_cpu",
+        "get_clipboard",
+        "check_disk_space",
+        "choose_file",
+        "open_terminal"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T01:35:10.187060",
+      "results": [],
+      "session": "session_1764533096"
+    },
+    {
+      "id": "plan_1764533121",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "get_disk",
+        "get_memory",
+        "open_terminal"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T01:35:21.121412",
+      "results": [],
+      "session": "session_1764533096"
+    },
+    {
+      "id": "plan_1764578669",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_system_preferences",
+        "get_cpu",
+        "choose_file",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:14:29.753132",
+      "results": [],
+      "session": "session_1764578659"
+    },
+    {
+      "id": "plan_1764578670",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "get_clipboard",
+        "run_python_code",
+        "choose_file",
+        "open_url"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T14:14:30.196076",
+      "results": [],
+      "session": "session_1764578659"
+    },
+    {
+      "id": "plan_1764578674",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "get_disk",
+        "open_terminal",
+        "run_python_code"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:14:34.316504",
+      "results": [],
+      "session": "session_1764578659"
+    },
+    {
+      "id": "plan_1764579047",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_url",
+        "click_here",
+        "press_key_random",
+        "move_mouse_center"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:20:47.810035",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579050",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_url",
+        "press_key_random",
+        "observe_wait",
+        "run_python_code"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:20:50.908227",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579054",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "get_disk",
+        "get_memory",
+        "open_terminal"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:20:54.061198",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579057",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "get_clipboard",
+        "choose_file",
+        "open_url",
+        "click_here"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T14:20:57.138885",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579066",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "get_cpu",
+        "get_disk",
+        "get_memory",
+        "open_terminal"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:21:06.294344",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579069",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_url",
+        "run_python_code",
+        "get_clipboard",
+        "click_here"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T14:21:09.371775",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579081",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "get_disk",
+        "get_memory",
+        "open_terminal"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:21:21.916084",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579085",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "click_here",
+        "choose_file",
+        "open_url",
+        "safari_get_title"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T14:21:25.069390",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579098",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "check_disk_space",
+        "choose_file",
+        "open_terminal"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:21:38.732923",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579101",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "choose_file",
+        "open_url",
+        "click_here",
+        "press_key_random"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:21:41.852745",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579102",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "get_clipboard",
+        "choose_file",
+        "open_url",
+        "click_here"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T14:21:42.287143",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579105",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "get_cpu",
+        "get_disk",
+        "get_memory",
+        "open_terminal"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T14:21:45.578457",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579117",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "check_disk_space",
+        "choose_file",
+        "open_url"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:21:57.001184",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579117",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "get_disk",
+        "scan_network",
+        "open_terminal"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T14:21:57.517663",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579131",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_system_preferences",
+        "get_cpu",
+        "choose_file",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:22:11.854892",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579136",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_system_preferences",
+        "get_cpu",
+        "explore_desktop",
+        "click_here"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T14:22:16.351649",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579148",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "get_clipboard",
+        "choose_file",
+        "open_url",
+        "run_python_code"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:22:28.403724",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579151",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "explore_desktop",
+        "click_here"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T14:22:31.871205",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579163",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_url",
+        "press_key_random",
+        "click_here",
+        "choose_file"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T14:22:43.757741",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579169",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "check_disk_space",
+        "choose_file",
+        "open_terminal"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T14:22:49.778191",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579182",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_app_store",
+        "open_activity_monitor",
+        "explore_desktop",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:23:02.165875",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579182",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_app_store",
+        "open_google_chrome",
+        "explore_desktop",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:23:02.732133",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579185",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "get_clipboard",
+        "choose_file",
+        "open_url",
+        "run_python_code"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T14:23:05.839086",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579194",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "get_clipboard",
+        "choose_file",
+        "open_url",
+        "run_python_code"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T14:23:14.519002",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579204",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_system_preferences",
+        "get_cpu",
+        "explore_desktop",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:23:24.386972",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579204",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "open_google_chrome",
+        "click_here"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T14:23:24.977536",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579212",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_app_store",
+        "open_google_chrome",
+        "explore_desktop",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:23:32.623590",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579215",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_url",
+        "open_visual_studio_code",
+        "click_here",
+        "run_python_code"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:23:35.962242",
+      "results": [],
+      "session": "session_1764579035"
+    },
+    {
+      "id": "plan_1764579917",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_url",
+        "run_python_code",
+        "get_clipboard",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:35:17.690269",
+      "results": [],
+      "session": "session_1764579902"
+    },
+    {
+      "id": "plan_1764579918",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_url",
+        "press_key_random",
+        "choose_file",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:35:18.099630",
+      "results": [],
+      "session": "session_1764579902"
+    },
+    {
+      "id": "plan_1764580159",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "get_disk",
+        "check_firewall",
+        "choose_file"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:39:19.705481",
+      "results": [],
+      "session": "session_1764580150"
+    },
+    {
+      "id": "plan_1764580162",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_url",
+        "run_python_code",
+        "click_here",
+        "choose_file"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:39:22.820999",
+      "results": [],
+      "session": "session_1764580150"
+    },
+    {
+      "id": "plan_1764580166",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "click_here",
+        "open_google_chrome",
+        "music_play",
+        "observe_wait"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T14:39:26.109098",
+      "results": [],
+      "session": "session_1764580150"
+    },
+    {
+      "id": "plan_1764580173",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "click_here",
+        "open_url",
+        "get_clipboard",
+        "choose_file"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:39:33.262454",
+      "results": [],
+      "session": "session_1764580150"
+    },
+    {
+      "id": "plan_1764580173",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "click_here",
+        "open_url",
+        "press_key_random",
+        "type_test"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T14:39:33.760733",
+      "results": [],
+      "session": "session_1764580150"
+    },
+    {
+      "id": "plan_1764580182",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "get_cpu",
+        "explore_desktop",
+        "open_system_preferences",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:39:42.101801",
+      "results": [],
+      "session": "session_1764580150"
+    },
+    {
+      "id": "plan_1764580185",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_system_preferences",
+        "get_cpu",
+        "choose_file",
+        "open_url"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:39:45.182432",
+      "results": [],
+      "session": "session_1764580150"
+    },
+    {
+      "id": "plan_1764580188",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "click_here",
+        "close_app_store"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T14:39:48.592572",
+      "results": [],
+      "session": "session_1764580150"
+    },
+    {
+      "id": "plan_1764580198",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "click_here",
+        "choose_file",
+        "chrome_get_url",
+        "open_url"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:39:58.243372",
+      "results": [],
+      "session": "session_1764580150"
+    },
+    {
+      "id": "plan_1764580201",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_system_preferences",
+        "get_cpu",
+        "check_disk_space",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T14:40:01.458299",
+      "results": [],
+      "session": "session_1764580150"
+    },
+    {
+      "id": "plan_1764581665",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "explore_desktop",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T15:04:25.509661",
+      "results": [],
+      "session": "session_1764581653"
+    },
+    {
+      "id": "plan_1764581668",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_url",
+        "run_python_code",
+        "choose_file",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T15:04:28.861109",
+      "results": [],
+      "session": "session_1764581653"
+    },
+    {
+      "id": "plan_1764583983",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "explore_desktop",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T15:43:03.412589",
+      "results": [],
+      "session": "session_1764583968"
+    },
+    {
+      "id": "plan_1764583983",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "explore_desktop",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T15:43:03.969435",
+      "results": [],
+      "session": "session_1764583968"
+    },
+    {
+      "id": "plan_1764583987",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_url",
+        "run_python_code",
+        "choose_file",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T15:43:07.340090",
+      "results": [],
+      "session": "session_1764583968"
+    },
+    {
+      "id": "plan_1764583988",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "get_clipboard",
+        "choose_file",
+        "open_url",
+        "run_python_code"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T15:43:08.182656",
+      "results": [],
+      "session": "session_1764583968"
+    },
+    {
+      "id": "plan_1764583996",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "get_clipboard",
+        "choose_file",
+        "open_url",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T15:43:16.730714",
+      "results": [],
+      "session": "session_1764583968"
+    },
+    {
+      "id": "plan_1764603946",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "open_activity_monitor",
+        "open_app_store",
+        "explore_desktop",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T21:15:46.382725",
+      "results": [],
+      "session": "session_1764603935"
+    },
+    {
+      "id": "plan_1764603949",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_url",
+        "click_here",
+        "press_key_random",
+        "type_test"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T21:15:49.576103",
+      "results": [],
+      "session": "session_1764603935"
+    },
+    {
+      "id": "plan_1764604438",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "get_memory",
+        "scan_network",
+        "open_terminal"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T21:23:58.721678",
+      "results": [],
+      "session": "session_1764604433"
+    },
+    {
+      "id": "plan_1764604441",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "get_clipboard",
+        "choose_file",
+        "open_url",
+        "run_python_code"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T21:24:01.820830",
+      "results": [],
+      "session": "session_1764604433"
+    },
+    {
+      "id": "plan_1764604451",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "get_clipboard",
+        "choose_file",
+        "open_url",
+        "run_python_code"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T21:24:11.498968",
+      "results": [],
+      "session": "session_1764604433"
+    },
+    {
+      "id": "plan_1764604462",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_url",
+        "click_here",
+        "press_key_random",
+        "type_test"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T21:24:22.577931",
+      "results": [],
+      "session": "session_1764604433"
+    },
+    {
+      "id": "plan_1764604467",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "check_disk_space",
+        "choose_file",
+        "open_terminal"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T21:24:27.836332",
+      "results": [],
+      "session": "session_1764604433"
+    },
+    {
+      "id": "plan_1764604470",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "get_cpu",
+        "get_disk",
+        "open_system_preferences",
+        "shutdown"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T21:24:30.946587",
+      "results": [],
+      "session": "session_1764604433"
+    },
+    {
+      "id": "plan_1764605692",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "get_cpu",
+        "explore_desktop",
+        "get_clipboard",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T21:44:52.106029",
+      "results": [],
+      "session": "session_1764605677"
+    },
+    {
+      "id": "plan_1764605695",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_app_store",
+        "open_google_chrome",
+        "choose_file",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T21:44:55.248058",
+      "results": [],
+      "session": "session_1764605677"
+    },
+    {
+      "id": "plan_1764605695",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_google_chrome",
+        "open_safari",
+        "click_here",
+        "press_key_random"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T21:44:55.757864",
+      "results": [],
+      "session": "session_1764605677"
+    },
+    {
+      "id": "plan_1764605698",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "open_url",
+        "run_python_code",
+        "choose_file",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T21:44:58.908410",
+      "results": [],
+      "session": "session_1764605677"
+    },
+    {
+      "id": "plan_1764605703",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "get_memory",
+        "scan_network",
+        "open_terminal"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T21:45:03.546936",
+      "results": [],
+      "session": "session_1764605677"
+    },
+    {
+      "id": "plan_1764605716",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_url",
+        "open_visual_studio_code",
+        "choose_file",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T21:45:16.851587",
+      "results": [],
+      "session": "session_1764605677"
+    },
+    {
+      "id": "plan_1764605850",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "choose_file",
+        "open_url",
+        "run_python_code",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T21:47:30.945368",
+      "results": [],
+      "session": "session_1764605843"
+    },
+    {
+      "id": "plan_1764605856",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "click_here",
+        "choose_file",
+        "chrome_get_url",
+        "open_url"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T21:47:36.755359",
+      "results": [],
+      "session": "session_1764605843"
+    },
+    {
+      "id": "plan_1764605860",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "open_system_preferences",
+        "get_cpu",
+        "open_terminal",
+        "run_python_code",
+        "shutdown"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T21:47:40.112308",
+      "results": [],
+      "session": "session_1764605843"
+    },
+    {
+      "id": "plan_1764605999",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "open_url",
+        "press_key_random",
+        "open_activity_monitor",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T21:49:59.046931",
+      "results": [],
+      "session": "session_1764605992"
+    },
+    {
+      "id": "plan_1764606004",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_system_info",
+        "get_cpu",
+        "get_memory",
+        "scan_network",
+        "open_terminal"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T21:50:04.721251",
+      "results": [],
+      "session": "session_1764605992"
+    },
+    {
+      "id": "plan_1764607430",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "get_cpu",
+        "get_disk",
+        "get_memory",
+        "get_wifi"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T22:13:50.580978",
+      "results": [],
+      "session": "session_1764607423"
+    },
+    {
+      "id": "plan_1764607433",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "get_cpu",
+        "get_disk",
+        "get_memory",
+        "open_terminal"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T22:13:53.827094",
+      "results": [],
+      "session": "session_1764607423"
+    },
+    {
+      "id": "plan_1764607437",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "get_clipboard",
+        "choose_file",
+        "open_url",
+        "click_here"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T22:13:57.113463",
+      "results": [],
+      "session": "session_1764607423"
+    },
+    {
+      "id": "plan_1764607449",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "get_cpu",
+        "get_disk",
+        "get_memory",
+        "get_wifi"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T22:14:09.918216",
+      "results": [],
+      "session": "session_1764607423"
+    },
+    {
+      "id": "plan_1764607453",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "get_clipboard",
+        "choose_file",
+        "chrome_get_url",
+        "click_here"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T22:14:13.328678",
+      "results": [],
+      "session": "session_1764607423"
+    },
+    {
+      "id": "plan_1764607453",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "get_clipboard",
+        "choose_file",
+        "open_url",
+        "click_here"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T22:14:13.746090",
+      "results": [],
+      "session": "session_1764607423"
+    },
+    {
+      "id": "plan_1764607459",
+      "goal": "Autonomous exploration sweep (LLM optimized)",
+      "steps": [
+        "get_cpu",
+        "get_disk",
+        "get_memory",
+        "get_wifi"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T22:14:19.441147",
+      "results": [],
+      "session": "session_1764607423"
+    },
+    {
+      "id": "plan_1764607462",
+      "goal": "Deep system intelligence scan (LLM optimized)",
+      "steps": [
+        "get_cpu",
+        "get_disk",
+        "get_memory",
+        "get_system_info",
+        "get_wifi"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T22:14:22.835731",
+      "results": [],
+      "session": "session_1764607423"
+    },
+    {
+      "id": "plan_1764607480",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "get_cpu",
+        "get_disk",
+        "get_memory",
+        "get_wifi"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T22:14:40.484224",
+      "results": [],
+      "session": "session_1764607423"
+    },
+    {
+      "id": "plan_1764607483",
+      "goal": "Creative brainstorming loop (LLM optimized)",
+      "steps": [
+        "get_clipboard",
+        "choose_file",
+        "open_url",
+        "click_here"
+      ],
+      "status": "completed",
+      "current_step": 0,
+      "created": "2025-12-01T22:14:43.757463",
+      "results": [],
+      "session": "session_1764607423"
+    },
+    {
+      "id": "plan_1764607491",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "get_clipboard",
+        "get_cpu",
+        "open_url",
+        "run_python_code"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T22:14:51.862531",
+      "results": [],
+      "session": "session_1764607423"
+    },
+    {
+      "id": "plan_1764607498",
+      "goal": "Discover new abilities (LLM optimized)",
+      "steps": [
+        "get_cpu",
+        "get_disk",
+        "get_memory",
+        "get_wifi"
+      ],
+      "status": "pending",
+      "current_step": 0,
+      "created": "2025-12-01T22:14:58.175187",
+      "results": [],
+      "session": "session_1764607423"
+    }
+  ]
+}

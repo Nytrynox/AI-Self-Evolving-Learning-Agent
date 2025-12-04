@@ -1,0 +1,106 @@
+{
+  "Python": {
+    "name": "Python",
+    "path": null,
+    "what_it_does": null,
+    "discovered": "2025-11-29T16:58:14.659381",
+    "times_opened": 580,
+    "features_discovered": []
+  },
+  "Electron": {
+    "name": "Electron",
+    "path": null,
+    "what_it_does": null,
+    "discovered": "2025-11-29T16:58:32.553158",
+    "times_opened": 82,
+    "features_discovered": []
+  },
+  "Finder": {
+    "name": "Finder",
+    "path": null,
+    "what_it_does": "File manager for macOS",
+    "discovered": "2025-11-29T17:28:54.052464",
+    "times_opened": 333,
+    "features_discovered": []
+  },
+  "Safari": {
+    "name": "Safari",
+    "path": null,
+    "what_it_does": "Web browser",
+    "discovered": "2025-11-29T17:29:27.999208",
+    "times_opened": 170,
+    "features_discovered": []
+  },
+  "Antigravity": {
+    "name": "Antigravity",
+    "path": null,
+    "what_it_does": "Installed app",
+    "discovered": "2025-11-30T00:29:39.916966",
+    "times_opened": 7,
+    "features_discovered": []
+  },
+  "Comet": {
+    "name": "Comet",
+    "path": null,
+    "what_it_does": "Installed app",
+    "discovered": "2025-11-30T00:29:39.917083",
+    "times_opened": 143,
+    "features_discovered": []
+  },
+  "MongoDB Compass": {
+    "name": "MongoDB Compass",
+    "path": null,
+    "what_it_does": "Installed app",
+    "discovered": "2025-11-30T00:29:39.917198",
+    "times_opened": 7,
+    "features_discovered": []
+  },
+  "Python 3.11": {
+    "name": "Python 3.11",
+    "path": null,
+    "what_it_does": "Installed app",
+    "discovered": "2025-11-30T00:29:39.917335",
+    "times_opened": 7,
+    "features_discovered": []
+  },
+  "Browser": {
+    "name": "Browser",
+    "path": "https://github.com",
+    "what_it_does": "Opened GitHub",
+    "discovered": "2025-11-30T10:38:46.001729",
+    "times_opened": 61,
+    "features_discovered": []
+  },
+  "Activity Monitor": {
+    "name": "Activity Monitor",
+    "path": null,
+    "what_it_does": null,
+    "discovered": "2025-11-30T11:26:39.546314",
+    "times_opened": 26,
+    "features_discovered": []
+  },
+  "App Store": {
+    "name": "App Store",
+    "path": null,
+    "what_it_does": null,
+    "discovered": "2025-11-30T11:27:06.343018",
+    "times_opened": 42,
+    "features_discovered": []
+  },
+  "System Settings": {
+    "name": "System Settings",
+    "path": null,
+    "what_it_does": null,
+    "discovered": "2025-11-30T14:29:59.012662",
+    "times_opened": 24,
+    "features_discovered": []
+  },
+  "Terminal": {
+    "name": "Terminal",
+    "path": null,
+    "what_it_does": "Command line interface",
+    "discovered": "2025-11-30T14:30:41.412959",
+    "times_opened": 26,
+    "features_discovered": []
+  }
+}

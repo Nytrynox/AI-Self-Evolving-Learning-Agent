@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "events": [
+    {
+      "ts": 1764487292.026953,
+      "type": "manual_test",
+      "payload": {
+        "stage": "post_vision"
+      }
+    },
+    {
+      "ts": 1764492994.516648,
+      "type": "ai_status",
+      "payload": {
+        "cycle": 42,
+        "epoch": "explore",
+        "last_action": "see_screen",
+        "resources": {
+          "cpu": "ok",
+          "ram": "ok",
+          "net": "ok"
+        }
+      }
+    },
+    {
+      "ts": 1764492994.517031,
+      "type": "learning_update",
+      "payload": {
+        "subject": "patterns_mined",
+        "count": 3
+      }
+    },
+    {
+      "ts": 1764517896.136572,
+      "type": "smoke_test",
+      "payload": {
+        "ok": true
+      }
+    }
+  ]
+}

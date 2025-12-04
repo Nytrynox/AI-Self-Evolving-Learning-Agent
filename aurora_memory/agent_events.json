@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "events": [
+    {
+      "ts": 1764493099.612064,
+      "type": "ai_status",
+      "payload": {
+        "cycle": 1,
+        "epoch": "explore",
+        "last_action": "see_screen",
+        "resources": {
+          "cpu": "ok",
+          "ram": "ok",
+          "net": "ok"
+        }
+      }
+    },
+    {
+      "ts": 1764493099.6124768,
+      "type": "learning_update",
+      "payload": {
+        "subject": "patterns_mined",
+        "count": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "version": 1,
+  "actions": {
+    "explore_files": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "search_web": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "think": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "speak": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "create_agent": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "execute_code": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "learn": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "check_system": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "rest": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "see_screen": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "see_camera": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "click": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "double_click": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "right_click": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "drag": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "scroll": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "move_mouse": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "type_text": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "press_key": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "hotkey": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "copy": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "paste": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "open_app": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "open_browser": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "open_terminal": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "open_finder": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "activate_app": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "quit_app": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "browser_search": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "browser_url": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "click_button": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "fill_form_field": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "take_screenshot": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "macos_command": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "spotlight_search": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "control_volume": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "control_brightness": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "mission_control": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "show_desktop": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "lock_screen": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "switch_space": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "close_window": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "minimize_window": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "maximize_window": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "switch_app": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "force_quit_menu": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "empty_trash": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "new_finder_window": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "go_to_folder": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "get_file_info": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "toggle_hidden_files": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "ask_user": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "listen_to_user": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "announce": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "analyze_mistakes": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "report_intelligence": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "learn_system": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "learn_apps": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "learn_files": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "search_knowledge": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "security_scan": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "port_scan": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "wifi_scan": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "vuln_check": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "security_audit": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "crack_hash": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "spawn_security_agent": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "spawn_learning_agent": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "spawn_automation_agent": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "assign_task_to_agent": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "list_agents": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "run_shell": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    },
+    "run_applescript": {
+      "category": "core",
+      "times_used": 0,
+      "last_success": null
+    }
+  }
+}

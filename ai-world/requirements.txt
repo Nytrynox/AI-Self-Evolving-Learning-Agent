@@ -1,0 +1,45 @@
+# AI Freedom World - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core
+psutil>=5.9.0
+pillow>=10.0.0
+
+# LLM Integration
+ollama>=0.1.0
+
+# Audio (Text-to-Speech & Speech Recognition)
+pyttsx3>=2.90
+SpeechRecognition>=3.10.0
+pyaudio>=0.2.13
+
+# Vision & Screen
+opencv-python>=4.8.0
+pyautogui>=0.9.54
+pillow>=10.0.0
+pytesseract>=0.3.10
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# Web
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Browser Automation (Optional - for advanced web control)
+selenium>=4.15.0
+
+# Data & ML
+numpy>=1.24.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+stable-baselines3>=2.0.0
+
+# Terminal UI (for aurora_neural_ui.py)
+rich>=13.0.0
+
+# NLP
+spacy>=3.5.0
+
+# Security Tools (Optional)
+scapy>=2.5.0
+python-nmap>=0.7.0

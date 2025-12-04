@@ -1,0 +1,72 @@
+{
+  "command+v": {
+    "keys": [
+      "command",
+      "v"
+    ],
+    "description": "paste",
+    "app": null,
+    "discovered": "2025-12-01T14:22:22.247689",
+    "times_used": 0
+  },
+  "command+a": {
+    "keys": [
+      "command",
+      "a"
+    ],
+    "description": "select_all",
+    "app": null,
+    "discovered": "2025-11-30T11:06:03.900148",
+    "times_used": 0
+  },
+  "command+space": {
+    "keys": [
+      "command",
+      "space"
+    ],
+    "description": "Open Spotlight search",
+    "app": null,
+    "discovered": "2025-11-30T11:06:22.036140",
+    "times_used": 0
+  },
+  "command+tab": {
+    "keys": [
+      "command",
+      "tab"
+    ],
+    "description": "Switch between apps",
+    "app": null,
+    "discovered": "2025-11-30T11:06:32.112895",
+    "times_used": 0
+  },
+  "command+c": {
+    "keys": [
+      "command",
+      "c"
+    ],
+    "description": "copy",
+    "app": null,
+    "discovered": "2025-11-30T14:32:06.943821",
+    "times_used": 0
+  },
+  "command+z": {
+    "keys": [
+      "command",
+      "z"
+    ],
+    "description": "undo",
+    "app": null,
+    "discovered": "2025-11-30T07:21:08.718617",
+    "times_used": 0
+  },
+  "command+w": {
+    "keys": [
+      "command",
+      "w"
+    ],
+    "description": "close_window",
+    "app": null,
+    "discovered": "2025-11-30T10:51:26.944983",
+    "times_used": 0
+  }
+}

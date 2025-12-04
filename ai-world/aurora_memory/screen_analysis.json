@@ -1,0 +1,1404 @@
+{
+  "insights": [
+    {
+      "insight": "Python | \u25c8 AURORA ULTIMATE v4.0 \u25c8, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764533114.png",
+      "time": "2025-12-01T01:35:15.692288",
+      "session": "session_1764533096"
+    },
+    {
+      "insight": "Python | karthik \u2014 -zsh \u2014 120\u00d730, 860, 499, 169, 287",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764533117.png",
+      "time": "2025-12-01T01:35:18.073965",
+      "session": "session_1764533096"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764578659.png",
+      "time": "2025-12-01T14:14:20.388192",
+      "session": "session_1764578659"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764578661.png",
+      "time": "2025-12-01T14:14:22.577106",
+      "session": "session_1764578659"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764578665.png",
+      "time": "2025-12-01T14:14:26.409699",
+      "session": "session_1764578659"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764578669.png",
+      "time": "2025-12-01T14:14:30.115148",
+      "session": "session_1764578659"
+    },
+    {
+      "insight": "Electron | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764578673.png",
+      "time": "2025-12-01T14:14:35.572107",
+      "session": "session_1764578659"
+    },
+    {
+      "insight": "Comet",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764578675.png",
+      "time": "2025-12-01T14:14:36.889243",
+      "session": "session_1764578659"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579035.png",
+      "time": "2025-12-01T14:20:36.186640",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579037.png",
+      "time": "2025-12-01T14:20:38.553334",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579040.png",
+      "time": "2025-12-01T14:20:41.181592",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579044.png",
+      "time": "2025-12-01T14:20:44.855018",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579047.png",
+      "time": "2025-12-01T14:20:48.947515",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Untitled - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579051.png",
+      "time": "2025-12-01T14:20:52.258518",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Untitled - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579054.png",
+      "time": "2025-12-01T14:20:54.691809",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Electron | Untitled - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579056.png",
+      "time": "2025-12-01T14:20:57.366964",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579059.png",
+      "time": "2025-12-01T14:20:59.894765",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579061.png",
+      "time": "2025-12-01T14:21:02.537988",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579064.png",
+      "time": "2025-12-01T14:21:05.128459",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579066.png",
+      "time": "2025-12-01T14:21:07.826677",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579069.png",
+      "time": "2025-12-01T14:21:10.780339",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | , 239, 100, 892, 73",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579072.png",
+      "time": "2025-12-01T14:21:12.658585",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Sign in to stackoverflow.com with google.com, 375,",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579074.png",
+      "time": "2025-12-01T14:21:14.979738",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579076.png",
+      "time": "2025-12-01T14:21:17.544372",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Sign in to stackoverflow.com with google.com, 375,",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579079.png",
+      "time": "2025-12-01T14:21:20.096003",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Sign in to stackoverflow.com with google.com, 375,",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579081.png",
+      "time": "2025-12-01T14:21:22.542958",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579084.png",
+      "time": "2025-12-01T14:21:26.066378",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Untitled - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579087.png",
+      "time": "2025-12-01T14:21:28.097771",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Sign in to stackoverflow.com with google.com, 375,",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579089.png",
+      "time": "2025-12-01T14:21:30.200971",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Sign in to stackoverflow.com with google.com, 375,",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579092.png",
+      "time": "2025-12-01T14:21:33.033428",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Sign in to stackoverflow.com with google.com, 375,",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579094.png",
+      "time": "2025-12-01T14:21:35.262666",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Sign in to stackoverflow.com with google.com, 375,",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579097.png",
+      "time": "2025-12-01T14:21:37.829893",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Sign in to stackoverflow.com with google.com, 375,",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579099.png",
+      "time": "2025-12-01T14:21:40.266619",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Sign in to stackoverflow.com with google.com, 375,",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579102.png",
+      "time": "2025-12-01T14:21:42.835974",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Newest Questions - Stack Overflow - Comet, 1710, 1",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579104.png",
+      "time": "2025-12-01T14:21:45.850759",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Sign in to stackoverflow.com with google.com, 375,",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579107.png",
+      "time": "2025-12-01T14:21:47.828741",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Sign in to stackoverflow.com with google.com, 375,",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579109.png",
+      "time": "2025-12-01T14:21:50.310795",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Terminal | karthik \u2014 -zsh \u2014 120\u00d730, 860, 499, 169, 287",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579112.png",
+      "time": "2025-12-01T14:21:52.915560",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Terminal | karthik \u2014 -zsh \u2014 120\u00d730, 860, 499, 169, 287",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579114.png",
+      "time": "2025-12-01T14:21:55.464743",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Terminal | karthik \u2014 -zsh \u2014 120\u00d730, 860, 499, 169, 287",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579117.png",
+      "time": "2025-12-01T14:21:58.023640",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Terminal | karthik \u2014 -zsh \u2014 120\u00d730, 860, 499, 169, 287",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579120.png",
+      "time": "2025-12-01T14:22:00.931117",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Terminal | karthik \u2014 -zsh \u2014 120\u00d730, 860, 499, 169, 287",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579122.png",
+      "time": "2025-12-01T14:22:03.433144",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Terminal | karthik \u2014 -zsh \u2014 120\u00d730, 860, 499, 169, 287",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579125.png",
+      "time": "2025-12-01T14:22:05.946650",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Terminal | karthik \u2014 -zsh \u2014 120\u00d730, 860, 499, 169, 287",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579127.png",
+      "time": "2025-12-01T14:22:08.460996",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Terminal | karthik \u2014 -zsh \u2014 120\u00d730, 860, 499, 169, 287",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579130.png",
+      "time": "2025-12-01T14:22:10.995566",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "System Settings",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579132.png",
+      "time": "2025-12-01T14:22:14.282875",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "System Settings | , 723, 1074, 493, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579135.png",
+      "time": "2025-12-01T14:22:16.844165",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "System Settings | , 723, 1074, 493, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579137.png",
+      "time": "2025-12-01T14:22:18.611574",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "System Settings | , 723, 1074, 493, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579140.png",
+      "time": "2025-12-01T14:22:21.160155",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "System Settings | , 723, 1074, 493, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579143.png",
+      "time": "2025-12-01T14:22:23.677345",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "System Settings | , 723, 1074, 493, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579145.png",
+      "time": "2025-12-01T14:22:26.351127",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "System Settings | , 723, 1074, 493, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579148.png",
+      "time": "2025-12-01T14:22:28.783395",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Newest Questions - Stack Overflow - Comet, 1710, 1",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579150.png",
+      "time": "2025-12-01T14:22:32.022263",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "App Store | App\u00a0Store, 1180, 724, 263, 86",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579153.png",
+      "time": "2025-12-01T14:22:34.280823",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "App Store | App\u00a0Store, 1180, 724, 263, 86",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579155.png",
+      "time": "2025-12-01T14:22:36.724143",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "App Store | App\u00a0Store, 1180, 724, 263, 86",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579158.png",
+      "time": "2025-12-01T14:22:38.902021",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "App Store | App\u00a0Store, 1180, 724, 263, 86",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579160.png",
+      "time": "2025-12-01T14:22:41.977185",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "App Store | App\u00a0Store, 1180, 724, 263, 86",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579163.png",
+      "time": "2025-12-01T14:22:44.014793",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | github.com - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579165.png",
+      "time": "2025-12-01T14:22:46.850121",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | , 1710, 39, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579168.png",
+      "time": "2025-12-01T14:22:51.066661",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | GitHub - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579170.png",
+      "time": "2025-12-01T14:22:51.788093",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | , 1350, 428, 157, 64",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579173.png",
+      "time": "2025-12-01T14:22:54.099801",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Terminal | karthik \u2014 -zsh \u2014 120\u00d730, 860, 499, 169, 287",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579175.png",
+      "time": "2025-12-01T14:22:56.576867",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | YouTube - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579178.png",
+      "time": "2025-12-01T14:22:59.436105",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | YouTube - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579181.png",
+      "time": "2025-12-01T14:23:01.914173",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "App Store | App\u00a0Store, 1180, 724, 263, 86",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579183.png",
+      "time": "2025-12-01T14:23:04.552863",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579186.png",
+      "time": "2025-12-01T14:23:06.975680",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Newest Questions - Stack Overflow - Comet, 1710, 1",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579188.png",
+      "time": "2025-12-01T14:23:09.479757",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Chinni Gundelo - Lyrical | Andhra King Taluka | Ra",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579191.png",
+      "time": "2025-12-01T14:23:11.859428",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Chinni Gundelo - Lyrical | Andhra King Taluka | Ra",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579193.png",
+      "time": "2025-12-01T14:23:14.680884",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | GitHub - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579196.png",
+      "time": "2025-12-01T14:23:17.168054",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Chinni Gundelo - Lyrical | Andhra King Taluka | Ra",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579198.png",
+      "time": "2025-12-01T14:23:19.518210",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Chinni Gundelo - Lyrical | Andhra King Taluka | Ra",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579201.png",
+      "time": "2025-12-01T14:23:22.178070",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Chinni Gundelo - Lyrical | Andhra King Taluka | Ra",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579204.png",
+      "time": "2025-12-01T14:23:25.328428",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | Chinni Gundelo - Lyrical | Andhra King Taluka | Ra",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579207.png",
+      "time": "2025-12-01T14:23:28.725541",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Comet | , 451, 50, 629, 84",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579210.png",
+      "time": "2025-12-01T14:23:31.180101",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "App Store",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579213.png",
+      "time": "2025-12-01T14:23:34.440452",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "App Store | App\u00a0Store, 1180, 724, 263, 86",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579216.png",
+      "time": "2025-12-01T14:23:37.027709",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Electron | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579218.png",
+      "time": "2025-12-01T14:23:39.547097",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Electron | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579221.png",
+      "time": "2025-12-01T14:23:42.002334",
+      "session": "session_1764579035"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579395.png",
+      "time": "2025-12-01T14:26:36.217041",
+      "session": "session_1764579395"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579399.png",
+      "time": "2025-12-01T14:26:39.958203",
+      "session": "session_1764579395"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579595.png",
+      "time": "2025-12-01T14:29:55.904335",
+      "session": "session_1764579595"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579597.png",
+      "time": "2025-12-01T14:29:58.271664",
+      "session": "session_1764579595"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579902.png",
+      "time": "2025-12-01T14:35:03.137107",
+      "session": "session_1764579902"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764579904.png",
+      "time": "2025-12-01T14:35:05.481031",
+      "session": "session_1764579902"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764580150.png",
+      "time": "2025-12-01T14:39:11.513898",
+      "session": "session_1764580150"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764580153.png",
+      "time": "2025-12-01T14:39:14.023835",
+      "session": "session_1764580150"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764580157.png",
+      "time": "2025-12-01T14:39:17.747117",
+      "session": "session_1764580150"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764580160.png",
+      "time": "2025-12-01T14:39:21.441881",
+      "session": "session_1764580150"
+    },
+    {
+      "insight": "Comet",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764580163.png",
+      "time": "2025-12-01T14:39:24.689246",
+      "session": "session_1764580150"
+    },
+    {
+      "insight": "Comet | GitHub - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764580165.png",
+      "time": "2025-12-01T14:39:27.156802",
+      "session": "session_1764580150"
+    },
+    {
+      "insight": "Python | Watch Avatar: The Way of Water - JioHotstar - Come",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764580168.png",
+      "time": "2025-12-01T14:39:29.405055",
+      "session": "session_1764580150"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764580170.png",
+      "time": "2025-12-01T14:39:31.592385",
+      "session": "session_1764580150"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764580173.png",
+      "time": "2025-12-01T14:39:34.263633",
+      "session": "session_1764580150"
+    },
+    {
+      "insight": "Comet | Hacker News - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764580175.png",
+      "time": "2025-12-01T14:39:36.797628",
+      "session": "session_1764580150"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764580178.png",
+      "time": "2025-12-01T14:39:39.191221",
+      "session": "session_1764580150"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764580180.png",
+      "time": "2025-12-01T14:39:41.660029",
+      "session": "session_1764580150"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764580183.png",
+      "time": "2025-12-01T14:39:44.105706",
+      "session": "session_1764580150"
+    },
+    {
+      "insight": "System Settings",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764580185.png",
+      "time": "2025-12-01T14:39:47.684194",
+      "session": "session_1764580150"
+    },
+    {
+      "insight": "System Settings | , 723, 1074, 493, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764580188.png",
+      "time": "2025-12-01T14:39:49.057300",
+      "session": "session_1764580150"
+    },
+    {
+      "insight": "App Store | App\u00a0Store, 1180, 724, 263, 86",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764580190.png",
+      "time": "2025-12-01T14:39:51.834539",
+      "session": "session_1764580150"
+    },
+    {
+      "insight": "Activity Monitor | Activity Monitor \u2013 My Processes, 960, 640, 375, 25",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764580193.png",
+      "time": "2025-12-01T14:39:54.219478",
+      "session": "session_1764580150"
+    },
+    {
+      "insight": "Activity Monitor | Activity Monitor \u2013 My Processes, 960, 640, 375, 25",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764580195.png",
+      "time": "2025-12-01T14:39:56.677519",
+      "session": "session_1764580150"
+    },
+    {
+      "insight": "Activity Monitor | Activity Monitor \u2013 My Processes, 960, 640, 375, 25",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764580198.png",
+      "time": "2025-12-01T14:39:59.172714",
+      "session": "session_1764580150"
+    },
+    {
+      "insight": "Activity Monitor",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764580200.png",
+      "time": "2025-12-01T14:40:02.035618",
+      "session": "session_1764580150"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764580204.png",
+      "time": "2025-12-01T14:40:04.884276",
+      "session": "session_1764580150"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764581653.png",
+      "time": "2025-12-01T15:04:14.674172",
+      "session": "session_1764581653"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764581656.png",
+      "time": "2025-12-01T15:04:16.912117",
+      "session": "session_1764581653"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764582236.png",
+      "time": "2025-12-01T15:13:57.880427",
+      "session": "session_1764582236"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764582239.png",
+      "time": "2025-12-01T15:14:00.261935",
+      "session": "session_1764582236"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764582242.png",
+      "time": "2025-12-01T15:14:03.129439",
+      "session": "session_1764582236"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764583027.png",
+      "time": "2025-12-01T15:27:08.038340",
+      "session": "session_1764583027"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764583029.png",
+      "time": "2025-12-01T15:27:10.286745",
+      "session": "session_1764583027"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764583032.png",
+      "time": "2025-12-01T15:27:12.821283",
+      "session": "session_1764583027"
+    },
+    {
+      "insight": "Python",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764583968.png",
+      "time": "2025-12-01T15:42:49.840993",
+      "session": "session_1764583968"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764583971.png",
+      "time": "2025-12-01T15:42:51.901348",
+      "session": "session_1764583968"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764583974.png",
+      "time": "2025-12-01T15:42:55.639873",
+      "session": "session_1764583968"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764583978.png",
+      "time": "2025-12-01T15:42:59.683504",
+      "session": "session_1764583968"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764583982.png",
+      "time": "2025-12-01T15:43:03.102831",
+      "session": "session_1764583968"
+    },
+    {
+      "insight": "App Store",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764583986.png",
+      "time": "2025-12-01T15:43:07.196502",
+      "session": "session_1764583968"
+    },
+    {
+      "insight": "Comet",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764583988.png",
+      "time": "2025-12-01T15:43:11.799722",
+      "session": "session_1764583968"
+    },
+    {
+      "insight": "Comet | Untitled - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764583991.png",
+      "time": "2025-12-01T15:43:12.433816",
+      "session": "session_1764583968"
+    },
+    {
+      "insight": "Comet | GitHub - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764583993.png",
+      "time": "2025-12-01T15:43:15.439348",
+      "session": "session_1764583968"
+    },
+    {
+      "insight": "Comet | GitHub - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764583996.png",
+      "time": "2025-12-01T15:43:17.865733",
+      "session": "session_1764583968"
+    },
+    {
+      "insight": "Comet",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764583998.png",
+      "time": "2025-12-01T15:43:19.964799",
+      "session": "session_1764583968"
+    },
+    {
+      "insight": "Electron | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764584001.png",
+      "time": "2025-12-01T15:43:22.198487",
+      "session": "session_1764583968"
+    },
+    {
+      "insight": "",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764584003.png",
+      "time": "2025-12-01T15:43:24.719403",
+      "session": "session_1764583968"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764603792.png",
+      "time": "2025-12-01T21:13:13.328338",
+      "session": "session_1764603792"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764603794.png",
+      "time": "2025-12-01T21:13:15.627891",
+      "session": "session_1764603792"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764603798.png",
+      "time": "2025-12-01T21:13:19.387185",
+      "session": "session_1764603792"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764603935.png",
+      "time": "2025-12-01T21:15:36.506931",
+      "session": "session_1764603935"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764603938.png",
+      "time": "2025-12-01T21:15:39.004840",
+      "session": "session_1764603935"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764603942.png",
+      "time": "2025-12-01T21:15:42.759181",
+      "session": "session_1764603935"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764603945.png",
+      "time": "2025-12-01T21:15:46.468072",
+      "session": "session_1764603935"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764604433.png",
+      "time": "2025-12-01T21:23:54.677330",
+      "session": "session_1764604433"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764604435.png",
+      "time": "2025-12-01T21:23:56.536400",
+      "session": "session_1764604433"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764604439.png",
+      "time": "2025-12-01T21:24:00.329387",
+      "session": "session_1764604433"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764604443.png",
+      "time": "2025-12-01T21:24:04.160129",
+      "session": "session_1764604433"
+    },
+    {
+      "insight": "Comet | GitHub - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764604445.png",
+      "time": "2025-12-01T21:24:06.802262",
+      "session": "session_1764604433"
+    },
+    {
+      "insight": "Python | , 1710, 83, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764604448.png",
+      "time": "2025-12-01T21:24:09.064028",
+      "session": "session_1764604433"
+    },
+    {
+      "insight": "Python | , 1710, 83, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764604450.png",
+      "time": "2025-12-01T21:24:12.034636",
+      "session": "session_1764604433"
+    },
+    {
+      "insight": "Comet | Untitled - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764604453.png",
+      "time": "2025-12-01T21:24:14.421818",
+      "session": "session_1764604433"
+    },
+    {
+      "insight": "Comet | Newest Questions - Stack Overflow - Comet, 1710, 1",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764604456.png",
+      "time": "2025-12-01T21:24:16.594095",
+      "session": "session_1764604433"
+    },
+    {
+      "insight": "Comet | Sign in to stackoverflow.com with google.com, 375,",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764604458.png",
+      "time": "2025-12-01T21:24:19.732063",
+      "session": "session_1764604433"
+    },
+    {
+      "insight": "Comet | Sign in to stackoverflow.com with google.com, 375,",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764604461.png",
+      "time": "2025-12-01T21:24:21.970319",
+      "session": "session_1764604433"
+    },
+    {
+      "insight": "Comet | Untitled - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764604463.png",
+      "time": "2025-12-01T21:24:25.109936",
+      "session": "session_1764604433"
+    },
+    {
+      "insight": "Comet | Hacker News - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764604466.png",
+      "time": "2025-12-01T21:24:27.271570",
+      "session": "session_1764604433"
+    },
+    {
+      "insight": "Comet | Hacker News - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764604468.png",
+      "time": "2025-12-01T21:24:29.296838",
+      "session": "session_1764604433"
+    },
+    {
+      "insight": "Comet | Hacker News - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764604471.png",
+      "time": "2025-12-01T21:24:31.681841",
+      "session": "session_1764604433"
+    },
+    {
+      "insight": "Comet | Hacker News - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764604473.png",
+      "time": "2025-12-01T21:24:34.178819",
+      "session": "session_1764604433"
+    },
+    {
+      "insight": "System Settings | , 723, 1074, 493, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764604476.png",
+      "time": "2025-12-01T21:24:37.173527",
+      "session": "session_1764604433"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764605677.png",
+      "time": "2025-12-01T21:44:38.474313",
+      "session": "session_1764605677"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764605681.png",
+      "time": "2025-12-01T21:44:41.938169",
+      "session": "session_1764605677"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764605685.png",
+      "time": "2025-12-01T21:44:45.720211",
+      "session": "session_1764605677"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764605688.png",
+      "time": "2025-12-01T21:44:49.536399",
+      "session": "session_1764605677"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764605692.png",
+      "time": "2025-12-01T21:44:53.213844",
+      "session": "session_1764605677"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764605696.png",
+      "time": "2025-12-01T21:44:56.982472",
+      "session": "session_1764605677"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764605698.png",
+      "time": "2025-12-01T21:44:59.617088",
+      "session": "session_1764605677"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764605701.png",
+      "time": "2025-12-01T21:45:03.131339",
+      "session": "session_1764605677"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764605703.png",
+      "time": "2025-12-01T21:45:04.661774",
+      "session": "session_1764605677"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764605706.png",
+      "time": "2025-12-01T21:45:07.128643",
+      "session": "session_1764605677"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764605708.png",
+      "time": "2025-12-01T21:45:09.486541",
+      "session": "session_1764605677"
+    },
+    {
+      "insight": "Terminal | karthik \u2014 -zsh \u2014 120\u00d730, 860, 499, 169, 287",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764605711.png",
+      "time": "2025-12-01T21:45:12.009932",
+      "session": "session_1764605677"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764605713.png",
+      "time": "2025-12-01T21:45:14.794450",
+      "session": "session_1764605677"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764605843.png",
+      "time": "2025-12-01T21:47:24.543537",
+      "session": "session_1764605843"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764605846.png",
+      "time": "2025-12-01T21:47:27.087904",
+      "session": "session_1764605843"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764605850.png",
+      "time": "2025-12-01T21:47:30.731256",
+      "session": "session_1764605843"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764605992.png",
+      "time": "2025-12-01T21:49:52.953882",
+      "session": "session_1764605992"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764605994.png",
+      "time": "2025-12-01T21:49:55.518762",
+      "session": "session_1764605992"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607423.png",
+      "time": "2025-12-01T22:13:45.003333",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607426.png",
+      "time": "2025-12-01T22:13:47.136629",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607428.png",
+      "time": "2025-12-01T22:13:49.497939",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607432.png",
+      "time": "2025-12-01T22:13:53.266233",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607435.png",
+      "time": "2025-12-01T22:13:55.797012",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Python | AURORA ULTIMATE v4.0, 1500, 978, 5, 43",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607437.png",
+      "time": "2025-12-01T22:13:58.295092",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Comet | Untitled - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607440.png",
+      "time": "2025-12-01T22:14:00.768129",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Electron | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607442.png",
+      "time": "2025-12-01T22:14:03.516986",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Comet | GitHub - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607445.png",
+      "time": "2025-12-01T22:14:05.884054",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Python",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607447.png",
+      "time": "2025-12-01T22:14:08.580044",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607450.png",
+      "time": "2025-12-01T22:14:11.151510",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607452.png",
+      "time": "2025-12-01T22:14:13.475534",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Comet | Untitled - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607455.png",
+      "time": "2025-12-01T22:14:15.879051",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607457.png",
+      "time": "2025-12-01T22:14:18.705991",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607460.png",
+      "time": "2025-12-01T22:14:20.919682",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607462.png",
+      "time": "2025-12-01T22:14:23.451423",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607465.png",
+      "time": "2025-12-01T22:14:26.024807",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607467.png",
+      "time": "2025-12-01T22:14:28.693528",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607470.png",
+      "time": "2025-12-01T22:14:31.037879",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607472.png",
+      "time": "2025-12-01T22:14:33.534043",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607475.png",
+      "time": "2025-12-01T22:14:36.170144",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607477.png",
+      "time": "2025-12-01T22:14:38.569142",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607480.png",
+      "time": "2025-12-01T22:14:41.135583",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Python | , 1710, 39, 0, 0",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607482.png",
+      "time": "2025-12-01T22:14:43.563227",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Comet | Hacker News - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607485.png",
+      "time": "2025-12-01T22:14:46.366964",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Comet | Hacker News - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607487.png",
+      "time": "2025-12-01T22:14:48.536524",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Comet | Hacker News - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607490.png",
+      "time": "2025-12-01T22:14:51.034186",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Comet | Hacker News - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607492.png",
+      "time": "2025-12-01T22:14:53.551574",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Comet | Hacker News - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607495.png",
+      "time": "2025-12-01T22:14:56.035470",
+      "session": "session_1764607423"
+    },
+    {
+      "insight": "Comet | GitHub - Comet, 1710, 1066, 0, 38",
+      "elements": null,
+      "screenshot": "/tmp/aurora_screen_1764607497.png",
+      "time": "2025-12-01T22:14:59.124460",
+      "session": "session_1764607423"
+    }
+  ]
+}

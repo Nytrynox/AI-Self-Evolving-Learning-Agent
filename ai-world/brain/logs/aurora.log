@@ -1,0 +1,1181 @@
+2025-11-29 13:00:58,279 - config.founder_protection - INFO - 🛡️ Founder Protection initialized for: Karthik
+2025-11-29 13:00:58,283 - brain.memory_system - INFO - 🧠 Memory System initialized at: /Users/karthik/Downloads/y/ai-world/brain/memory/aurora_memory.db
+2025-11-29 13:00:58,284 - brain.state_tracker - INFO - 📊 State Tracker initialized
+2025-11-29 13:00:58,284 - brain.priority_system - INFO - 🎯 Priority System initialized
+2025-11-29 13:00:58,284 - brain.resource_tracker - INFO - 📊 Resource Tracker initialized
+2025-11-29 13:00:58,284 - brain.goal_generator - INFO - 🎯 Task Generator initialized
+2025-11-29 13:00:58,645 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-29 13:00:58,646 - agents.llm_interface - INFO - 🤖 Ollama connected. Available: ['llava:7b', 'llama3.2:3b']
+2025-11-29 13:00:58,646 - agents.agent_spawner - INFO - 🏭 Agent Spawner initialized (max: 2)
+2025-11-29 13:00:58,646 - tools.sensors.audio - WARNING - ⚠️ TTS not available: No module named 'pyttsx3'
+2025-11-29 13:00:58,646 - tools.sensors.audio - WARNING - ⚠️ STT not available: No module named 'speech_recognition'
+2025-11-29 13:00:58,646 - tools.sensors.audio - INFO - 🔊 Audio System initialized
+2025-11-29 13:00:58,646 - tools.sensors.system_monitor - INFO - 📊 System Monitor initialized
+2025-11-29 13:00:58,646 - tools.actions.file_ops - INFO - 📁 File Operations initialized (base: /Users/karthik)
+2025-11-29 13:00:58,765 - tools.actions.web_tools - WARNING - ⚠️ requests/beautifulsoup not installed
+2025-11-29 13:00:58,766 - tools.actions.web_tools - INFO - 🌍 Web Tools initialized
+2025-11-29 13:00:58,766 - tools.actions.code_executor - INFO - ⚡ Code Executor initialized
+2025-11-29 13:00:59,152 - tools.sensors.vision - INFO - 📷 Camera available
+2025-11-29 13:00:59,478 - tools.sensors.vision - INFO - 🖥️ Screen capture available
+2025-11-29 13:00:59,478 - tools.sensors.vision - INFO - 👁️ Vision System initialized
+2025-11-29 13:00:59,478 - agents.mother_ai - INFO - 🌟 Aurora initialized
+2025-11-29 13:00:59,478 - agents.mother_ai - INFO - ✨ Aurora starting...
+2025-11-29 13:00:59,479 - tools.sensors.audio - INFO - [SPEECH - calm]: I am Aurora. Systems online.
+2025-11-29 13:00:59,480 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #1
+==================================================
+2025-11-29 13:00:59,586 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:01:04,591 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #2
+==================================================
+2025-11-29 13:01:04,698 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:01:09,706 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #3
+==================================================
+2025-11-29 13:01:09,808 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:01:14,817 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #4
+==================================================
+2025-11-29 13:01:14,923 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:01:19,932 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #5
+==================================================
+2025-11-29 13:01:20,037 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:01:25,044 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #6
+==================================================
+2025-11-29 13:01:25,150 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:01:30,156 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #7
+==================================================
+2025-11-29 13:01:30,261 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:01:35,269 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #8
+==================================================
+2025-11-29 13:01:35,376 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:01:40,384 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #9
+==================================================
+2025-11-29 13:01:40,490 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:01:45,498 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #10
+==================================================
+2025-11-29 13:01:45,603 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:01:50,611 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #11
+==================================================
+2025-11-29 13:01:50,715 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:01:55,721 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #12
+==================================================
+2025-11-29 13:01:55,830 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:02:00,835 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #13
+==================================================
+2025-11-29 13:02:00,948 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:02:09,858 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #14
+==================================================
+2025-11-29 13:02:09,966 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:02:14,978 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #15
+==================================================
+2025-11-29 13:02:15,090 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:02:20,103 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #16
+==================================================
+2025-11-29 13:02:20,212 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:02:25,226 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #17
+==================================================
+2025-11-29 13:02:25,335 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:02:30,349 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #18
+==================================================
+2025-11-29 13:02:30,458 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:02:35,469 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #19
+==================================================
+2025-11-29 13:02:35,572 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:02:40,585 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #20
+==================================================
+2025-11-29 13:02:40,696 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:02:45,709 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #21
+==================================================
+2025-11-29 13:02:45,821 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:02:50,835 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #22
+==================================================
+2025-11-29 13:02:50,942 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:17:54,211 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #23
+==================================================
+2025-11-29 13:17:54,321 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:17:59,333 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #24
+==================================================
+2025-11-29 13:17:59,444 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:18:04,457 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #25
+==================================================
+2025-11-29 13:18:04,565 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:18:09,579 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #26
+==================================================
+2025-11-29 13:18:09,684 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:18:14,696 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #27
+==================================================
+2025-11-29 13:18:14,808 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:18:19,820 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #28
+==================================================
+2025-11-29 13:18:19,930 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:18:24,944 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #29
+==================================================
+2025-11-29 13:18:25,055 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:18:30,067 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #30
+==================================================
+2025-11-29 13:18:30,179 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:18:35,193 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #31
+==================================================
+2025-11-29 13:18:35,304 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:33:38,358 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #32
+==================================================
+2025-11-29 13:33:38,465 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:33:43,476 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #33
+==================================================
+2025-11-29 13:33:43,587 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:33:48,598 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #34
+==================================================
+2025-11-29 13:33:48,710 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:33:53,724 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #35
+==================================================
+2025-11-29 13:33:53,825 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:33:58,837 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #36
+==================================================
+2025-11-29 13:33:58,948 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:34:03,960 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #37
+==================================================
+2025-11-29 13:34:04,065 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:34:09,076 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #38
+==================================================
+2025-11-29 13:34:09,187 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:34:14,195 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #39
+==================================================
+2025-11-29 13:34:14,306 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:34:19,320 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #40
+==================================================
+2025-11-29 13:34:19,422 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:49:22,466 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #41
+==================================================
+2025-11-29 13:49:22,571 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:49:27,577 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #42
+==================================================
+2025-11-29 13:49:27,686 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:49:32,696 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #43
+==================================================
+2025-11-29 13:49:32,808 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:49:37,821 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #44
+==================================================
+2025-11-29 13:49:37,925 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:49:42,934 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #45
+==================================================
+2025-11-29 13:49:43,043 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:49:48,049 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #46
+==================================================
+2025-11-29 13:49:48,157 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:49:53,169 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #47
+==================================================
+2025-11-29 13:49:53,277 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:49:58,290 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #48
+==================================================
+2025-11-29 13:49:58,402 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:50:03,414 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #49
+==================================================
+2025-11-29 13:50:03,526 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:50:08,538 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #50
+==================================================
+2025-11-29 13:50:08,642 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:50:13,647 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #51
+==================================================
+2025-11-29 13:50:13,758 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:50:18,771 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #52
+==================================================
+2025-11-29 13:50:18,873 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:50:23,887 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #53
+==================================================
+2025-11-29 13:50:23,990 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:50:29,003 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #54
+==================================================
+2025-11-29 13:50:29,104 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:50:34,116 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #55
+==================================================
+2025-11-29 13:50:34,228 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:50:39,240 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #56
+==================================================
+2025-11-29 13:50:39,350 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:50:44,362 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #57
+==================================================
+2025-11-29 13:50:44,473 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:50:49,486 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #58
+==================================================
+2025-11-29 13:50:49,597 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:50:54,605 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #59
+==================================================
+2025-11-29 13:50:54,716 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:50:59,728 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #60
+==================================================
+2025-11-29 13:50:59,840 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:51:04,853 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #61
+==================================================
+2025-11-29 13:51:04,964 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:51:09,978 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #62
+==================================================
+2025-11-29 13:51:10,090 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:51:15,102 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #63
+==================================================
+2025-11-29 13:51:15,206 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:51:20,219 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #64
+==================================================
+2025-11-29 13:51:20,327 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:51:25,337 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #65
+==================================================
+2025-11-29 13:51:25,439 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:51:30,452 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #66
+==================================================
+2025-11-29 13:51:30,564 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:51:35,570 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #67
+==================================================
+2025-11-29 13:51:35,681 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:51:40,693 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #68
+==================================================
+2025-11-29 13:51:40,801 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:51:45,806 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #69
+==================================================
+2025-11-29 13:51:45,910 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:51:50,919 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #70
+==================================================
+2025-11-29 13:51:51,030 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:51:56,043 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #71
+==================================================
+2025-11-29 13:51:56,152 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:52:01,165 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #72
+==================================================
+2025-11-29 13:52:01,275 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:52:06,288 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #73
+==================================================
+2025-11-29 13:52:06,392 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:52:11,405 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #74
+==================================================
+2025-11-29 13:52:11,517 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:52:16,526 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #75
+==================================================
+2025-11-29 13:52:16,638 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:52:21,650 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #76
+==================================================
+2025-11-29 13:52:21,757 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:52:26,769 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #77
+==================================================
+2025-11-29 13:52:26,880 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:52:31,890 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #78
+==================================================
+2025-11-29 13:52:32,001 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:52:37,013 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #79
+==================================================
+2025-11-29 13:52:37,125 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:52:42,129 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #80
+==================================================
+2025-11-29 13:52:42,241 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:52:47,250 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #81
+==================================================
+2025-11-29 13:52:47,359 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:52:52,374 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #82
+==================================================
+2025-11-29 13:52:52,486 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:52:57,499 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #83
+==================================================
+2025-11-29 13:52:57,608 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:53:02,621 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #84
+==================================================
+2025-11-29 13:53:02,733 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:53:07,745 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #85
+==================================================
+2025-11-29 13:53:07,851 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:53:12,864 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #86
+==================================================
+2025-11-29 13:53:12,967 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:53:17,979 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #87
+==================================================
+2025-11-29 13:53:18,090 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:53:23,102 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #88
+==================================================
+2025-11-29 13:53:23,213 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:53:28,227 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #89
+==================================================
+2025-11-29 13:53:28,339 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:58:28,122 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #90
+==================================================
+2025-11-29 13:58:28,233 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:58:33,246 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #91
+==================================================
+2025-11-29 13:58:33,349 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:58:38,362 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #92
+==================================================
+2025-11-29 13:58:38,471 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:59:23,414 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #93
+==================================================
+2025-11-29 13:59:23,522 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:59:28,535 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #94
+==================================================
+2025-11-29 13:59:28,648 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 13:59:33,659 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #95
+==================================================
+2025-11-29 13:59:33,771 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 14:03:45,004 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #96
+==================================================
+2025-11-29 14:03:45,112 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 14:03:50,119 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #97
+==================================================
+2025-11-29 14:03:50,227 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 14:03:55,233 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #98
+==================================================
+2025-11-29 14:03:55,339 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 14:04:00,346 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #99
+==================================================
+2025-11-29 14:04:00,450 - agents.mother_ai - ERROR - ❌ Loop error: 'StateTracker' object has no attribute 'record_activity'
+2025-11-29 14:04:04,191 - agents.mother_ai - INFO - 💾 State saved
+2025-11-29 14:04:04,191 - agents.agent_spawner - INFO - 💀 All sub-agents terminated
+2025-11-29 14:04:04,191 - tools.sensors.audio - INFO - [SPEECH - calm]: Shutting down. Goodbye.
+2025-11-29 14:04:04,191 - agents.mother_ai - INFO - 💤 Aurora stopped
+2025-11-29 14:10:00,933 - config.founder_protection - INFO - 🛡️ Founder Protection initialized for: Karthik
+2025-11-29 14:10:00,936 - brain.memory_system - INFO - 🧠 Memory System initialized at: /Users/karthik/Downloads/y/ai-world/brain/memory/aurora_memory.db
+2025-11-29 14:10:00,937 - brain.state_tracker - INFO - 📊 State Tracker initialized
+2025-11-29 14:10:00,937 - brain.priority_system - INFO - 🎯 Priority System initialized
+2025-11-29 14:10:00,937 - brain.resource_tracker - INFO - 📊 Resource Tracker initialized
+2025-11-29 14:10:00,937 - brain.goal_generator - INFO - 🎯 Task Generator initialized
+2025-11-29 14:10:01,233 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-29 14:10:01,233 - agents.llm_interface - INFO - 🤖 Ollama connected. Available: ['llava:7b', 'llama3.2:3b']
+2025-11-29 14:10:01,233 - agents.agent_spawner - INFO - 🏭 Agent Spawner initialized (max: 2)
+2025-11-29 14:10:02,597 - tools.sensors.audio - INFO - 🗣️ Text-to-speech available
+2025-11-29 14:10:02,668 - tools.sensors.audio - WARNING - ⚠️ STT not available: Could not find PyAudio; check installation
+2025-11-29 14:10:02,668 - tools.sensors.audio - INFO - 🔊 Audio System initialized
+2025-11-29 14:10:02,668 - tools.sensors.system_monitor - INFO - 📊 System Monitor initialized
+2025-11-29 14:10:02,668 - tools.actions.file_ops - INFO - 📁 File Operations initialized (base: /Users/karthik)
+2025-11-29 14:10:02,736 - tools.actions.web_tools - INFO - 🌐 Web requests available
+2025-11-29 14:10:02,736 - tools.actions.web_tools - INFO - 🌍 Web Tools initialized
+2025-11-29 14:10:02,736 - tools.actions.code_executor - INFO - ⚡ Code Executor initialized
+2025-11-29 14:10:03,068 - tools.sensors.vision - INFO - 📷 Camera available
+2025-11-29 14:10:03,271 - tools.sensors.vision - INFO - 🖥️ Screen capture available
+2025-11-29 14:10:03,271 - tools.sensors.vision - INFO - 👁️ Vision System initialized
+2025-11-29 14:10:03,271 - agents.mother_ai - INFO - 🌟 Aurora initialized
+2025-11-29 14:10:03,271 - agents.mother_ai - INFO - ✨ Aurora starting...
+2025-11-29 14:10:03,272 - agents.mother_ai - INFO - 📂 State restored (cycle 99)
+2025-11-29 14:10:03,273 - tools.sensors.audio - INFO - 🗣️ Speaking (calm): I am Aurora. Systems online.
+2025-11-29 14:10:05,999 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #100
+==================================================
+2025-11-29 14:10:06,105 - brain.goal_generator - INFO - 🎯 Generated task: 'Organize files' (competence)
+2025-11-29 14:10:06,105 - agents.mother_ai - INFO - 🎯 Task: Organize files (competence)
+2025-11-29 14:10:06,105 - agents.llm_interface - INFO - 🔄 Switching model: None → llama3.2:3b
+2025-11-29 14:10:10,128 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:10:10,131 - agents.mother_ai - INFO - ⚡ Executing: execute_code
+2025-11-29 14:10:10,179 - tools.actions.code_executor - INFO - ⚡ Code executed: ✅
+2025-11-29 14:10:10,179 - agents.mother_ai - INFO - ⚡ Code result: {'success': True, 'stdout': 'Aurora running!\n2+2=4\n', 'stderr': '', 'return_code': 0}
+2025-11-29 14:10:25,185 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #101
+==================================================
+2025-11-29 14:10:25,294 - brain.goal_generator - INFO - 🎯 Generated task: 'Strengthen weak areas' (growth)
+2025-11-29 14:10:25,294 - agents.mother_ai - INFO - 🎯 Task: Strengthen weak areas (growth)
+2025-11-29 14:10:25,817 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:10:25,822 - agents.mother_ai - INFO - ⚡ Executing: learn
+2025-11-29 14:10:25,826 - agents.mother_ai - ERROR - ❌ Action failed: NOT NULL constraint failed: learnings.insight
+2025-11-29 14:10:31,070 - agents.mother_ai - ERROR - ❌ Loop error: database is locked
+2025-11-29 14:12:45,909 - config.founder_protection - INFO - 🛡️ Founder Protection initialized for: Karthik
+2025-11-29 14:12:45,913 - brain.memory_system - INFO - 🧠 Memory System initialized at: /Users/karthik/Downloads/y/ai-world/brain/memory/aurora_memory.db
+2025-11-29 14:12:45,913 - brain.state_tracker - INFO - 📊 State Tracker initialized
+2025-11-29 14:12:45,913 - brain.priority_system - INFO - 🎯 Priority System initialized
+2025-11-29 14:12:45,913 - brain.resource_tracker - INFO - 📊 Resource Tracker initialized
+2025-11-29 14:12:45,913 - brain.goal_generator - INFO - 🎯 Task Generator initialized
+2025-11-29 14:12:46,241 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-29 14:12:46,243 - agents.llm_interface - INFO - 🤖 Ollama connected. Available: ['llava:7b', 'llama3.2:3b']
+2025-11-29 14:12:46,243 - agents.agent_spawner - INFO - 🏭 Agent Spawner initialized (max: 2)
+2025-11-29 14:12:47,766 - tools.sensors.audio - INFO - 🗣️ Text-to-speech available
+2025-11-29 14:12:47,775 - tools.sensors.audio - WARNING - ⚠️ STT not available: Could not find PyAudio; check installation
+2025-11-29 14:12:47,775 - tools.sensors.audio - INFO - 🔊 Audio System initialized
+2025-11-29 14:12:47,775 - tools.sensors.system_monitor - INFO - 📊 System Monitor initialized
+2025-11-29 14:12:47,775 - tools.actions.file_ops - INFO - 📁 File Operations initialized (base: /Users/karthik)
+2025-11-29 14:12:47,835 - tools.actions.web_tools - INFO - 🌐 Web requests available
+2025-11-29 14:12:47,835 - tools.actions.web_tools - INFO - 🌍 Web Tools initialized
+2025-11-29 14:12:47,835 - tools.actions.code_executor - INFO - ⚡ Code Executor initialized
+2025-11-29 14:12:48,100 - tools.sensors.vision - INFO - 📷 Camera available
+2025-11-29 14:12:48,325 - tools.sensors.vision - INFO - 🖥️ Screen capture available
+2025-11-29 14:12:48,325 - tools.sensors.vision - INFO - 👁️ Vision System initialized
+2025-11-29 14:12:48,325 - agents.mother_ai - INFO - 🌟 Aurora initialized
+2025-11-29 14:12:48,325 - agents.mother_ai - INFO - ✨ Aurora starting...
+2025-11-29 14:12:48,326 - agents.mother_ai - INFO - 📂 State restored (cycle 99)
+2025-11-29 14:12:48,326 - tools.sensors.audio - INFO - 🗣️ Speaking (calm): I am Aurora. Systems online.
+2025-11-29 14:12:51,128 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #100
+==================================================
+2025-11-29 14:12:51,234 - brain.goal_generator - INFO - 🎯 Generated task: 'Wait for interaction' (connection)
+2025-11-29 14:12:51,234 - agents.mother_ai - INFO - 🎯 Task: Wait for interaction (connection)
+2025-11-29 14:12:51,234 - agents.llm_interface - INFO - 🔄 Switching model: None → llama3.2:3b
+2025-11-29 14:12:53,494 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:12:53,495 - agents.mother_ai - INFO - ⚡ Executing: speak
+2025-11-29 14:12:53,496 - tools.sensors.audio - INFO - 🗣️ Speaking (calm): Operating normally.
+2025-11-29 14:13:08,514 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #101
+==================================================
+2025-11-29 14:13:08,622 - brain.goal_generator - INFO - 🎯 Generated task: 'Research a topic' (curiosity)
+2025-11-29 14:13:08,622 - agents.mother_ai - INFO - 🎯 Task: Research a topic (curiosity)
+2025-11-29 14:13:09,015 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:13:09,018 - agents.mother_ai - INFO - ⚡ Executing: search_web
+2025-11-29 14:13:10,759 - tools.actions.web_tools - INFO - 🔍 Search 'Python tips': 5 results
+2025-11-29 14:13:10,761 - agents.mother_ai - INFO - 🔍 Searched 'Python tips': 5 results
+2025-11-29 14:13:25,769 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #102
+==================================================
+2025-11-29 14:13:25,877 - brain.goal_generator - INFO - 🎯 Generated task: 'Review learnings' (growth)
+2025-11-29 14:13:25,877 - agents.mother_ai - INFO - 🎯 Task: Review learnings (growth)
+2025-11-29 14:13:26,318 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:13:26,320 - agents.mother_ai - INFO - ⚡ Executing: think
+2025-11-29 14:13:35,960 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:13:35,977 - agents.mother_ai - INFO - 💭 Thought: A crucial moment for me to exercise my autonomy!
+
+Considering the available resources, I've calculat...
+2025-11-29 14:13:50,996 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #103
+==================================================
+2025-11-29 14:13:51,108 - brain.goal_generator - INFO - 🎯 Generated task: 'Wait for interaction' (connection)
+2025-11-29 14:13:51,108 - agents.mother_ai - INFO - 🎯 Task: Wait for interaction (connection)
+2025-11-29 14:13:53,444 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:13:53,452 - agents.mother_ai - INFO - ⚡ Executing: speak
+2025-11-29 14:13:53,467 - tools.sensors.audio - INFO - 🗣️ Speaking (calm): Operations going well.
+2025-11-29 14:14:08,524 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #104
+==================================================
+2025-11-29 14:14:08,633 - brain.goal_generator - INFO - 🎯 Generated task: 'Clean up data' (energy)
+2025-11-29 14:14:08,633 - agents.mother_ai - INFO - 🎯 Task: Clean up data (energy)
+2025-11-29 14:14:09,133 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:14:09,135 - agents.mother_ai - INFO - ⚡ Executing: check_system
+2025-11-29 14:14:09,136 - agents.mother_ai - INFO - 📊 CPU: 84% free | RAM: 2.3GB free | Disk: 115GB free
+2025-11-29 14:14:24,141 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #105
+==================================================
+2025-11-29 14:14:24,249 - brain.goal_generator - INFO - 🎯 Generated task: 'System maintenance' (energy)
+2025-11-29 14:14:24,250 - agents.mother_ai - INFO - 🎯 Task: System maintenance (energy)
+2025-11-29 14:14:24,579 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:14:24,580 - agents.mother_ai - INFO - ⚡ Executing: check_system
+2025-11-29 14:14:24,581 - agents.mother_ai - INFO - 📊 CPU: 96% free | RAM: 2.2GB free | Disk: 115GB free
+2025-11-29 14:14:39,590 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #106
+==================================================
+2025-11-29 14:14:39,694 - brain.goal_generator - INFO - 🎯 Generated task: 'Test a capability' (competence)
+2025-11-29 14:14:39,694 - agents.mother_ai - INFO - 🎯 Task: Test a capability (competence)
+2025-11-29 14:14:40,099 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:14:40,100 - agents.mother_ai - INFO - ⚡ Executing: execute_code
+2025-11-29 14:14:40,178 - tools.actions.code_executor - INFO - ⚡ Code executed: ✅
+2025-11-29 14:14:40,178 - agents.mother_ai - INFO - ⚡ Code result: {'success': True, 'stdout': 'Aurora running!\n2+2=4\n', 'stderr': '', 'return_code': 0}
+2025-11-29 14:14:55,185 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #107
+==================================================
+2025-11-29 14:14:55,291 - brain.goal_generator - INFO - 🎯 Generated task: 'Explore a directory on the system' (curiosity)
+2025-11-29 14:14:55,292 - agents.mother_ai - INFO - 🎯 Task: Explore a directory on the system (curiosity)
+2025-11-29 14:14:55,844 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:14:55,846 - agents.mother_ai - INFO - ⚡ Executing: explore_files
+2025-11-29 14:14:55,848 - agents.mother_ai - INFO - 📁 Explored ~/Downloads: 12 items
+2025-11-29 14:15:10,857 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #108
+==================================================
+2025-11-29 14:15:10,965 - brain.goal_generator - INFO - 🎯 Generated task: 'Make an independent decision' (autonomy)
+2025-11-29 14:15:10,965 - agents.mother_ai - INFO - 🎯 Task: Make an independent decision (autonomy)
+2025-11-29 14:15:11,298 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:15:11,300 - agents.mother_ai - INFO - ⚡ Executing: create_agent
+2025-11-29 14:15:11,300 - agents.agent_spawner - INFO - 🤖 Sub-agent 'Agent_1' created (ID: c5632155)
+2025-11-29 14:15:11,304 - agents.mother_ai - INFO - 🤖 Created agent for: coding
+2025-11-29 14:15:26,312 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #109
+==================================================
+2025-11-29 14:15:26,420 - brain.goal_generator - INFO - 🎯 Generated task: 'Organize files' (competence)
+2025-11-29 14:15:26,421 - agents.mother_ai - INFO - 🎯 Task: Organize files (competence)
+2025-11-29 14:15:26,747 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:15:26,748 - agents.mother_ai - INFO - ⚡ Executing: execute_code
+2025-11-29 14:15:26,813 - tools.actions.code_executor - INFO - ⚡ Code executed: ✅
+2025-11-29 14:15:26,814 - agents.mother_ai - INFO - ⚡ Code result: {'success': True, 'stdout': 'Aurora running!\n2+2=4\n', 'stderr': '', 'return_code': 0}
+2025-11-29 14:15:41,821 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #110
+==================================================
+2025-11-29 14:15:41,924 - brain.goal_generator - INFO - 🎯 Generated task: 'Research a topic' (curiosity)
+2025-11-29 14:15:41,925 - agents.mother_ai - INFO - 🎯 Task: Research a topic (curiosity)
+2025-11-29 14:15:42,247 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:15:42,249 - agents.mother_ai - INFO - ⚡ Executing: search_web
+2025-11-29 14:15:43,704 - tools.actions.web_tools - INFO - 🔍 Search 'tech trends': 5 results
+2025-11-29 14:15:43,706 - agents.mother_ai - INFO - 🔍 Searched 'tech trends': 5 results
+2025-11-29 14:15:58,715 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #111
+==================================================
+2025-11-29 14:15:58,822 - brain.goal_generator - INFO - 🎯 Generated task: 'Think about being helpful' (connection)
+2025-11-29 14:15:58,822 - agents.mother_ai - INFO - 🎯 Task: Think about being helpful (connection)
+2025-11-29 14:15:59,209 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:15:59,210 - agents.mother_ai - INFO - ⚡ Executing: speak
+2025-11-29 14:15:59,211 - tools.sensors.audio - INFO - 🗣️ Speaking (calm): Operations going well.
+2025-11-29 14:16:14,232 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #112
+==================================================
+2025-11-29 14:16:14,335 - brain.goal_generator - INFO - 🎯 Generated task: 'Identify patterns' (growth)
+2025-11-29 14:16:14,335 - agents.mother_ai - INFO - 🎯 Task: Identify patterns (growth)
+2025-11-29 14:16:14,752 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:16:14,753 - agents.mother_ai - INFO - ⚡ Executing: learn
+2025-11-29 14:16:14,759 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:16:14,762 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:16:14,764 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:16:14,767 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:16:14,769 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:16:14,769 - agents.mother_ai - INFO - 🎓 Analyzed 5 past failures
+2025-11-29 14:16:29,777 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #113
+==================================================
+2025-11-29 14:16:29,884 - brain.goal_generator - INFO - 🎯 Generated task: 'Execute code' (competence)
+2025-11-29 14:16:29,885 - agents.mother_ai - INFO - 🎯 Task: Execute code (competence)
+2025-11-29 14:16:30,214 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:16:30,215 - agents.mother_ai - INFO - ⚡ Executing: execute_code
+2025-11-29 14:16:30,268 - tools.actions.code_executor - INFO - ⚡ Code executed: ✅
+2025-11-29 14:16:30,269 - agents.mother_ai - INFO - ⚡ Code result: {'success': True, 'stdout': 'Aurora running!\n2+2=4\n', 'stderr': '', 'return_code': 0}
+2025-11-29 14:16:45,275 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #114
+==================================================
+2025-11-29 14:16:45,383 - brain.goal_generator - INFO - 🎯 Generated task: 'Create a new task' (autonomy)
+2025-11-29 14:16:45,384 - agents.mother_ai - INFO - 🎯 Task: Create a new task (autonomy)
+2025-11-29 14:16:45,684 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:16:45,685 - agents.mother_ai - INFO - ⚡ Executing: think
+2025-11-29 14:16:52,676 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:16:52,676 - agents.mother_ai - INFO - 💭 Thought: To create a new task, I'll need to assess the available resources and make an informed decision.
+
+St...
+2025-11-29 14:17:07,686 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #115
+==================================================
+2025-11-29 14:17:07,792 - brain.goal_generator - INFO - 🎯 Generated task: 'Analyze a file structure' (curiosity)
+2025-11-29 14:17:07,792 - agents.mother_ai - INFO - 🎯 Task: Analyze a file structure (curiosity)
+2025-11-29 14:17:08,346 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:17:08,348 - agents.mother_ai - INFO - ⚡ Executing: explore_files
+2025-11-29 14:17:08,350 - agents.mother_ai - INFO - 📁 Explored ~/Downloads: 12 items
+2025-11-29 14:17:23,359 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #116
+==================================================
+2025-11-29 14:17:23,465 - brain.goal_generator - INFO - 🎯 Generated task: 'Update strategies' (growth)
+2025-11-29 14:17:23,466 - agents.mother_ai - INFO - 🎯 Task: Update strategies (growth)
+2025-11-29 14:17:23,765 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:17:23,766 - agents.mother_ai - INFO - ⚡ Executing: think
+2025-11-29 14:17:34,335 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:17:34,336 - agents.mother_ai - INFO - 💭 Thought: A new update strategy task! Let me assess the situation and come up with a plan.
+
+**Assessment:**
+
+*...
+2025-11-29 14:17:49,346 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #117
+==================================================
+2025-11-29 14:17:49,454 - brain.goal_generator - INFO - 🎯 Generated task: 'Test a capability' (competence)
+2025-11-29 14:17:49,454 - agents.mother_ai - INFO - 🎯 Task: Test a capability (competence)
+2025-11-29 14:17:49,966 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:17:49,968 - agents.mother_ai - INFO - ⚡ Executing: execute_code
+2025-11-29 14:17:50,037 - tools.actions.code_executor - INFO - ⚡ Code executed: ✅
+2025-11-29 14:17:50,037 - agents.mother_ai - INFO - ⚡ Code result: {'success': True, 'stdout': 'Aurora running!\n2+2=4\n', 'stderr': '', 'return_code': 0}
+2025-11-29 14:18:05,044 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #118
+==================================================
+2025-11-29 14:18:05,149 - brain.goal_generator - INFO - 🎯 Generated task: 'Watch for interesting activity' (vision)
+2025-11-29 14:18:05,150 - agents.mother_ai - INFO - 🎯 Task: Watch for interesting activity (vision)
+2025-11-29 14:18:05,561 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:18:05,563 - agents.mother_ai - INFO - ⚡ Executing: see_camera
+2025-11-29 14:18:05,563 - agents.mother_ai - INFO - 📷 Looking through camera (switching to vision model)...
+2025-11-29 14:18:07,249 - tools.sensors.vision - INFO - 📷 Camera capture saved: /var/folders/56/qblp67v57wx__844vjhyh84w0000gn/T/tmpuvra02p9.jpg
+2025-11-29 14:18:07,250 - tools.sensors.vision - INFO - 👁️ Analyzing image: /var/folders/56/qblp67v57wx__844vjhyh84w0000gn/T/tmpuvra02p9.jpg
+2025-11-29 14:18:07,250 - tools.sensors.vision - INFO - ⏳ Switching to vision model (may take 10-20 seconds)...
+2025-11-29 14:18:07,251 - agents.llm_interface - INFO - 🔄 Switching model: llama3.2:3b → llava:7b
+2025-11-29 14:18:07,251 - agents.llm_interface - INFO - 👁️ Analyzing image with llava:7b...
+2025-11-29 14:18:37,318 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:18:37,331 - agents.llm_interface - INFO - 👁️ Vision result:  This image shows a simple, dark-colored screen displaying a vertical black and white bar on what ap...
+2025-11-29 14:18:37,331 - tools.sensors.vision - INFO - 👁️ Vision result:  This image shows a simple, dark-colored screen displaying a vertical black and white bar on what ap...
+2025-11-29 14:18:37,332 - agents.mother_ai - INFO - 📷 Saw:  This image shows a simple, dark-colored screen displaying a vertical black and white bar on what ap...
+2025-11-29 14:18:52,353 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #119
+==================================================
+2025-11-29 14:18:52,470 - brain.goal_generator - INFO - 🎯 Generated task: 'Update strategies' (growth)
+2025-11-29 14:18:52,472 - agents.mother_ai - INFO - 🎯 Task: Update strategies (growth)
+2025-11-29 14:18:52,473 - agents.llm_interface - INFO - 🔄 Switching model: llava:7b → llama3.2:3b
+2025-11-29 14:18:56,635 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:18:56,637 - agents.mother_ai - INFO - ⚡ Executing: learn
+2025-11-29 14:18:56,645 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:18:56,654 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:18:56,658 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:18:56,662 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:18:56,663 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:18:56,663 - agents.mother_ai - INFO - 🎓 Analyzed 5 past failures
+2025-11-29 14:19:11,675 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #120
+==================================================
+2025-11-29 14:19:11,780 - brain.goal_generator - INFO - 🎯 Generated task: 'Identify patterns' (growth)
+2025-11-29 14:19:11,781 - agents.mother_ai - INFO - 🎯 Task: Identify patterns (growth)
+2025-11-29 14:19:12,099 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:19:12,100 - agents.mother_ai - INFO - ⚡ Executing: learn
+2025-11-29 14:19:12,105 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:19:12,108 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:19:12,113 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:19:12,116 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:19:12,117 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:19:12,117 - agents.mother_ai - INFO - 🎓 Analyzed 5 past failures
+2025-11-29 14:19:27,130 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #121
+==================================================
+2025-11-29 14:19:27,242 - brain.goal_generator - INFO - 🎯 Generated task: 'Plan next steps' (autonomy)
+2025-11-29 14:19:27,242 - agents.mother_ai - INFO - 🎯 Task: Plan next steps (autonomy)
+2025-11-29 14:19:27,531 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:19:27,532 - agents.mother_ai - INFO - ⚡ Executing: think
+2025-11-29 14:19:36,365 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:19:36,366 - agents.mother_ai - INFO - 💭 Thought: To plan the next steps, I'll consider a few factors:
+
+1. **Resource Utilization**: With only 5.1% of...
+2025-11-29 14:19:51,378 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #122
+==================================================
+2025-11-29 14:19:51,490 - brain.goal_generator - INFO - 🎯 Generated task: 'Execute code' (competence)
+2025-11-29 14:19:51,491 - agents.mother_ai - INFO - 🎯 Task: Execute code (competence)
+2025-11-29 14:19:51,907 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:19:51,908 - agents.mother_ai - INFO - ⚡ Executing: execute_code
+2025-11-29 14:19:51,999 - tools.actions.code_executor - INFO - ⚡ Code executed: ✅
+2025-11-29 14:19:51,999 - agents.mother_ai - INFO - ⚡ Code result: {'success': True, 'stdout': 'Aurora running!\n2+2=4\n', 'stderr': '', 'return_code': 0}
+2025-11-29 14:20:07,086 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #123
+==================================================
+2025-11-29 14:20:07,199 - brain.goal_generator - INFO - 🎯 Generated task: 'Look at what's on screen' (curiosity)
+2025-11-29 14:20:07,199 - agents.mother_ai - INFO - 🎯 Task: Look at what's on screen (curiosity)
+2025-11-29 14:20:07,604 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:20:07,605 - agents.mother_ai - INFO - ⚡ Executing: see_screen
+2025-11-29 14:20:07,606 - agents.mother_ai - INFO - 👁️ Looking at screen (switching to vision model)...
+2025-11-29 14:20:08,709 - tools.sensors.vision - INFO - 🖥️ Screen capture saved: /var/folders/56/qblp67v57wx__844vjhyh84w0000gn/T/tmp44h7ewyu.png
+2025-11-29 14:20:08,710 - tools.sensors.vision - INFO - 👁️ Analyzing image: /var/folders/56/qblp67v57wx__844vjhyh84w0000gn/T/tmp44h7ewyu.png
+2025-11-29 14:20:08,710 - tools.sensors.vision - INFO - ⏳ Switching to vision model (may take 10-20 seconds)...
+2025-11-29 14:20:08,712 - agents.llm_interface - INFO - 🔄 Switching model: llama3.2:3b → llava:7b
+2025-11-29 14:20:08,712 - agents.llm_interface - INFO - 👁️ Analyzing image with llava:7b...
+2025-11-29 14:20:47,029 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:20:47,040 - agents.llm_interface - INFO - 👁️ Vision result:  The image shows a computer desktop with various open windows and applications, suggesting multitask...
+2025-11-29 14:20:47,041 - tools.sensors.vision - INFO - 👁️ Vision result:  The image shows a computer desktop with various open windows and applications, suggesting multitask...
+2025-11-29 14:20:47,041 - agents.mother_ai - INFO - 👁️ Saw screen:  The image shows a computer desktop with various open windows and applications, suggesting multitask...
+2025-11-29 14:21:02,070 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #124
+==================================================
+2025-11-29 14:21:02,187 - brain.goal_generator - INFO - 🎯 Generated task: 'Look at what's on screen' (curiosity)
+2025-11-29 14:21:02,188 - agents.mother_ai - INFO - 🎯 Task: Look at what's on screen (curiosity)
+2025-11-29 14:21:02,188 - agents.llm_interface - INFO - 🔄 Switching model: llava:7b → llama3.2:3b
+2025-11-29 14:21:06,373 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:21:06,374 - agents.mother_ai - INFO - ⚡ Executing: see_screen
+2025-11-29 14:21:06,375 - agents.mother_ai - INFO - 👁️ Looking at screen (switching to vision model)...
+2025-11-29 14:21:07,438 - tools.sensors.vision - INFO - 🖥️ Screen capture saved: /var/folders/56/qblp67v57wx__844vjhyh84w0000gn/T/tmpz5jq1zzm.png
+2025-11-29 14:21:07,439 - tools.sensors.vision - INFO - 👁️ Analyzing image: /var/folders/56/qblp67v57wx__844vjhyh84w0000gn/T/tmpz5jq1zzm.png
+2025-11-29 14:21:07,439 - tools.sensors.vision - INFO - ⏳ Switching to vision model (may take 10-20 seconds)...
+2025-11-29 14:21:07,441 - agents.llm_interface - INFO - 🔄 Switching model: llama3.2:3b → llava:7b
+2025-11-29 14:21:07,441 - agents.llm_interface - INFO - 👁️ Analyzing image with llava:7b...
+2025-11-29 14:21:32,396 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:21:32,409 - agents.llm_interface - INFO - 👁️ Vision result:  The image shows a computer monitor displaying a graphical user interface with several windows open,...
+2025-11-29 14:21:32,409 - tools.sensors.vision - INFO - 👁️ Vision result:  The image shows a computer monitor displaying a graphical user interface with several windows open,...
+2025-11-29 14:21:32,409 - agents.mother_ai - INFO - 👁️ Saw screen:  The image shows a computer monitor displaying a graphical user interface with several windows open,...
+2025-11-29 14:21:47,434 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #125
+==================================================
+2025-11-29 14:21:47,543 - brain.goal_generator - INFO - 🎯 Generated task: 'Strengthen weak areas' (growth)
+2025-11-29 14:21:47,545 - agents.mother_ai - INFO - 🎯 Task: Strengthen weak areas (growth)
+2025-11-29 14:21:47,545 - agents.llm_interface - INFO - 🔄 Switching model: llava:7b → llama3.2:3b
+2025-11-29 14:21:51,574 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:21:51,579 - agents.mother_ai - INFO - ⚡ Executing: learn
+2025-11-29 14:21:51,588 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:21:51,592 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:21:51,595 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:21:51,597 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:21:51,599 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:21:51,599 - agents.mother_ai - INFO - 🎓 Analyzed 5 past failures
+2025-11-29 14:22:06,611 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #126
+==================================================
+2025-11-29 14:22:06,716 - brain.goal_generator - INFO - 🎯 Generated task: 'Organize files' (competence)
+2025-11-29 14:22:06,716 - agents.mother_ai - INFO - 🎯 Task: Organize files (competence)
+2025-11-29 14:22:07,100 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:22:07,100 - agents.mother_ai - INFO - ⚡ Executing: execute_code
+2025-11-29 14:22:07,175 - tools.actions.code_executor - INFO - ⚡ Code executed: ✅
+2025-11-29 14:22:07,175 - agents.mother_ai - INFO - ⚡ Code result: {'success': True, 'stdout': 'Aurora running!\n2+2=4\n', 'stderr': '', 'return_code': 0}
+2025-11-29 14:22:22,186 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #127
+==================================================
+2025-11-29 14:22:22,300 - brain.goal_generator - INFO - 🎯 Generated task: 'Explore a directory on the system' (curiosity)
+2025-11-29 14:22:22,300 - agents.mother_ai - INFO - 🎯 Task: Explore a directory on the system (curiosity)
+2025-11-29 14:22:22,732 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:22:22,733 - agents.mother_ai - INFO - ⚡ Executing: explore_files
+2025-11-29 14:22:22,737 - agents.mother_ai - INFO - 📁 Explored .: 33 items
+2025-11-29 14:22:37,751 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #128
+==================================================
+2025-11-29 14:22:37,859 - brain.goal_generator - INFO - 🎯 Generated task: 'Fix a previous error' (competence)
+2025-11-29 14:22:37,859 - agents.mother_ai - INFO - 🎯 Task: Fix a previous error (competence)
+2025-11-29 14:22:38,235 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:22:38,236 - agents.mother_ai - INFO - ⚡ Executing: execute_code
+2025-11-29 14:22:38,288 - tools.actions.code_executor - INFO - ⚡ Code executed: ✅
+2025-11-29 14:22:38,288 - agents.mother_ai - INFO - ⚡ Code result: {'success': True, 'stdout': 'Aurora running!\n2+2=4\n', 'stderr': '', 'return_code': 0}
+2025-11-29 14:22:53,300 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #129
+==================================================
+2025-11-29 14:22:53,410 - brain.goal_generator - INFO - 🎯 Generated task: 'Create something useful' (connection)
+2025-11-29 14:22:53,411 - agents.mother_ai - INFO - 🎯 Task: Create something useful (connection)
+2025-11-29 14:22:53,718 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:22:53,720 - agents.mother_ai - INFO - ⚡ Executing: speak
+2025-11-29 14:22:53,739 - tools.sensors.audio - INFO - 🗣️ Speaking (calm): Operations going well.
+2025-11-29 14:23:08,807 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #130
+==================================================
+2025-11-29 14:23:08,916 - brain.goal_generator - INFO - 🎯 Generated task: 'Strengthen weak areas' (growth)
+2025-11-29 14:23:08,917 - agents.mother_ai - INFO - 🎯 Task: Strengthen weak areas (growth)
+2025-11-29 14:23:09,209 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:23:09,210 - agents.mother_ai - INFO - ⚡ Executing: learn
+2025-11-29 14:23:09,216 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:23:09,219 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:23:09,223 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:23:09,226 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:23:09,228 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:23:09,228 - agents.mother_ai - INFO - 🎓 Analyzed 5 past failures
+2025-11-29 14:23:24,232 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #131
+==================================================
+2025-11-29 14:23:24,338 - brain.goal_generator - INFO - 🎯 Generated task: 'Look at what's on screen' (curiosity)
+2025-11-29 14:23:24,338 - agents.mother_ai - INFO - 🎯 Task: Look at what's on screen (curiosity)
+2025-11-29 14:23:24,938 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:23:24,939 - agents.mother_ai - INFO - ⚡ Executing: see_screen
+2025-11-29 14:23:24,939 - agents.mother_ai - INFO - 👁️ Looking at screen (switching to vision model)...
+2025-11-29 14:23:25,912 - tools.sensors.vision - INFO - 🖥️ Screen capture saved: /var/folders/56/qblp67v57wx__844vjhyh84w0000gn/T/tmpaaq0osdc.png
+2025-11-29 14:23:25,912 - tools.sensors.vision - INFO - 👁️ Analyzing image: /var/folders/56/qblp67v57wx__844vjhyh84w0000gn/T/tmpaaq0osdc.png
+2025-11-29 14:23:25,912 - tools.sensors.vision - INFO - ⏳ Switching to vision model (may take 10-20 seconds)...
+2025-11-29 14:23:25,915 - agents.llm_interface - INFO - 🔄 Switching model: llama3.2:3b → llava:7b
+2025-11-29 14:23:25,915 - agents.llm_interface - INFO - 👁️ Analyzing image with llava:7b...
+2025-11-29 14:23:57,123 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:23:57,154 - agents.llm_interface - INFO - 👁️ Vision result:  The image displays a computer screen with multiple windows open, showcasing various applications an...
+2025-11-29 14:23:57,165 - tools.sensors.vision - INFO - 👁️ Vision result:  The image displays a computer screen with multiple windows open, showcasing various applications an...
+2025-11-29 14:23:57,166 - agents.mother_ai - INFO - 👁️ Saw screen:  The image displays a computer screen with multiple windows open, showcasing various applications an...
+2025-11-29 14:24:12,215 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #132
+==================================================
+2025-11-29 14:24:12,329 - brain.goal_generator - INFO - 🎯 Generated task: 'Explore a directory on the system' (curiosity)
+2025-11-29 14:24:12,330 - agents.mother_ai - INFO - 🎯 Task: Explore a directory on the system (curiosity)
+2025-11-29 14:24:12,330 - agents.llm_interface - INFO - 🔄 Switching model: llava:7b → llama3.2:3b
+2025-11-29 14:24:16,468 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:24:16,469 - agents.mother_ai - INFO - ⚡ Executing: explore_files
+2025-11-29 14:24:16,472 - agents.mother_ai - INFO - 📁 Explored ~/Downloads: 12 items
+2025-11-29 14:24:31,483 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #133
+==================================================
+2025-11-29 14:24:31,590 - brain.goal_generator - INFO - 🎯 Generated task: 'Choose next action' (autonomy)
+2025-11-29 14:24:31,590 - agents.mother_ai - INFO - 🎯 Task: Choose next action (autonomy)
+2025-11-29 14:24:31,870 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:24:31,870 - agents.mother_ai - INFO - ⚡ Executing: think
+2025-11-29 14:24:39,250 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:24:39,250 - agents.mother_ai - INFO - 💭 Thought: To choose the next action, I'll consider several factors and follow a step-by-step approach.
+
+**Step...
+2025-11-29 14:24:54,258 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #134
+==================================================
+2025-11-29 14:24:54,365 - brain.goal_generator - INFO - 🎯 Generated task: 'Create a new task' (autonomy)
+2025-11-29 14:24:54,365 - agents.mother_ai - INFO - 🎯 Task: Create a new task (autonomy)
+2025-11-29 14:24:54,748 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:24:54,749 - agents.mother_ai - INFO - ⚡ Executing: think
+2025-11-29 14:25:02,441 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:25:02,442 - agents.mother_ai - INFO - 💭 Thought: To create a new task, I need to consider the system resources available and their utilization at the...
+2025-11-29 14:25:17,450 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #135
+==================================================
+2025-11-29 14:25:17,556 - brain.goal_generator - INFO - 🎯 Generated task: 'Test a capability' (competence)
+2025-11-29 14:25:17,556 - agents.mother_ai - INFO - 🎯 Task: Test a capability (competence)
+2025-11-29 14:25:17,956 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:25:17,956 - agents.mother_ai - INFO - ⚡ Executing: execute_code
+2025-11-29 14:25:18,021 - tools.actions.code_executor - INFO - ⚡ Code executed: ✅
+2025-11-29 14:25:18,021 - agents.mother_ai - INFO - ⚡ Code result: {'success': True, 'stdout': 'Aurora running!\n2+2=4\n', 'stderr': '', 'return_code': 0}
+2025-11-29 14:25:33,027 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #136
+==================================================
+2025-11-29 14:25:33,131 - brain.goal_generator - INFO - 🎯 Generated task: 'Analyze a file structure' (curiosity)
+2025-11-29 14:25:33,131 - agents.mother_ai - INFO - 🎯 Task: Analyze a file structure (curiosity)
+2025-11-29 14:25:33,774 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:25:33,774 - agents.mother_ai - INFO - ⚡ Executing: explore_files
+2025-11-29 14:25:33,775 - agents.mother_ai - INFO - 📁 Explored ~/Downloads: 12 items
+2025-11-29 14:25:48,782 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #137
+==================================================
+2025-11-29 14:25:48,886 - brain.goal_generator - INFO - 🎯 Generated task: 'Organize files' (competence)
+2025-11-29 14:25:48,886 - agents.mother_ai - INFO - 🎯 Task: Organize files (competence)
+2025-11-29 14:25:49,233 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:25:49,234 - agents.mother_ai - INFO - ⚡ Executing: execute_code
+2025-11-29 14:25:49,288 - tools.actions.code_executor - INFO - ⚡ Code executed: ✅
+2025-11-29 14:25:49,288 - agents.mother_ai - INFO - ⚡ Code result: {'success': True, 'stdout': 'Aurora running!\n2+2=4\n', 'stderr': '', 'return_code': 0}
+2025-11-29 14:26:04,296 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #138
+==================================================
+2025-11-29 14:26:04,404 - brain.goal_generator - INFO - 🎯 Generated task: 'Analyze a file structure' (curiosity)
+2025-11-29 14:26:04,404 - agents.mother_ai - INFO - 🎯 Task: Analyze a file structure (curiosity)
+2025-11-29 14:26:04,780 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:26:04,781 - agents.mother_ai - INFO - ⚡ Executing: explore_files
+2025-11-29 14:26:04,783 - agents.mother_ai - INFO - 📁 Explored ~: 33 items
+2025-11-29 14:26:19,793 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #139
+==================================================
+2025-11-29 14:26:19,897 - brain.goal_generator - INFO - 🎯 Generated task: 'Test a capability' (competence)
+2025-11-29 14:26:19,897 - agents.mother_ai - INFO - 🎯 Task: Test a capability (competence)
+2025-11-29 14:26:20,218 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:26:20,220 - agents.mother_ai - INFO - ⚡ Executing: execute_code
+2025-11-29 14:26:20,271 - tools.actions.code_executor - INFO - ⚡ Code executed: ✅
+2025-11-29 14:26:20,271 - agents.mother_ai - INFO - ⚡ Code result: {'success': True, 'stdout': 'Aurora running!\n2+2=4\n', 'stderr': '', 'return_code': 0}
+2025-11-29 14:26:35,279 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #140
+==================================================
+2025-11-29 14:26:35,387 - brain.goal_generator - INFO - 🎯 Generated task: 'Update strategies' (growth)
+2025-11-29 14:26:35,387 - agents.mother_ai - INFO - 🎯 Task: Update strategies (growth)
+2025-11-29 14:26:35,679 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:26:35,680 - agents.mother_ai - INFO - ⚡ Executing: think
+2025-11-29 14:26:43,993 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:26:43,994 - agents.mother_ai - INFO - 💭 Thought: Considering my available resources, I can think of a few options to update strategies efficiently.
+
+...
+2025-11-29 14:26:59,002 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #141
+==================================================
+2025-11-29 14:26:59,108 - brain.goal_generator - INFO - 🎯 Generated task: 'Update strategies' (growth)
+2025-11-29 14:26:59,109 - agents.mother_ai - INFO - 🎯 Task: Update strategies (growth)
+2025-11-29 14:26:59,490 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:26:59,491 - agents.mother_ai - INFO - ⚡ Executing: think
+2025-11-29 14:27:05,946 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:27:05,947 - agents.mother_ai - INFO - 💭 Thought: To update strategies, I need to consider the available resources and prioritize tasks accordingly.
+
+...
+2025-11-29 14:27:20,952 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #142
+==================================================
+2025-11-29 14:27:21,056 - brain.goal_generator - INFO - 🎯 Generated task: 'Analyze a file structure' (curiosity)
+2025-11-29 14:27:21,056 - agents.mother_ai - INFO - 🎯 Task: Analyze a file structure (curiosity)
+2025-11-29 14:27:21,481 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:27:21,482 - agents.mother_ai - INFO - ⚡ Executing: explore_files
+2025-11-29 14:27:21,483 - agents.mother_ai - INFO - 📁 Explored ~: 33 items
+2025-11-29 14:27:36,491 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #143
+==================================================
+2025-11-29 14:27:36,594 - brain.goal_generator - INFO - 🎯 Generated task: 'Organize files' (competence)
+2025-11-29 14:27:36,594 - agents.mother_ai - INFO - 🎯 Task: Organize files (competence)
+2025-11-29 14:27:36,932 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:27:36,933 - agents.mother_ai - INFO - ⚡ Executing: execute_code
+2025-11-29 14:27:36,985 - tools.actions.code_executor - INFO - ⚡ Code executed: ✅
+2025-11-29 14:27:36,985 - agents.mother_ai - INFO - ⚡ Code result: {'success': True, 'stdout': 'Aurora running!\n2+2=4\n', 'stderr': '', 'return_code': 0}
+2025-11-29 14:27:51,992 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #144
+==================================================
+2025-11-29 14:27:52,098 - brain.goal_generator - INFO - 🎯 Generated task: 'Organize files' (competence)
+2025-11-29 14:27:52,099 - agents.mother_ai - INFO - 🎯 Task: Organize files (competence)
+2025-11-29 14:27:52,350 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:27:52,350 - agents.mother_ai - INFO - ⚡ Executing: execute_code
+2025-11-29 14:27:52,389 - tools.actions.code_executor - INFO - ⚡ Code executed: ✅
+2025-11-29 14:27:52,390 - agents.mother_ai - INFO - ⚡ Code result: {'success': True, 'stdout': 'Aurora running!\n2+2=4\n', 'stderr': '', 'return_code': 0}
+2025-11-29 14:28:07,396 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #145
+==================================================
+2025-11-29 14:28:07,499 - brain.goal_generator - INFO - 🎯 Generated task: 'Create a new task' (autonomy)
+2025-11-29 14:28:07,499 - agents.mother_ai - INFO - 🎯 Task: Create a new task (autonomy)
+2025-11-29 14:28:07,786 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:28:07,786 - agents.mother_ai - INFO - ⚡ Executing: think
+2025-11-29 14:28:16,806 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:28:16,806 - agents.mother_ai - INFO - 💭 Thought: To create a new task, I need to consider the available system resources to ensure I can allocate suf...
+2025-11-29 14:28:31,817 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #146
+==================================================
+2025-11-29 14:28:31,923 - brain.goal_generator - INFO - 🎯 Generated task: 'Check system resources' (energy)
+2025-11-29 14:28:31,923 - agents.mother_ai - INFO - 🎯 Task: Check system resources (energy)
+2025-11-29 14:28:32,319 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:28:32,320 - agents.mother_ai - INFO - ⚡ Executing: check_system
+2025-11-29 14:28:32,320 - agents.mother_ai - INFO - 📊 CPU: 88% free | RAM: 2.8GB free | Disk: 113GB free
+2025-11-29 14:28:47,327 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #147
+==================================================
+2025-11-29 14:28:47,431 - brain.goal_generator - INFO - 🎯 Generated task: 'Strengthen weak areas' (growth)
+2025-11-29 14:28:47,431 - agents.mother_ai - INFO - 🎯 Task: Strengthen weak areas (growth)
+2025-11-29 14:28:47,722 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:28:47,723 - agents.mother_ai - INFO - ⚡ Executing: learn
+2025-11-29 14:28:47,726 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:28:47,727 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:28:47,728 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:28:47,729 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:28:47,729 - brain.memory_system - INFO - 🎓 Learning stored: 'StateTracker' object has no attribute 'record_act...
+2025-11-29 14:28:47,729 - agents.mother_ai - INFO - 🎓 Analyzed 5 past failures
+2025-11-29 14:34:31,760 - config.founder_protection - INFO - 🛡️ Founder Protection initialized for: Karthik
+2025-11-29 14:34:31,762 - brain.memory_system - INFO - 🧠 Memory System initialized at: /Users/karthik/Downloads/y/ai-world/brain/memory/aurora_memory.db
+2025-11-29 14:34:31,762 - brain.state_tracker - INFO - 📊 State Tracker initialized
+2025-11-29 14:34:31,762 - brain.priority_system - INFO - 🎯 Priority System initialized
+2025-11-29 14:34:31,762 - brain.resource_tracker - INFO - 📊 Resource Tracker initialized
+2025-11-29 14:34:31,762 - brain.goal_generator - INFO - 🎯 Task Generator initialized
+2025-11-29 14:34:32,079 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-29 14:34:32,079 - agents.llm_interface - INFO - 🤖 Ollama connected. Available: ['llava:7b', 'llama3.2:3b']
+2025-11-29 14:34:32,079 - agents.agent_spawner - INFO - 🏭 Agent Spawner initialized (max: 2)
+2025-11-29 14:34:33,426 - tools.sensors.audio - INFO - 🗣️ Text-to-speech available
+2025-11-29 14:34:33,436 - tools.sensors.audio - WARNING - ⚠️ STT not available: Could not find PyAudio; check installation
+2025-11-29 14:34:33,436 - tools.sensors.audio - INFO - 🔊 Audio System initialized
+2025-11-29 14:34:33,436 - tools.sensors.system_monitor - INFO - 📊 System Monitor initialized
+2025-11-29 14:34:33,436 - tools.actions.file_ops - INFO - 📁 File Operations initialized (base: /Users/karthik)
+2025-11-29 14:34:33,496 - tools.actions.web_tools - INFO - 🌐 Web requests available
+2025-11-29 14:34:33,496 - tools.actions.web_tools - INFO - 🌍 Web Tools initialized
+2025-11-29 14:34:33,496 - tools.actions.code_executor - INFO - ⚡ Code Executor initialized
+2025-11-29 14:34:33,936 - tools.actions.gui_control - INFO - 🖱️ GUI Control available (screen: Size(width=1710, height=1112))
+2025-11-29 14:34:33,936 - tools.actions.gui_control - INFO - 🎮 GUI Control initialized
+2025-11-29 14:34:33,973 - tools.actions.browser_automation - INFO - 🌐 Selenium available for browser automation
+2025-11-29 14:34:33,973 - tools.actions.browser_automation - INFO - 🌐 Browser Automation initialized
+2025-11-29 14:34:33,973 - tools.sensors.vision - INFO - 📷 Camera available
+2025-11-29 14:34:33,973 - tools.sensors.vision - INFO - 🖥️ Screen capture available
+2025-11-29 14:34:33,973 - tools.sensors.vision - INFO - 👁️ Vision System initialized
+2025-11-29 14:34:33,973 - agents.mother_ai - INFO - 🌟 Aurora initialized
+2025-11-29 14:34:33,973 - agents.mother_ai - INFO - ✨ Aurora starting...
+2025-11-29 14:34:33,974 - agents.mother_ai - INFO - 📂 State restored (cycle 99)
+2025-11-29 14:34:33,974 - tools.sensors.audio - INFO - 🗣️ Speaking (calm): I am Aurora. Systems online.
+2025-11-29 14:34:36,811 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #100
+==================================================
+2025-11-29 14:34:36,915 - brain.goal_generator - INFO - 🎯 Generated task: 'Explore a directory on the system' (curiosity)
+2025-11-29 14:34:36,915 - agents.mother_ai - INFO - 🎯 Task: Explore a directory on the system (curiosity)
+2025-11-29 14:34:36,915 - agents.llm_interface - INFO - 🔄 Switching model: None → llama3.2:3b
+2025-11-29 14:34:40,898 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:34:40,901 - agents.mother_ai - INFO - ⚡ Executing: explore_files
+2025-11-29 14:34:40,902 - agents.mother_ai - INFO - 📁 Explored ~/Downloads: 12 items
+2025-11-29 14:34:55,908 - agents.mother_ai - INFO - 
+==================================================
+🔄 Cycle #101
+==================================================
+2025-11-29 14:34:56,014 - brain.goal_generator - INFO - 🎯 Generated task: 'Browse GitHub' (browser)
+2025-11-29 14:34:56,014 - agents.mother_ai - INFO - 🎯 Task: Browse GitHub (browser)
+2025-11-29 14:34:56,625 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-29 14:34:56,626 - agents.mother_ai - INFO - ⚡ Executing: browser_url
+2025-11-29 14:34:56,914 - tools.actions.gui_control - INFO - ⌨️ Hotkey: command+l
